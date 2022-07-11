@@ -10,7 +10,7 @@ class Result extends DataObject
 
     private static $db = [
         'Age' => 'Int',
-        'DateOfList' => 'Date',
+        'DateOfLift' => 'Date',
         'Gender' => 'Enum("M, F, U")',
         'Squat' => 'Decimal',
         'Bench' => 'Decimal',

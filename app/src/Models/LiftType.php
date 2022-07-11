@@ -10,6 +10,7 @@ class LiftType extends DataObject
 
     private static $db = [
         'Title' => 'Varchar',
+        'Description' => 'Text',
         'Active' => 'Boolean',
     ];
 }
