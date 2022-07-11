@@ -12,9 +12,21 @@ class Lifter extends DataObject
         'Title' => 'Varchar',
         'Gender' => 'Enum("M, F, U")',
         'DateOfBirth' => 'Date',
-        'OpenPowerlifting' => 'Varchar',
+        'LifterLink' => 'Varchar',
         'Active' => 'Boolean',
     ];
+
+    private static $summary_fields = [
+        'Title',
+        'Gender',
+        'DateOfBirth',
+        'RecordLink',
+        'Active'
+    ];
+
+    protected function getRecordLink() {
+        return 'https://openpowerlifting.org/' . $this->LifterLink;
+    }
 }
 
 
