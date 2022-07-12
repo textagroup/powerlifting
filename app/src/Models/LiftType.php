@@ -6,7 +6,7 @@ use SilverStripe\ORM\DataObject;
 
 class LiftType extends DataObject 
 {
-    private static $table_name = 'LifrType';
+    private static $table_name = 'LiftType';
 
     private static $db = [
         'Title' => 'Varchar',
