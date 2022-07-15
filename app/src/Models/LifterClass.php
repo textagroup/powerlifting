@@ -2,6 +2,7 @@
 
 namespace Powerlifting;
 
+use Page;
 use SilverStripe\ORM\DataObject;
 use SilverStripe\Forms\ListboxField;
 use SilverStripe\Versioned\Versioned;
@@ -33,6 +34,10 @@ class LifterClass extends DataObject
         'Affiliation' => Affiliation::class,
         'LiftType' => LiftType::class
     ];
+
+	private static $belongs_many_many = [
+		'RecordTables' => Page::class,
+	];
 
     /**
      * returns the current (or standard) record for a lifter class
