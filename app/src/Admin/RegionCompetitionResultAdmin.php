@@ -8,9 +8,9 @@ class RegionCompetitionResultAdmin extends ModelAdmin
 {
 
     private static $managed_models = [
+        Result::class,
         Region::class,
-        Competition::class,
-        Result::class
+        Competition::class
     ];
 
     private static $url_segment = 'region-competition-result';

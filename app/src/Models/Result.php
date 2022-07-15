@@ -26,7 +26,34 @@ class Result extends DataObject
 
     private static $has_one = [
         'Competition' => Competition::class,
-        'LiftType' => LiftType::class,
-        'Lifter' => Lifter::class
+        'Lifter' => Lifter::class,
+        'LifterClass' => LifterClass::class,
+        'LiftType' => LiftType::class
     ];
+
+    private static $defaults = [
+        'active' => 1
+    ];
+
+    private static $summary_fields = [
+        'Lifter.Title' => 'Lifter',
+        'Competition.Title' => 'Competition',
+        'Active'
+    ];
+
+    public function onAfterWrite()
+    {
+        parent::onAfterWrite();
+        if ($this->Active == 0) {
+            return;
+        }
+        Record::recordBroken($this, $this->LifterClass());
+        $children = json_decode($this->LifterClass()->Override);
+        if ($children) {
+            foreach ($children as $id) {
+                $class = LifterClass::get_by_id($id);
+                Record::recordBroken($this, $class);
+            }
+        }
+    }
 }
