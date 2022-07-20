@@ -8,6 +8,10 @@ use SilverStripe\Security\Member;
 $validator = PasswordValidator::create();
 // Settings are registered via Injector configuration - see passwords.yml in framework
 Member::set_password_validator($validator);
-if (defined('SS_BASE_URL')) { // set base url for Heroku so css files are not blocked
-    Director::config()->set('alternate_base_url', SS_BASE_URL);
+// Hack: set base url for Heroku so css files are not blocked
+$url = getenv('SS_BASE_URL');
+
+if (isset($url) && $url != '') {
+    Director::config()->set('alternate_base_url', (rtrim($url, '/') . '/'));
+    Director::config()->set('cookie_path', '/');
 }
