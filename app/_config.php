@@ -13,5 +13,4 @@ $url = getenv('SS_BASE_URL');
 
 if (isset($url) && $url != '') {
     Director::config()->set('alternate_base_url', (rtrim($url, '/') . '/'));
-    Director::config()->set('cookie_path', '/');
 }
