@@ -51,10 +51,10 @@ class Record extends DataObject
     {
         $dateOfLift = strtotime($result->DateOfLift);
         foreach (self::$checkRecords as $checkRecord) {
-            // need to refetch the current records for each iteration
+            // need to refetch the current results for each iteration
             // as adding a record in a previous iteration will mean they
             // could already be mout of date
-            $currentRecords = $lifterClass->getCurrentRecords();
+            $currentRecords = $lifterClass->getCurrentClassResults();
             // if result is equal or greater then the current or standard
             $record = null;
             if ($result->$checkRecord >= $currentRecords[$checkRecord]['Weight']) {
@@ -66,8 +66,8 @@ class Record extends DataObject
                             continue;
                         }
                     }
-                    $record = self::getRecordByResult($result, $lifterClass, $checkRecord);
                 }
+                $record = self::getRecordByLifterClass($lifterClass, $checkRecord);
                 if (is_null($record)) {
                     $record = new Record();
                 }
@@ -81,18 +81,16 @@ class Record extends DataObject
     }
 
     /*
-     * Retrieve record for a result
+     * Retrieve record for a lifter class
      *
-     * @param Result::class $result
      * @param LifterClass::class $result
      * @param String $recordType
      * @return mixed Record::class|null
      */
-    public static function getRecordByResult($result, $lifterClass, $recordType)
+    public static function getRecordByLifterClass($lifterClass, $recordType)
     {
         $record = Record::get()
             ->filter([
-                'ResultID:not' => $result->ID,
                 'LifterClassID' => $lifterClass->ID,
                 'RecordType' => $recordType
             ]);
