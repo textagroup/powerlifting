@@ -1,0 +1,195 @@
+Title,MinWeight,MaxWeight,MinAge,MaxAge,Gender,StandardSquat,StandardBench,StandardDeadlift,StandardTotal,Active,Affiliation,LiftType
+Male 3 Lift Classic Youth (14 – 18 years) 56KG,1,56,14,18,M,130,80,140,340,1,1,1
+Male 3 Lift Classic Youth (14 – 18 years) 62KG,56,62,14,18,M,140,90,160,380,1,1,1
+Male 3 Lift Classic Youth (14 – 18 years) 69KG,62,69,14,18,M,155,100,170,425,1,1,1
+Male 3 Lift Classic Youth (14 – 18 years) 77KG,69,77,14,18,M,165,110,215,477,1,1,1
+Male 3 Lift Classic Youth (14 – 18 years) 85KG,77,85,14,18,M,175,127,240,542,1,1,1
+Male 3 Lift Classic Youth (14 – 18 years) 94KG,85,94,14,18,M,185,130,195,500,1,1,1
+Male 3 Lift Classic Youth (14 – 18 years) 105KG,94,105,14,18,M,195,135,205,515,1,1,1
+Male 3 Lift Classic Youth (14 – 18 years) 105+KG,105,500,14,18,M,205,140,215,530,1,1,1
+Male 3 Lift Classic Junior (19 – 23 years) 62KG,1,62,19,23,M,142,90,155,370,1,1,1
+Male 3 Lift Classic Junior (19 – 23 years) 69KG,62,69,19,23,M,150,100,167,410,1,1,1
+Male 3 Lift Classic Junior (19 – 23 years) 77KG,69,77,19,23,M,183,111,241,535,1,1,1
+Male 3 Lift Classic Junior (19 – 23 years) 85KG,77,85,19,23,M,172,120,187,470,1,1,1
+Male 3 Lift Classic Junior (19 – 23 years) 94KG,85,94,19,23,M,180,130,197,500,1,1,1
+Male 3 Lift Classic Junior (19 – 23 years) 105KG,94,105,19,23,M,192,140,207,530,1,1,1
+Male 3 Lift Classic Junior (19 – 23 years) 120KG,105,120,19,23,M,205,150,220,550,1,1,1
+Male 3 Lift Classic Junior (19 – 23 years) 120+KG,120,500,19,23,M,220,155,235,575,1,1,1
+Male 3 Lift Classic Open (24 – 39 years) 62KG,1,62,24,39,M,170,110,190,460,1,1,1
+Male 3 Lift Classic Open (24 – 39 years) 69KG,62,69,24,39,M,180,125,200,500,1,1,1
+Male 3 Lift Classic Open (24 – 39 years) 77KG,69,77,24,39,M,207,137,260,565,1,1,1
+Male 3 Lift Classic Open (24 – 39 years) 85KG,77,85,24,39,M,215,155,240,600,1,1,1
+Male 3 Lift Classic Open (24 – 39 years) 94KG,85,94,24,39,M,230,165,250,640,1,1,1
+Male 3 Lift Classic Open (24 – 39 years) 105KG,94,105,24,39,M,260,180,268,700,1,1,1
+Male 3 Lift Classic Open (24 – 39 years) 120KG,105,120,24,39,M,300,215,327,797,1,1,1
+Male 3 Lift Classic Open (24 – 39 years) 120+KG,120,500,24,39,M,280,205,300,745,1,1,1
+Male 3 Lift Classic Masters 1 (40 – 44 years) 62KG,1,62,40,44,M,145,92,160,375,1,1,1
+Male 3 Lift Classic Masters 1 (40 – 44 years) 69KG,62,69,40,44,M,150,105,170,415,1,1,1
+Male 3 Lift Classic Masters 1 (40 – 44 years) 77KG,69,77,40,44,M,165,115,185,450,1,1,1
+Male 3 Lift Classic Masters 1 (40 – 44 years) 85KG,77,85,40,44,M,202,155,220,565,1,1,1
+Male 3 Lift Classic Masters 1 (40 – 44 years) 94KG,85,94,40,44,M,205,130,220,580,1,1,1
+Male 3 Lift Classic Masters 1 (40 – 44 years) 105KG,94,105,40,44,M,208,135,230,580,1,1,1
+Male 3 Lift Classic Masters 1 (40 – 44 years) 120KG,105,120,40,44,M,220,145,250,600,1,1,1
+Male 3 Lift Classic Masters 1 (40 – 44 years) 120+KG,120,500,40,44,M,230,150,260,610,1,1,1
+Male 3 Lift Classic Masters 2 (45 – 49 years) 62KG,1,62,45,49,M,135,85,150,355,1,1,1
+Male 3 Lift Classic Masters 2 (45 – 49 years) 69KG,62,69,45,49,M,140,100,162,390,1,1,1
+Male 3 Lift Classic Masters 2 (45 – 49 years) 77KG,69,77,45,49,M,155,107,170,425,1,1,1
+Male 3 Lift Classic Masters 2 (45 – 49 years) 85KG,77,85,45,49,M,165,115,175,455,1,1,1
+Male 3 Lift Classic Masters 2 (45 – 49 years) 94KG,85,94,45,49,M,170,125,185,465,1,1,1
+Male 3 Lift Classic Masters 2 (45 – 49 years) 105KG,94,105,45,49,M,208,130,200,480,1,1,1
+Male 3 Lift Classic Masters 2 (45 – 49 years) 120KG,105,120,45,49,M,215,140,210,500,1,1,1
+Male 3 Lift Classic Masters 2 (45 – 49 years) 120+KG,120,500,45,49,M,200,145,220,565,1,1,1
+Male 3 Lift Classic Masters 3 (50 – 54 years) 62KG,1,62,50,54,M,125,80,125,330,1,1,1
+Male 3 Lift Classic Masters 3 (50 – 54 years) 69KG,62,69,50,54,M,130,90,130,345,1,1,1
+Male 3 Lift Classic Masters 3 (50 – 54 years) 77KG,69,77,50,54,M,140,100,185,360,1,1,1
+Male 3 Lift Classic Masters 3 (50 – 54 years) 85KG,77,85,50,54,M,150,105,150,395,1,1,1
+Male 3 Lift Classic Masters 3 (50 – 54 years) 94KG,85,94,50,54,M,160,110,160,420,1,1,1
+Male 3 Lift Classic Masters 3 (50 – 54 years) 105KG,94,105,50,54,M,165,111,180,440,1,1,1
+Male 3 Lift Classic Masters 3 (50 – 54 years) 120KG,105,120,50,54,M,170,120,185,450,1,1,1
+Male 3 Lift Classic Masters 3 (50 – 54 years) 120+KG,120,500,50,54,M,175,135,190,500,1,1,1
+Male 3 Lift Classic Masters 4 (55 – 59 years) 62KG,1,62,55,59,M,105,75,120,310,1,1,1
+Male 3 Lift Classic Masters 4 (55 – 59 years) 69KG,62,69,55,59,M,115,85,130,330,1,1,1
+Male 3 Lift Classic Masters 4 (55 – 59 years) 77KG,69,77,55,59,M,140,90,185,412,1,1,1
+Male 3 Lift Classic Masters 4 (55 – 59 years) 85KG,77,85,55,59,M,130,95,155,380,1,1,1
+Male 3 Lift Classic Masters 4 (55 – 59 years) 94KG,85,94,55,59,M,170,115,185,470,1,1,1
+Male 3 Lift Classic Masters 4 (55 – 59 years) 105KG,94,105,55,59,M,205,115,268,580,1,1,1
+Male 3 Lift Classic Masters 4 (55 – 59 years) 120KG,105,120,55,59,M,165,115,208,458,1,1,1
+Male 3 Lift Classic Masters 4 (55 – 59 years) 120+KG,120,500,55,59,M,170,120,195,485,1,1,1
+Male 3 Lift Classic Masters 5 (60 – 64 years) 62KG,1,62,60,64,M,105,65,115,282,1,1,1
+Male 3 Lift Classic Masters 5 (60 – 64 years) 69KG,62,69,60,64,M,110,75,120,310,1,1,1
+Male 3 Lift Classic Masters 5 (60 – 64 years) 77KG,69,77,60,64,M,140,87,185,412,1,1,1
+Male 3 Lift Classic Masters 5 (60 – 64 years) 85KG,77,85,60,64,M,125,85,140,360,1,1,1
+Male 3 Lift Classic Masters 5 (60 – 64 years) 94KG,85,94,60,64,M,170,115,185,470,1,1,1
+Male 3 Lift Classic Masters 5 (60 – 64 years) 105KG,94,105,60,64,M,145,95,160,400,1,1,1
+Male 3 Lift Classic Masters 5 (60 – 64 years) 120KG,105,120,60,64,M,165,100,208,458,1,1,1
+Male 3 Lift Classic Masters 5 (60 – 64 years) 120+KG,120,500,60,64,M,167,105,180,455,1,1,1
+Male 3 Lift Classic Masters 6 (65 – 69 years) 62KG,1,62,65,69,M,95,60,110,255,1,1,1
+Male 3 Lift Classic Masters 6 (65 – 69 years) 69KG,62,69,65,69,M,100,70,115,290,1,1,1
+Male 3 Lift Classic Masters 6 (65 – 69 years) 77KG,69,77,65,69,M,110,75,125,310,1,1,1
+Male 3 Lift Classic Masters 6 (65 – 69 years) 85KG,77,85,65,69,M,120,80,130,330,1,1,1
+Male 3 Lift Classic Masters 6 (65 – 69 years) 94KG,85,94,65,69,M,170,115,185,470,1,1,1
+Male 3 Lift Classic Masters 6 (65 – 69 years) 105KG,94,105,65,69,M,135,90,145,370,1,1,1
+Male 3 Lift Classic Masters 6 (65 – 69 years) 120KG,105,120,65,69,M,140,95,155,390,1,1,1
+Male 3 Lift Classic Masters 6 (65 – 69 years) 120+KG,120,500,65,69,M,155,100,165,420,1,1,1
+Male 3 Lift Classic Masters 7 (70 – 74 years) 62KG,1,62,70,74,M,90,55,100,245,1,1,1
+Male 3 Lift Classic Masters 7 (70 – 74 years) 69KG,62,69,70,74,M,95,60,105,260,1,1,1
+Male 3 Lift Classic Masters 7 (70 – 74 years) 77KG,69,77,70,74,M,105,65,115,285,1,1,1
+Male 3 Lift Classic Masters 7 (70 – 74 years) 85KG,77,85,70,74,M,105,70,120,300,1,1,1
+Male 3 Lift Classic Masters 7 (70 – 74 years) 94KG,85,94,70,74,M,115,80,125,320,1,1,1
+Male 3 Lift Classic Masters 7 (70 – 74 years) 105KG,94,105,70,74,M,125,85,135,225,1,1,1
+Male 3 Lift Classic Masters 7 (70 – 74 years) 120KG,105,120,70,74,M,135,90,145,365,1,1,1
+Male 3 Lift Classic Masters 7 (70 – 74 years) 120+KG,120,500,70,74,M,140,95,150,385,1,1,1
+Male 3 Lift Classic Masters 8 (75 – 79 years) 62KG,1,62,75,79,M,85,50,95,220,1,1,1
+Male 3 Lift Classic Masters 8 (75 – 79 years) 69KG,62,69,75,79,M,90,55,100,245,1,1,1
+Male 3 Lift Classic Masters 8 (75 – 79 years) 77KG,69,77,75,79,M,100,60,105,265,1,1,1
+Male 3 Lift Classic Masters 8 (75 – 79 years) 85KG,77,85,75,79,M,105,70,115,290,1,1,1
+Male 3 Lift Classic Masters 8 (75 – 79 years) 94KG,85,94,75,79,M,110,75,120,305,1,1,1
+Male 3 Lift Classic Masters 8 (75 – 79 years) 105KG,94,105,75,79,M,115,80,125,320,1,1,1
+Male 3 Lift Classic Masters 8 (75 – 79 years) 120KG,105,120,75,79,M,125,85,130,345,1,1,1
+Male 3 Lift Classic Masters 8 (75 – 79 years) 120+KG,120,500,75,79,M,130,90,140,360,1,1,1
+Male 3 Lift Classic Masters 9 (80+ years) 62KG,1,62,80,200,M,75,45,85,205,1,1,1
+Male 3 Lift Classic Masters 9 (80+ years) 69KG,62,69,80,200,M,80,50,90,230,1,1,1
+Male 3 Lift Classic Masters 9 (80+ years) 77KG,69,77,80,200,M,85,55,100,240,1,1,1
+Male 3 Lift Classic Masters 9 (80+ years) 85KG,77,85,80,200,M,90,60,105,255,1,1,1
+Male 3 Lift Classic Masters 9 (80+ years) 94KG,85,94,80,200,M,95,65,110,270,1,1,1
+Male 3 Lift Classic Masters 9 (80+ years) 105KG,94,105,80,200,M,105,70,120,295,1,1,1
+Male 3 Lift Classic Masters 9 (80+ years) 120KG,105,120,80,200,M,110,75,125,315,1,1,1
+Male 3 Lift Classic Masters 9 (80+ years) 120+KG,120,500,80,200,M,115,80,135,325,1,1,1
+Male 3 Lift Equipped Youth (14 – 18 years) 56KG,1,56,14,18,M,132,87,142,365,1,1,1
+Male 3 Lift Equipped Youth (14 – 18 years) 62KG,56,62,14,18,M,142,95,155,385,1,1,1
+Male 3 Lift Equipped Youth (14 – 18 years) 69KG,62,69,14,18,M,157,112,175,442,1,1,1
+Male 3 Lift Equipped Youth (14 – 18 years) 77KG,69,77,14,18,M,180,117,202,482,1,1,1
+Male 3 Lift Equipped Youth (14 – 18 years) 85KG,77,85,14,18,M,195,130,207,525,1,1,1
+Male 3 Lift Equipped Youth (14 – 18 years) 94KG,85,94,14,18,M,202,137,225,560,1,1,1
+Male 3 Lift Equipped Youth (14 – 18 years) 105KG,94,105,14,18,M,210,147,235,587,1,1,1
+Male 3 Lift Equipped Youth (14 – 18 years) 105+KG,105,500,14,18,M,230,157,242,625,1,1,1
+Male 3 Lift Equipped Junior (19 – 23 years) 62KG,1,62,19,23,M,155,105,180,432,1,1,1
+Male 3 Lift Equipped Junior (19 – 23 years) 69KG,62,69,19,23,M,175,115,190,475,1,1,1
+Male 3 Lift Equipped Junior (19 – 23 years) 77KG,69,77,19,23,M,185,125,241,535,1,1,1
+Male 3 Lift Equipped Junior (19 – 23 years) 85KG,77,85,19,23,M,205,137,220,570,1,1,1
+Male 3 Lift Equipped Junior (19 – 23 years) 94KG,85,94,19,23,M,227,147,240,600,1,1,1
+Male 3 Lift Equipped Junior (19 – 23 years) 105KG,94,105,19,23,M,240,155,250,645,1,1,1
+Male 3 Lift Equipped Junior (19 – 23 years) 120KG,105,120,19,23,M,250,170,265,700,1,1,1
+Male 3 Lift Equipped Junior (19 – 23 years) 120+KG,120,500,19,23,M,260,185,280,745,1,1,1
+Male 3 Lift Equipped Open (24 – 39 years) 62KG,1,62,24,39,M,190,120,205,515,1,1,1
+Male 3 Lift Equipped Open (24 – 39 years) 69KG,62,69,24,39,M,212,140,230,575,1,1,1
+Male 3 Lift Equipped Open (24 – 39 years) 77KG,69,77,24,39,M,230,163,247,625,1,1,1
+Male 3 Lift Equipped Open (24 – 39 years) 85KG,77,85,24,39,M,247,177,265,675,1,1,1
+Male 3 Lift Equipped Open (24 – 39 years) 94KG,85,94,24,39,M,252,190,290,730,1,1,1
+Male 3 Lift Equipped Open (24 – 39 years) 105KG,94,105,24,39,M,272,230,300,765,1,1,1
+Male 3 Lift Equipped Open (24 – 39 years) 120KG,105,120,24,39,M,300,215,310,840,1,1,1
+Male 3 Lift Equipped Open (24 – 39 years) 120+KG,120,500,24,39,M,320,220,320,835,1,1,1
+Male 3 Lift Equipped Masters 1 (40 – 44 years) 62KG,1,62,40,44,M,155,115,165,425,1,1,1
+Male 3 Lift Equipped Masters 1 (40 – 44 years) 69KG,62,69,40,44,M,170,125,185,475,1,1,1
+Male 3 Lift Equipped Masters 1 (40 – 44 years) 77KG,69,77,40,44,M,180,135,205,530,1,1,1
+Male 3 Lift Equipped Masters 1 (40 – 44 years) 85KG,77,85,40,44,M,205,160,227,585,1,1,1
+Male 3 Lift Equipped Masters 1 (40 – 44 years) 94KG,85,94,40,44,M,217,170,240,625,1,1,1
+Male 3 Lift Equipped Masters 1 (40 – 44 years) 105KG,94,105,40,44,M,252,177,270,695,1,1,1
+Male 3 Lift Equipped Masters 1 (40 – 44 years) 120KG,105,120,40,44,M,280,190,280,750,1,1,1
+Male 3 Lift Equipped Masters 1 (40 – 44 years) 120+KG,120,500,40,44,M,320,285,292,825,1,1,1
+Male 3 Lift Equipped Masters 2 (45 – 49 years) 62KG,1,62,45,49,M,140,97,150,395,1,1,1
+Male 3 Lift Equipped Masters 2 (45 – 49 years) 69KG,62,69,45,49,M,150,102,160,425,1,1,1
+Male 3 Lift Equipped Masters 2 (45 – 49 years) 77KG,69,77,45,49,M,160,112,170,450,1,1,1
+Male 3 Lift Equipped Masters 2 (45 – 49 years) 85KG,77,85,45,49,M,170,120,180,470,1,1,1
+Male 3 Lift Equipped Masters 2 (45 – 49 years) 94KG,85,94,45,49,M,180,130,200,500,1,1,1
+Male 3 Lift Equipped Masters 2 (45 – 49 years) 105KG,94,105,45,49,M,208,140,268,588,1,1,1
+Male 3 Lift Equipped Masters 2 (45 – 49 years) 120KG,105,120,45,49,M,200,145,210,560,1,1,1
+Male 3 Lift Equipped Masters 2 (45 – 49 years) 120+KG,120,500,45,49,M,320,285,245,825,1,1,1
+Male 3 Lift Equipped Masters 3 (50 – 54 years) 62KG,1,62,50,54,M,120,85,130,340,1,1,1
+Male 3 Lift Equipped Masters 3 (50 – 54 years) 69KG,62,69,50,54,M,130,92,140,375,1,1,1
+Male 3 Lift Equipped Masters 3 (50 – 54 years) 77KG,69,77,50,54,M,145,105,160,420,1,1,1
+Male 3 Lift Equipped Masters 3 (50 – 54 years) 85KG,77,85,50,54,M,155,110,170,465,1,1,1
+Male 3 Lift Equipped Masters 3 (50 – 54 years) 94KG,85,94,50,54,M,180,125,200,500,1,1,1
+Male 3 Lift Equipped Masters 3 (50 – 54 years) 105KG,94,105,50,54,M,205,130,268,580,1,1,1
+Male 3 Lift Equipped Masters 3 (50 – 54 years) 120KG,105,120,50,54,M,185,140,208,525,1,1,1
+Male 3 Lift Equipped Masters 3 (50 – 54 years) 120+KG,120,500,50,54,M,286,161,245,692,1,1,1
+Male 3 Lift Equipped Masters 4 (55 – 59 years) 62KG,1,62,55,59,M,115,80,130,325,1,1,1
+Male 3 Lift Equipped Masters 4 (55 – 59 years) 69KG,62,69,55,59,M,120,90,135,350,1,1,1
+Male 3 Lift Equipped Masters 4 (55 – 59 years) 77KG,69,77,55,59,M,135,100,145,385,1,1,1
+Male 3 Lift Equipped Masters 4 (55 – 59 years) 85KG,77,85,55,59,M,145,105,155,425,1,1,1
+Male 3 Lift Equipped Masters 4 (55 – 59 years) 94KG,85,94,55,59,M,180,125,200,500,1,1,1
+Male 3 Lift Equipped Masters 4 (55 – 59 years) 105KG,94,105,55,59,M,205,120,268,580,1,1,1
+Male 3 Lift Equipped Masters 4 (55 – 59 years) 120KG,105,120,55,59,M,175,125,208,485,1,1,1
+Male 3 Lift Equipped Masters 4 (55 – 59 years) 120+KG,120,500,55,59,M,286,161,245,692,1,1,1
+Male 3 Lift Equipped Masters 5 (60 – 64 years) 62KG,1,62,60,64,M,110,70,125,300,1,1,1
+Male 3 Lift Equipped Masters 5 (60 – 64 years) 69KG,62,69,60,64,M,120,80,130,330,1,1,1
+Male 3 Lift Equipped Masters 5 (60 – 64 years) 77KG,69,77,60,64,M,130,85,140,355,1,1,1
+Male 3 Lift Equipped Masters 5 (60 – 64 years) 85KG,77,85,60,64,M,140,90,150,380,1,1,1
+Male 3 Lift Equipped Masters 5 (60 – 64 years) 94KG,85,94,60,64,M,180,125,200,500,1,1,1
+Male 3 Lift Equipped Masters 5 (60 – 64 years) 105KG,94,105,60,64,M,160,100,170,425,1,1,1
+Male 3 Lift Equipped Masters 5 (60 – 64 years) 120KG,105,120,60,64,M,165,110,208,458,1,1,1
+Male 3 Lift Equipped Masters 5 (60 – 64 years) 120+KG,120,500,60,64,M,175,120,190,495,1,1,1
+Male 3 Lift Equipped Masters 6 (65 – 69 years) 62KG,1,62,65,69,M,105,65,120,290,1,1,1
+Male 3 Lift Equipped Masters 6 (65 – 69 years) 69KG,62,69,65,69,M,112,75,130,325,1,1,1
+Male 3 Lift Equipped Masters 6 (65 – 69 years) 77KG,69,77,65,69,M,122,80,140,350,1,1,1
+Male 3 Lift Equipped Masters 6 (65 – 69 years) 85KG,77,85,65,69,M,130,85,150,370,1,1,1
+Male 3 Lift Equipped Masters 6 (65 – 69 years) 94KG,85,94,65,69,M,180,125,200,500,1,1,1
+Male 3 Lift Equipped Masters 6 (65 – 69 years) 105KG,94,105,65,69,M,150,95,170,410,1,1,1
+Male 3 Lift Equipped Masters 6 (65 – 69 years) 120KG,105,120,65,69,M,160,100,175,430,1,1,1
+Male 3 Lift Equipped Masters 6 (65 – 69 years) 120+KG,120,500,65,69,M,170,105,180,450,1,1,1
+Male 3 Lift Equipped Masters 7 (70 – 74 years) 62KG,1,62,70,74,M,100,60,110,280,1,1,1
+Male 3 Lift Equipped Masters 7 (70 – 74 years) 69KG,62,69,70,74,M,110,65,125,305,1,1,1
+Male 3 Lift Equipped Masters 7 (70 – 74 years) 77KG,69,77,70,74,M,115,70,135,325,1,1,1
+Male 3 Lift Equipped Masters 7 (70 – 74 years) 85KG,77,85,70,74,M,125,75,145,345,1,1,1
+Male 3 Lift Equipped Masters 7 (70 – 74 years) 94KG,85,94,70,74,M,135,85,155,375,1,1,1
+Male 3 Lift Equipped Masters 7 (70 – 74 years) 105KG,94,105,70,74,M,142,90,165,395,1,1,1
+Male 3 Lift Equipped Masters 7 (70 – 74 years) 120KG,105,120,70,74,M,150,95,170,425,1,1,1
+Male 3 Lift Equipped Masters 7 (70 – 74 years) 120+KG,120,500,70,74,M,157,100,175,440,1,1,1
+Male 3 Lift Equipped Masters 8 (75 – 79 years) 62KG,1,62,75,79,M,90,55,100,240,1,1,1
+Male 3 Lift Equipped Masters 8 (75 – 79 years) 69KG,62,69,75,79,M,100,60,110,270,1,1,1
+Male 3 Lift Equipped Masters 8 (75 – 79 years) 77KG,69,77,75,79,M,110,65,125,300,1,1,1
+Male 3 Lift Equipped Masters 8 (75 – 79 years) 85KG,77,85,75,79,M,115,72,135,325,1,1,1
+Male 3 Lift Equipped Masters 8 (75 – 79 years) 94KG,85,94,75,79,M,125,82,145,350,1,1,1
+Male 3 Lift Equipped Masters 8 (75 – 79 years) 105KG,94,105,75,79,M,132,85,155,375,1,1,1
+Male 3 Lift Equipped Masters 8 (75 – 79 years) 120KG,105,120,75,79,M,142,90,160,400,1,1,1
+Male 3 Lift Equipped Masters 8 (75 – 79 years) 120+KG,120,500,75,79,M,152,95,165,420,1,1,1
+Male 3 Lift Equipped Masters 9 (80+ years) 62KG,1,62,80,200,M,80,50,95,225,1,1,1
+Male 3 Lift Equipped Masters 9 (80+ years) 69KG,62,69,80,200,M,85,55,100,240,1,1,1
+Male 3 Lift Equipped Masters 9 (80+ years) 77KG,69,77,80,200,M,90,60,105,255,1,1,1
+Male 3 Lift Equipped Masters 9 (80+ years) 85KG,77,85,80,200,M,95,65,110,270,1,1,1
+Male 3 Lift Equipped Masters 9 (80+ years) 94KG,85,94,80,200,M,102,70,125,295,1,1,1
+Male 3 Lift Equipped Masters 9 (80+ years) 105KG,94,105,80,200,M,115,75,135,320,1,1,1
+Male 3 Lift Equipped Masters 9 (80+ years) 120KG,105,120,80,200,M,120,80,145,345,1,1,1
+Male 3 Lift Equipped Masters 9 (80+ years) 120+KG,120,500,80,200,M,130,85,155,375,1,1,1
+
+

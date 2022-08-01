@@ -1,0 +1,195 @@
+Title,MinWeight,MaxWeight,MinAge,MaxAge,Gender,StandardSquat,StandardBench,StandardDeadlift,StandardTotal,Active,Affiliation,LiftType
+Male Bench Only Classic Youth (14 – 18 years) 56KG,1,56,14,18,M,,65,,,1,1,1
+Male Bench Only Classic Youth (14 – 18 years) 62KG,56,62,14,18,M,,80,,,1,1,1
+Male Bench Only Classic Youth (14 – 18 years) 69KG,62,69,14,18,M,,95,,,1,1,1
+Male Bench Only Classic Youth (14 – 18 years) 77KG,69,77,14,18,M,,105,,,1,1,1
+Male Bench Only Classic Youth (14 – 18 years) 85KG,77,85,14,18,M,,110,,,1,1,1
+Male Bench Only Classic Youth (14 – 18 years) 94KG,85,94,14,18,M,,120,,,1,1,1
+Male Bench Only Classic Youth (14 – 18 years) 105KG,94,105,14,18,M,,125,,,1,1,1
+Male Bench Only Classic Youth (14 – 18 years) 105+KG,105,500,14,18,M,,135,,,1,1,1
+Male Bench Only Classic Junior (19 – 23 years) 62KG,1,62,19,23,M,,90,,,1,1,1
+Male Bench Only Classic Junior (19 – 23 years) 69KG,62,69,19,23,M,,100,,,1,1,1
+Male Bench Only Classic Junior (19 – 23 years) 77KG,69,77,19,23,M,,110,,,1,1,1
+Male Bench Only Classic Junior (19 – 23 years) 85KG,77,85,19,23,M,,120,,,1,1,1
+Male Bench Only Classic Junior (19 – 23 years) 94KG,85,94,19,23,M,,130,,,1,1,1
+Male Bench Only Classic Junior (19 – 23 years) 105KG,94,105,19,23,M,,140,,,1,1,1
+Male Bench Only Classic Junior (19 – 23 years) 120KG,105,120,19,23,M,,150,,,1,1,1
+Male Bench Only Classic Junior (19 – 23 years) 120+KG,120,500,19,23,M,,160,,,1,1,1
+Male Bench Only Classic Open (24 – 39 years) 62KG,1,62,24,39,M,,110,,,1,1,1
+Male Bench Only Classic Open (24 – 39 years) 69KG,62,69,24,39,M,,130,,,1,1,1
+Male Bench Only Classic Open (24 – 39 years) 77KG,69,77,24,39,M,,145,,,1,1,1
+Male Bench Only Classic Open (24 – 39 years) 85KG,77,85,24,39,M,,155,,,1,1,1
+Male Bench Only Classic Open (24 – 39 years) 94KG,85,94,24,39,M,,180,,,1,1,1
+Male Bench Only Classic Open (24 – 39 years) 105KG,94,105,24,39,M,,175,,,1,1,1
+Male Bench Only Classic Open (24 – 39 years) 120KG,105,120,24,39,M,,185,,,1,1,1
+Male Bench Only Classic Open (24 – 39 years) 120+KG,120,500,24,39,M,,195,,,1,1,1
+Male Bench Only Classic Masters 1 (40 – 44 years) 62KG,1,62,40,44,M,,90,,,1,1,1
+Male Bench Only Classic Masters 1 (40 – 44 years) 69KG,62,69,40,44,M,,100,,,1,1,1
+Male Bench Only Classic Masters 1 (40 – 44 years) 77KG,69,77,40,44,M,,110,,,1,1,1
+Male Bench Only Classic Masters 1 (40 – 44 years) 85KG,77,85,40,44,M,,120,,,1,1,1
+Male Bench Only Classic Masters 1 (40 – 44 years) 94KG,85,94,40,44,M,,153,,,1,1,1
+Male Bench Only Classic Masters 1 (40 – 44 years) 105KG,94,105,40,44,M,,165,,,1,1,1
+Male Bench Only Classic Masters 1 (40 – 44 years) 120KG,105,120,40,44,M,,156,,,1,1,1
+Male Bench Only Classic Masters 1 (40 – 44 years) 120+KG,120,500,40,44,M,,255,,,1,1,1
+Male Bench Only Classic Masters 2 (45 – 49 years) 62KG,1,62,45,49,M,,85,,,1,1,1
+Male Bench Only Classic Masters 2 (45 – 49 years) 69KG,62,69,45,49,M,,95,,,1,1,1
+Male Bench Only Classic Masters 2 (45 – 49 years) 77KG,69,77,45,49,M,,105,,,1,1,1
+Male Bench Only Classic Masters 2 (45 – 49 years) 85KG,77,85,45,49,M,,115,,,1,1,1
+Male Bench Only Classic Masters 2 (45 – 49 years) 94KG,85,94,45,49,M,,125,,,1,1,1
+Male Bench Only Classic Masters 2 (45 – 49 years) 105KG,94,105,45,49,M,,165,,,1,1,1
+Male Bench Only Classic Masters 2 (45 – 49 years) 120KG,105,120,45,49,M,,156,,,1,1,1
+Male Bench Only Classic Masters 2 (45 – 49 years) 120+KG,120,500,45,49,M,,255,,,1,1,1
+Male Bench Only Classic Masters 3 (50 – 54 years) 62KG,1,62,50,54,M,,80,,,1,1,1
+Male Bench Only Classic Masters 3 (50 – 54 years) 69KG,62,69,50,54,M,,85,,,1,1,1
+Male Bench Only Classic Masters 3 (50 – 54 years) 77KG,69,77,50,54,M,,95,,,1,1,1
+Male Bench Only Classic Masters 3 (50 – 54 years) 85KG,77,85,50,54,M,,105,,,1,1,1
+Male Bench Only Classic Masters 3 (50 – 54 years) 94KG,85,94,50,54,M,,115,,,1,1,1
+Male Bench Only Classic Masters 3 (50 – 54 years) 105KG,94,105,50,54,M,,125,,,1,1,1
+Male Bench Only Classic Masters 3 (50 – 54 years) 120KG,105,120,50,54,M,,156,,,1,1,1
+Male Bench Only Classic Masters 3 (50 – 54 years) 120+KG,120,500,50,54,M,,145,,,1,1,1
+Male Bench Only Classic Masters 4 (55 – 59 years) 62KG,1,62,55,59,M,,75,,,1,1,1
+Male Bench Only Classic Masters 4 (55 – 59 years) 69KG,62,69,55,59,M,,80,,,1,1,1
+Male Bench Only Classic Masters 4 (55 – 59 years) 77KG,69,77,55,59,M,,85,,,1,1,1
+Male Bench Only Classic Masters 4 (55 – 59 years) 85KG,77,85,55,59,M,,95,,,1,1,1
+Male Bench Only Classic Masters 4 (55 – 59 years) 94KG,85,94,55,59,M,,105,,,1,1,1
+Male Bench Only Classic Masters 4 (55 – 59 years) 105KG,94,105,55,59,M,,115,,,1,1,1
+Male Bench Only Classic Masters 4 (55 – 59 years) 120KG,105,120,55,59,M,,125,,,1,1,1
+Male Bench Only Classic Masters 4 (55 – 59 years) 120+KG,120,500,55,59,M,,135,,,1,1,1
+Male Bench Only Classic Masters 5 (60 – 64 years) 62KG,1,62,60,64,M,,70,,,1,1,1
+Male Bench Only Classic Masters 5 (60 – 64 years) 69KG,62,69,60,64,M,,75,,,1,1,1
+Male Bench Only Classic Masters 5 (60 – 64 years) 77KG,69,77,60,64,M,,80,,,1,1,1
+Male Bench Only Classic Masters 5 (60 – 64 years) 85KG,77,85,60,64,M,,85,,,1,1,1
+Male Bench Only Classic Masters 5 (60 – 64 years) 94KG,85,94,60,64,M,,95,,,1,1,1
+Male Bench Only Classic Masters 5 (60 – 64 years) 105KG,94,105,60,64,M,,105,,,1,1,1
+Male Bench Only Classic Masters 5 (60 – 64 years) 120KG,105,120,60,64,M,,110,,,1,1,1
+Male Bench Only Classic Masters 5 (60 – 64 years) 120+KG,120,500,60,64,M,,115,,,1,1,1
+Male Bench Only Classic Masters 6 (65 – 69 years) 62KG,1,62,65,69,M,,60,,,1,1,1
+Male Bench Only Classic Masters 6 (65 – 69 years) 69KG,62,69,65,69,M,,70,,,1,1,1
+Male Bench Only Classic Masters 6 (65 – 69 years) 77KG,69,77,65,69,M,,75,,,1,1,1
+Male Bench Only Classic Masters 6 (65 – 69 years) 85KG,77,85,65,69,M,,80,,,1,1,1
+Male Bench Only Classic Masters 6 (65 – 69 years) 94KG,85,94,65,69,M,,85,,,1,1,1
+Male Bench Only Classic Masters 6 (65 – 69 years) 105KG,94,105,65,69,M,,95,,,1,1,1
+Male Bench Only Classic Masters 6 (65 – 69 years) 120KG,105,120,65,69,M,,105,,,1,1,1
+Male Bench Only Classic Masters 6 (65 – 69 years) 120+KG,120,500,65,69,M,,110,,,1,1,1
+Male Bench Only Classic Masters 7 (70 – 74 years) 62KG,1,62,70,74,M,,55,,,1,1,1
+Male Bench Only Classic Masters 7 (70 – 74 years) 69KG,62,69,70,74,M,,60,,,1,1,1
+Male Bench Only Classic Masters 7 (70 – 74 years) 77KG,69,77,70,74,M,,70,,,1,1,1
+Male Bench Only Classic Masters 7 (70 – 74 years) 85KG,77,85,70,74,M,,75,,,1,1,1
+Male Bench Only Classic Masters 7 (70 – 74 years) 94KG,85,94,70,74,M,,80,,,1,1,1
+Male Bench Only Classic Masters 7 (70 – 74 years) 105KG,94,105,70,74,M,,85,,,1,1,1
+Male Bench Only Classic Masters 7 (70 – 74 years) 120KG,105,120,70,74,M,,95,,,1,1,1
+Male Bench Only Classic Masters 7 (70 – 74 years) 120+KG,120,500,70,74,M,,100,,,1,1,1
+Male Bench Only Classic Masters 8 (75 – 79 years) 62KG,1,62,75,79,M,,50,,,1,1,1
+Male Bench Only Classic Masters 8 (75 – 79 years) 69KG,62,69,75,79,M,,55,,,1,1,1
+Male Bench Only Classic Masters 8 (75 – 79 years) 77KG,69,77,75,79,M,,60,,,1,1,1
+Male Bench Only Classic Masters 8 (75 – 79 years) 85KG,77,85,75,79,M,,70,,,1,1,1
+Male Bench Only Classic Masters 8 (75 – 79 years) 94KG,85,94,75,79,M,,75,,,1,1,1
+Male Bench Only Classic Masters 8 (75 – 79 years) 105KG,94,105,75,79,M,,80,,,1,1,1
+Male Bench Only Classic Masters 8 (75 – 79 years) 120KG,105,120,75,79,M,,85,,,1,1,1
+Male Bench Only Classic Masters 8 (75 – 79 years) 120+KG,120,500,75,79,M,,95,,,1,1,1
+Male Bench Only Classic Masters 9 (80+ years) 62KG,1,62,80,200,M,,45,,,1,1,1
+Male Bench Only Classic Masters 9 (80+ years) 69KG,62,69,80,200,M,,50,,,1,1,1
+Male Bench Only Classic Masters 9 (80+ years) 77KG,69,77,80,200,M,,55,,,1,1,1
+Male Bench Only Classic Masters 9 (80+ years) 85KG,77,85,80,200,M,,60,,,1,1,1
+Male Bench Only Classic Masters 9 (80+ years) 94KG,85,94,80,200,M,,70,,,1,1,1
+Male Bench Only Classic Masters 9 (80+ years) 105KG,94,105,80,200,M,,75,,,1,1,1
+Male Bench Only Classic Masters 9 (80+ years) 120KG,105,120,80,200,M,,80,,,1,1,1
+Male Bench Only Classic Masters 9 (80+ years) 120+KG,120,500,80,200,M,,85,,,1,1,1
+Male Bench Only Equipped Youth (14 – 18 years) 56KG,1,56,14,18,M,,65,,,1,1,1
+Male Bench Only Equipped Youth (14 – 18 years) 62KG,56,62,14,18,M,,85,,,1,1,1
+Male Bench Only Equipped Youth (14 – 18 years) 69KG,62,69,14,18,M,,105,,,1,1,1
+Male Bench Only Equipped Youth (14 – 18 years) 77KG,69,77,14,18,M,,115,,,1,1,1
+Male Bench Only Equipped Youth (14 – 18 years) 85KG,77,85,14,18,M,,130,,,1,1,1
+Male Bench Only Equipped Youth (14 – 18 years) 94KG,85,94,14,18,M,,135,,,1,1,1
+Male Bench Only Equipped Youth (14 – 18 years) 105KG,94,105,14,18,M,,145,,,1,1,1
+Male Bench Only Equipped Youth (14 – 18 years) 105+KG,105,500,14,18,M,,150,,,1,1,1
+Male Bench Only Equipped Junior (19 – 23 years) 62KG,1,62,19,23,M,,100,,,1,1,1
+Male Bench Only Equipped Junior (19 – 23 years) 69KG,62,69,19,23,M,,110,,,1,1,1
+Male Bench Only Equipped Junior (19 – 23 years) 77KG,69,77,19,23,M,,120,,,1,1,1
+Male Bench Only Equipped Junior (19 – 23 years) 85KG,77,85,19,23,M,,130,,,1,1,1
+Male Bench Only Equipped Junior (19 – 23 years) 94KG,85,94,19,23,M,,140,,,1,1,1
+Male Bench Only Equipped Junior (19 – 23 years) 105KG,94,105,19,23,M,,150,,,1,1,1
+Male Bench Only Equipped Junior (19 – 23 years) 120KG,105,120,19,23,M,,160,,,1,1,1
+Male Bench Only Equipped Junior (19 – 23 years) 120+KG,120,500,19,23,M,,170,,,1,1,1
+Male Bench Only Equipped Open (24 – 39 years) 62KG,1,62,24,39,M,,110,,,1,1,1
+Male Bench Only Equipped Open (24 – 39 years) 69KG,62,69,24,39,M,,130,,,1,1,1
+Male Bench Only Equipped Open (24 – 39 years) 77KG,69,77,24,39,M,,150,,,1,1,1
+Male Bench Only Equipped Open (24 – 39 years) 85KG,77,85,24,39,M,,170,,,1,1,1
+Male Bench Only Equipped Open (24 – 39 years) 94KG,85,94,24,39,M,,190,,,1,1,1
+Male Bench Only Equipped Open (24 – 39 years) 105KG,94,105,24,39,M,,230,,,1,1,1
+Male Bench Only Equipped Open (24 – 39 years) 120KG,105,120,24,39,M,,230,,,1,1,1
+Male Bench Only Equipped Open (24 – 39 years) 120+KG,120,500,24,39,M,,295,,,1,1,1
+Male Bench Only Equipped Masters 1 (40 – 44 years) 62KG,1,62,40,44,M,,100,,,1,1,1
+Male Bench Only Equipped Masters 1 (40 – 44 years) 69KG,62,69,40,44,M,,110,,,1,1,1
+Male Bench Only Equipped Masters 1 (40 – 44 years) 77KG,69,77,40,44,M,,120,,,1,1,1
+Male Bench Only Equipped Masters 1 (40 – 44 years) 85KG,77,85,40,44,M,,130,,,1,1,1
+Male Bench Only Equipped Masters 1 (40 – 44 years) 94KG,85,94,40,44,M,,140,,,1,1,1
+Male Bench Only Equipped Masters 1 (40 – 44 years) 105KG,94,105,40,44,M,,150,,,1,1,1
+Male Bench Only Equipped Masters 1 (40 – 44 years) 120KG,105,120,40,44,M,,160,,,1,1,1
+Male Bench Only Equipped Masters 1 (40 – 44 years) 120+KG,120,500,40,44,M,,295,,,1,1,1
+Male Bench Only Equipped Masters 2 (45 – 49 years) 62KG,1,62,45,49,M,,90,,,1,1,1
+Male Bench Only Equipped Masters 2 (45 – 49 years) 69KG,62,69,45,49,M,,100,,,1,1,1
+Male Bench Only Equipped Masters 2 (45 – 49 years) 77KG,69,77,45,49,M,,110,,,1,1,1
+Male Bench Only Equipped Masters 2 (45 – 49 years) 85KG,77,85,45,49,M,,120,,,1,1,1
+Male Bench Only Equipped Masters 2 (45 – 49 years) 94KG,85,94,45,49,M,,130,,,1,1,1
+Male Bench Only Equipped Masters 2 (45 – 49 years) 105KG,94,105,45,49,M,,140,,,1,1,1
+Male Bench Only Equipped Masters 2 (45 – 49 years) 120KG,105,120,45,49,M,,150,,,1,1,1
+Male Bench Only Equipped Masters 2 (45 – 49 years) 120+KG,120,500,45,49,M,,295,,,1,1,1
+Male Bench Only Equipped Masters 3 (50 – 54 years) 62KG,1,62,50,54,M,,85,,,1,1,1
+Male Bench Only Equipped Masters 3 (50 – 54 years) 69KG,62,69,50,54,M,,90,,,1,1,1
+Male Bench Only Equipped Masters 3 (50 – 54 years) 77KG,69,77,50,54,M,,100,,,1,1,1
+Male Bench Only Equipped Masters 3 (50 – 54 years) 85KG,77,85,50,54,M,,110,,,1,1,1
+Male Bench Only Equipped Masters 3 (50 – 54 years) 94KG,85,94,50,54,M,,125,,,1,1,1
+Male Bench Only Equipped Masters 3 (50 – 54 years) 105KG,94,105,50,54,M,,130,,,1,1,1
+Male Bench Only Equipped Masters 3 (50 – 54 years) 120KG,105,120,50,54,M,,150,,,1,1,1
+Male Bench Only Equipped Masters 3 (50 – 54 years) 120+KG,120,500,50,54,M,,150,,,1,1,1
+Male Bench Only Equipped Masters 4 (55 – 59 years) 62KG,1,62,55,59,M,,80,,,1,1,1
+Male Bench Only Equipped Masters 4 (55 – 59 years) 69KG,62,69,55,59,M,,85,,,1,1,1
+Male Bench Only Equipped Masters 4 (55 – 59 years) 77KG,69,77,55,59,M,,90,,,1,1,1
+Male Bench Only Equipped Masters 4 (55 – 59 years) 85KG,77,85,55,59,M,,100,,,1,1,1
+Male Bench Only Equipped Masters 4 (55 – 59 years) 94KG,85,94,55,59,M,,110,,,1,1,1
+Male Bench Only Equipped Masters 4 (55 – 59 years) 105KG,94,105,55,59,M,,125,,,1,1,1
+Male Bench Only Equipped Masters 4 (55 – 59 years) 120KG,105,120,55,59,M,,150,,,1,1,1
+Male Bench Only Equipped Masters 4 (55 – 59 years) 120+KG,120,500,55,59,M,,140,,,1,1,1
+Male Bench Only Equipped Masters 5 (60 – 64 years) 62KG,1,62,60,64,M,,75,,,1,1,1
+Male Bench Only Equipped Masters 5 (60 – 64 years) 69KG,62,69,60,64,M,,80,,,1,1,1
+Male Bench Only Equipped Masters 5 (60 – 64 years) 77KG,69,77,60,64,M,,90,,,1,1,1
+Male Bench Only Equipped Masters 5 (60 – 64 years) 85KG,77,85,60,64,M,,90,,,1,1,1
+Male Bench Only Equipped Masters 5 (60 – 64 years) 94KG,85,94,60,64,M,,125,,,1,1,1
+Male Bench Only Equipped Masters 5 (60 – 64 years) 105KG,94,105,60,64,M,,110,,,1,1,1
+Male Bench Only Equipped Masters 5 (60 – 64 years) 120KG,105,120,60,64,M,,115,,,1,1,1
+Male Bench Only Equipped Masters 5 (60 – 64 years) 120+KG,120,500,60,64,M,,120,,,1,1,1
+Male Bench Only Equipped Masters 6 (65 – 69 years) 62KG,1,62,65,69,M,,70,,,1,1,1
+Male Bench Only Equipped Masters 6 (65 – 69 years) 69KG,62,69,65,69,M,,75,,,1,1,1
+Male Bench Only Equipped Masters 6 (65 – 69 years) 77KG,69,77,65,69,M,,80,,,1,1,1
+Male Bench Only Equipped Masters 6 (65 – 69 years) 85KG,77,85,65,69,M,,85,,,1,1,1
+Male Bench Only Equipped Masters 6 (65 – 69 years) 94KG,85,94,65,69,M,,125,,,1,1,1
+Male Bench Only Equipped Masters 6 (65 – 69 years) 105KG,94,105,65,69,M,,100,,,1,1,1
+Male Bench Only Equipped Masters 6 (65 – 69 years) 120KG,105,120,65,69,M,,110,,,1,1,1
+Male Bench Only Equipped Masters 6 (65 – 69 years) 120+KG,120,500,65,69,M,,115,,,1,1,1
+Male Bench Only Equipped Masters 7 (70 – 74 years) 62KG,1,62,70,74,M,,65,,,1,1,1
+Male Bench Only Equipped Masters 7 (70 – 74 years) 69KG,62,69,70,74,M,,70,,,1,1,1
+Male Bench Only Equipped Masters 7 (70 – 74 years) 77KG,69,77,70,74,M,,75,,,1,1,1
+Male Bench Only Equipped Masters 7 (70 – 74 years) 85KG,77,85,70,74,M,,80,,,1,1,1
+Male Bench Only Equipped Masters 7 (70 – 74 years) 94KG,85,94,70,74,M,,85,,,1,1,1
+Male Bench Only Equipped Masters 7 (70 – 74 years) 105KG,94,105,70,74,M,,90,,,1,1,1
+Male Bench Only Equipped Masters 7 (70 – 74 years) 120KG,105,120,70,74,M,,100,,,1,1,1
+Male Bench Only Equipped Masters 7 (70 – 74 years) 120+KG,120,500,70,74,M,,110,,,1,1,1
+Male Bench Only Equipped Masters 8 (75 – 79 years) 62KG,1,62,75,79,M,,60,,,1,1,1
+Male Bench Only Equipped Masters 8 (75 – 79 years) 69KG,62,69,75,79,M,,65,,,1,1,1
+Male Bench Only Equipped Masters 8 (75 – 79 years) 77KG,69,77,75,79,M,,70,,,1,1,1
+Male Bench Only Equipped Masters 8 (75 – 79 years) 85KG,77,85,75,79,M,,75,,,1,1,1
+Male Bench Only Equipped Masters 8 (75 – 79 years) 94KG,85,94,75,79,M,,80,,,1,1,1
+Male Bench Only Equipped Masters 8 (75 – 79 years) 105KG,94,105,75,79,M,,85,,,1,1,1
+Male Bench Only Equipped Masters 8 (75 – 79 years) 120KG,105,120,75,79,M,,90,,,1,1,1
+Male Bench Only Equipped Masters 8 (75 – 79 years) 120+KG,120,500,75,79,M,,100,,,1,1,1
+Male Bench Only Equipped Masters 9 (80+ years) 62KG,1,62,80,200,M,,50,,,1,1,1
+Male Bench Only Equipped Masters 9 (80+ years) 69KG,62,69,80,200,M,,60,,,1,1,1
+Male Bench Only Equipped Masters 9 (80+ years) 77KG,69,77,80,200,M,,65,,,1,1,1
+Male Bench Only Equipped Masters 9 (80+ years) 85KG,77,85,80,200,M,,70,,,1,1,1
+Male Bench Only Equipped Masters 9 (80+ years) 94KG,85,94,80,200,M,,75,,,1,1,1
+Male Bench Only Equipped Masters 9 (80+ years) 105KG,94,105,80,200,M,,80,,,1,1,1
+Male Bench Only Equipped Masters 9 (80+ years) 120KG,105,120,80,200,M,,85,,,1,1,1
+Male Bench Only Equipped Masters 9 (80+ years) 120+KG,120,500,80,200,M,,90,,,1,1,1
+
+

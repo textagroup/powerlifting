@@ -1,0 +1,193 @@
+Title,MinWeight,MaxWeight,MinAge,MaxAge,Gender,StandardSquat,StandardBench,StandardDeadlift,StandardTotal,Active,Affiliation,LiftType
+Female 3-Lift Classic Youth (14 – 18 years) 44KG,1,48,14,18,F,55,35,65,160,1,1,1
+Female 3-Lift Classic Youth (14 – 18 years) 48KG,1,48,14,18,F,65,40,70,180,1,1,1
+Female 3-Lift Classic Youth (14 – 18 years) 53KG,48,53,14,18,F,72,45,80,195,1,1,1
+Female 3-Lift Classic Youth (14 – 18 years) 58KG,53,58,14,18,F,82,50,90,210,1,1,1
+Female 3-Lift Classic Youth (14 – 18 years) 64KG,58,64,14,18,F,87,55,95,235,1,1,1
+Female 3-Lift Classic Youth (14 – 18 years) 72KG,64,72,14,18,F,95,65,105,260,1,1,1
+Female 3-Lift Classic Youth (14 – 18 years) 84KG,72,84,14,18,F,110,70,122,300,1,1,1
+Female 3-Lift Classic Youth (14 – 18 years) 84+KG,84,500,14,18,F,125,80,140,345,1,1,1
+Female 3-Lift Classic Junior (19 – 23 years) 48KG,1,48,19,23,F,77,47,80,215,1,1,1
+Female 3-Lift Classic Junior (19 – 23 years) 53KG,48,53,19,23,F,82,50,87,225,1,1,1
+Female 3-Lift Classic Junior (19 – 23 years) 58KG,53,58,19,23,F,92,52,97,245,1,1,1
+Female 3-Lift Classic Junior (19 – 23 years) 64KG,58,64,19,23,F,102,60,107,265,1,1,1
+Female 3-Lift Classic Junior (19 – 23 years) 72KG,64,72,19,23,F,112,70,120,300,1,1,1
+Female 3-Lift Classic Junior (19 – 23 years) 84KG,72,84,19,23,F,120,80,140,325,1,1,1
+Female 3-Lift Classic Junior (19 – 23 years) 100KG,84,100,19,23,F,130,90,150,350,1,1,1
+Female 3-Lift Classic Junior (19 – 23 years) 100+KG,100,500,19,23,F,140,100,155,395,1,1,1
+Female 3-Lift Classic Open (24 – 39 years) 48KG,1,48,24,39,F,85,55,100,245,1,1,1
+Female 3-Lift Classic Open (24 – 39 years) 53KG,48,53,24,39,F,95,60,120,320,1,1,1
+Female 3-Lift Classic Open (24 – 39 years) 58KG,53,58,24,39,F,115,70,135,340,1,1,1
+Female 3-Lift Classic Open (24 – 39 years) 64KG,58,64,24,39,F,125,80,165,360,1,1,1
+Female 3-Lift Classic Open (24 – 39 years) 72KG,64,72,24,39,F,141,85,179,376,1,1,1
+Female 3-Lift Classic Open (24 – 39 years) 84KG,72,84,24,39,F,147,94,184,427,1,1,1
+Female 3-Lift Classic Open (24 – 39 years) 100KG,84,100,24,39,F,185,94,189,455,1,1,1
+Female 3-Lift Classic Open (24 – 39 years) 100+KG,100,500,24,39,F,227,119,251,598,1,1,1
+Female 3-Lift Classic Masters 1 (40 – 44 years) 48KG,1,48,40,44,F,75,52,95,220,1,1,1
+Female 3-Lift Classic Masters 1 (40 – 44 years) 53KG,48,53,40,44,F,87,57,105,260,1,1,1
+Female 3-Lift Classic Masters 1 (40 – 44 years) 58KG,53,58,40,44,F,95,65,115,285,1,1,1
+Female 3-Lift Classic Masters 1 (40 – 44 years) 64KG,58,64,40,44,F,107,75,142,310,1,1,1
+Female 3-Lift Classic Masters 1 (40 – 44 years) 72KG,64,72,40,44,F,142,80,162,377,1,1,1
+Female 3-Lift Classic Masters 1 (40 – 44 years) 84KG,72,84,40,44,F,148,95,185,428,1,1,1
+Female 3-Lift Classic Masters 1 (40 – 44 years) 100KG,84,100,40,44,F,186,90,190,456,1,1,1
+Female 3-Lift Classic Masters 1 (40 – 44 years) 100+KG,100,500,40,44,F,171,95,180,435,1,1,1
+Female 3-Lift Classic Masters 2 (45 – 49 years) 48KG,1,48,45,49,F,70,45,80,210,1,1,1
+Female 3-Lift Classic Masters 2 (45 – 49 years) 53KG,48,53,45,49,F,82,50,95,225,1,1,1
+Female 3-Lift Classic Masters 2 (45 – 49 years) 58KG,53,58,45,49,F,85,55,105,240,1,1,1
+Female 3-Lift Classic Masters 2 (45 – 49 years) 64KG,58,64,45,49,F,107,60,135,301,1,1,1
+Female 3-Lift Classic Masters 2 (45 – 49 years) 72KG,64,72,45,49,F,105,65,120,290,1,1,1
+Female 3-Lift Classic Masters 2 (45 – 49 years) 84KG,72,84,45,49,F,148,95,185,428,1,1,1
+Female 3-Lift Classic Masters 2 (45 – 49 years) 100KG,84,100,45,49,F,186,85,190,456,1,1,1
+Female 3-Lift Classic Masters 2 (45 – 49 years) 100+KG,100,500,45,49,F,171,100,170,418,1,1,1
+Female 3-Lift Classic Masters 3 (50 – 54 years) 48KG,1,48,50,54,F,67,42,77,205,1,1,1
+Female 3-Lift Classic Masters 3 (50 – 54 years) 53KG,48,53,50,54,F,80,47,87,220,1,1,1
+Female 3-Lift Classic Masters 3 (50 – 54 years) 58KG,53,58,50,54,F,83,52,97,235,1,1,1
+Female 3-Lift Classic Masters 3 (50 – 54 years) 64KG,58,64,50,54,F,107,59,135,301,1,1,1
+Female 3-Lift Classic Masters 3 (50 – 54 years) 72KG,64,72,50,54,F,95,63,115,285,1,1,1
+Female 3-Lift Classic Masters 3 (50 – 54 years) 84KG,72,84,50,54,F,127,74,170,367,1,1,1
+Female 3-Lift Classic Masters 3 (50 – 54 years) 100KG,84,100,50,54,F,110,80,140,340,1,1,1
+Female 3-Lift Classic Masters 3 (50 – 54 years) 100+KG,100,500,50,54,F,171,93,170,418,1,1,1
+Female 3-Lift Classic Masters 4 (55 – 59 years) 48KG,1,48,55,59,F,62,38,75,175,1,1,1
+Female 3-Lift Classic Masters 4 (55 – 59 years) 53KG,48,53,55,59,F,67,42,82,192,1,1,1
+Female 3-Lift Classic Masters 4 (55 – 59 years) 58KG,53,58,55,59,F,72,47,92,210,1,1,1
+Female 3-Lift Classic Masters 4 (55 – 59 years) 64KG,58,64,55,59,F,107,59,135,301,1,1,1
+Female 3-Lift Classic Masters 4 (55 – 59 years) 72KG,64,72,55,59,F,92,57,112,260,1,1,1
+Female 3-Lift Classic Masters 4 (55 – 59 years) 84KG,72,84,55,59,F,117,63,122,294,1,1,1
+Female 3-Lift Classic Masters 4 (55 – 59 years) 100KG,84,100,55,59,F,100,70,132,305,1,1,1
+Female 3-Lift Classic Masters 4 (55 – 59 years) 100+KG,100,500,55,59,F,145,81,150,376,1,1,1
+Female 3-Lift Classic Masters 5 (60 – 64 years) 48KG,1,48,60,64,F,50,35,65,150,1,1,1
+Female 3-Lift Classic Masters 5 (60 – 64 years) 53KG,48,53,60,64,F,55,37,72,165,1,1,1
+Female 3-Lift Classic Masters 5 (60 – 64 years) 58KG,53,58,60,64,F,60,42,77,185,1,1,1
+Female 3-Lift Classic Masters 5 (60 – 64 years) 64KG,58,64,60,64,F,65,47,85,192,1,1,1
+Female 3-Lift Classic Masters 5 (60 – 64 years) 72KG,64,72,60,64,F,77,50,97,225,1,1,1
+Female 3-Lift Classic Masters 5 (60 – 64 years) 84KG,72,84,60,64,F,95,55,115,260,1,1,1
+Female 3-Lift Classic Masters 5 (60 – 64 years) 100KG,84,100,60,64,F,90,60,115,263,1,1,1
+Female 3-Lift Classic Masters 5 (60 – 64 years) 100+KG,100,500,60,64,F,100,65,122,290,1,1,1
+Female 3-Lift Classic Masters 6 (65 – 69 years) 48KG,1,48,65,69,F,45,32,60,135,1,1,1
+Female 3-Lift Classic Masters 6 (65 – 69 years) 53KG,48,53,65,69,F,50,35,70,150,1,1,1
+Female 3-Lift Classic Masters 6 (65 – 69 years) 58KG,53,58,65,69,F,57,37,75,170,1,1,1
+Female 3-Lift Classic Masters 6 (65 – 69 years) 64KG,58,64,65,69,F,62,40,80,177,1,1,1
+Female 3-Lift Classic Masters 6 (65 – 69 years) 72KG,64,72,65,69,F,75,50,93,190,1,1,1
+Female 3-Lift Classic Masters 6 (65 – 69 years) 84KG,72,84,65,69,F,95,55,115,260,1,1,1
+Female 3-Lift Classic Masters 6 (65 – 69 years) 100KG,84,100,65,69,F,87,57,105,235,1,1,1
+Female 3-Lift Classic Masters 6 (65 – 69 years) 100+KG,100,500,65,69,F,93,62,110,255,1,1,1
+Female 3-Lift Classic Masters 7 (70 – 74 years) 48KG,1,48,70,74,F,42,27,55,127,1,1,1
+Female 3-Lift Classic Masters 7 (70 – 74 years) 53KG,48,53,70,74,F,47,32,65,140,1,1,1
+Female 3-Lift Classic Masters 7 (70 – 74 years) 58KG,53,58,70,74,F,55,35,70,150,1,1,1
+Female 3-Lift Classic Masters 7 (70 – 74 years) 64KG,58,64,70,74,F,60,37,75,165,1,1,1
+Female 3-Lift Classic Masters 7 (70 – 74 years) 72KG,64,72,70,74,F,70,40,85,180,1,1,1
+Female 3-Lift Classic Masters 7 (70 – 74 years) 84KG,72,84,70,74,F,75,47,92,190,1,1,1
+Female 3-Lift Classic Masters 7 (70 – 74 years) 100KG,84,100,70,74,F,80,52,97,215,1,1,1
+Female 3-Lift Classic Masters 7 (70 – 74 years) 100+KG,100,500,70,74,F,85,57,102,235,1,1,1
+Female 3-Lift Classic Masters 8 (75 – 79 years) 48KG,1,48,75,79,F,40,25,50,110,1,1,1
+Female 3-Lift Classic Masters 8 (75 – 79 years) 53KG,48,53,75,79,F,45,30,60,120,1,1,1
+Female 3-Lift Classic Masters 8 (75 – 79 years) 58KG,53,58,75,79,F,52,33,65,135,1,1,1
+Female 3-Lift Classic Masters 8 (75 – 79 years) 64KG,58,64,75,79,F,57,35,70,147,1,1,1
+Female 3-Lift Classic Masters 8 (75 – 79 years) 72KG,64,72,75,79,F,65,37,80,170,1,1,1
+Female 3-Lift Classic Masters 8 (75 – 79 years) 84KG,72,84,75,79,F,70,42,90,185,1,1,1
+Female 3-Lift Classic Masters 8 (75 – 79 years) 100KG,84,100,75,79,F,77,45,95,195,1,1,1
+Female 3-Lift Classic Masters 8 (75 – 79 years) 100+KG,100,500,75,79,F,82,50,100,205,1,1,1
+Female 3-Lift Classic Masters 9 (80+ years) 48KG,1,48,80,200,F,35,20,40,90,1,1,1
+Female 3-Lift Classic Masters 9 (80+ years) 53KG,48,53,80,200,F,40,25,50,110,1,1,1
+Female 3-Lift Classic Masters 9 (80+ years) 58KG,53,58,80,200,F,45,30,60,120,1,1,1
+Female 3-Lift Classic Masters 9 (80+ years) 64KG,58,64,80,200,F,52,33,65,135,1,1,1
+Female 3-Lift Classic Masters 9 (80+ years) 72KG,64,72,80,200,F,57,35,70,147,1,1,1
+Female 3-Lift Classic Masters 9 (80+ years) 84KG,72,84,80,200,F,65,37,80,170,1,1,1
+Female 3-Lift Classic Masters 9 (80+ years) 100KG,84,100,80,200,F,70,42,90.185,1,1,1
+Female 3-Lift Classic Masters 9 (80+ years) 100+KG,100,500,80,200,F,75,45,95,195,1,1,1
+Female 3-Lift Equipped Youth (14 – 18 years) 44KG,1,48,14,18,F,70,40,80,190,1,1,1
+Female 3-Lift Equipped Youth (14 – 18 years) 48KG,1,48,14,18,F,77,45,90,210,1,1,1
+Female 3-Lift Equipped Youth (14 – 18 years) 53KG,48,53,14,18,F,85,50,95,230,1,1,1
+Female 3-Lift Equipped Youth (14 – 18 years) 58KG,53,58,14,18,F,90,55,100,245,1,1,1
+Female 3-Lift Equipped Youth (14 – 18 years) 64KG,58,64,14,18,F,100,62,110,275,1,1,1
+Female 3-Lift Equipped Youth (14 – 18 years) 72KG,64,72,14,18,F,110,70,120,300,1,1,1
+Female 3-Lift Equipped Youth (14 – 18 years) 84KG,72,84,14,18,F,120,75,130,325,1,1,1
+Female 3-Lift Equipped Youth (14 – 18 years) 84+KG,84,500,14,18,F,130,85,140,355,1,1,1
+Female 3-Lift Equipped Junior (19 – 23 years) 48KG,1,48,19,23,F,90,55,100,245,1,1,1
+Female 3-Lift Equipped Junior (19 – 23 years) 53KG,48,53,19,23,F,100,60,110,270,1,1,1
+Female 3-Lift Equipped Junior (19 – 23 years) 58KG,53,58,19,23,F,105,65,115,290,1,1,1
+Female 3-Lift Equipped Junior (19 – 23 years) 64KG,58,64,19,23,F,120,70,130,320,1,1,1
+Female 3-Lift Equipped Junior (19 – 23 years) 72KG,64,72,19,23,F,130,75,137,340,1,1,1
+Female 3-Lift Equipped Junior (19 – 23 years) 84KG,72,84,19,23,F,140,80,180,400,1,1,1
+Female 3-Lift Equipped Junior (19 – 23 years) 100KG,84,100,19,23,F,140,100,155,395,1,1,1
+Female 3-Lift Equipped Junior (19 – 23 years) 100+KG,100,500,19,23,F,145,110,160,415,1,1,1
+Female 3-Lift Equipped Open (24 – 39 years) 48KG,1,48,24,39,F,100,70,117,285,1,1,1
+Female 3-Lift Equipped Open (24 – 39 years) 53KG,48,53,24,39,F,112,75,130,320,1,1,1
+Female 3-Lift Equipped Open (24 – 39 years) 58KG,53,58,24,39,F,125,80,145,365,1,1,1
+Female 3-Lift Equipped Open (24 – 39 years) 64KG,58,64,24,39,F,135,85,160,395,1,1,1
+Female 3-Lift Equipped Open (24 – 39 years) 72KG,64,72,24,39,F,150,90,170,425,1,1,1
+Female 3-Lift Equipped Open (24 – 39 years) 84KG,72,84,24,39,F,200,157,210,562,1,1,1
+Female 3-Lift Equipped Open (24 – 39 years) 100KG,84,100,24,39,F,175,110,190,485,1,1,1
+Female 3-Lift Equipped Open (24 – 39 years) 100+KG,100,500,24,39,F,228,120,251,598,1,1,1
+Female 3-Lift Equipped Masters 1 (40 – 44 years) 48KG,1,48,40,44,F,95,60,110,265,1,1,1
+Female 3-Lift Equipped Masters 1 (40 – 44 years) 53KG,48,53,40,44,F,100,65,125,300,1,1,1
+Female 3-Lift Equipped Masters 1 (40 – 44 years) 58KG,53,58,40,44,F,110,70,135,315,1,1,1
+Female 3-Lift Equipped Masters 1 (40 – 44 years) 64KG,58,64,40,44,F,110,75,145,335,1,1,1
+Female 3-Lift Equipped Masters 1 (40 – 44 years) 72KG,64,72,40,44,F,142,80,165,377,1,1,1
+Female 3-Lift Equipped Masters 1 (40 – 44 years) 84KG,72,84,40,44,F,200,157,210,562,1,1,1
+Female 3-Lift Equipped Masters 1 (40 – 44 years) 100KG,84,100,40,44,F,145,105,195,485,1,1,1
+Female 3-Lift Equipped Masters 1 (40 – 44 years) 100+KG,100,500,40,44,F,175,120,200,510,1,1,1
+Female 3-Lift Equipped Masters 2 (45 – 49 years) 48KG,1,48,45,49,F,90,55,105,250,1,1,1
+Female 3-Lift Equipped Masters 2 (45 – 49 years) 53KG,48,53,45,49,F,95,62,110,265,1,1,1
+Female 3-Lift Equipped Masters 2 (45 – 49 years) 58KG,53,58,45,49,F,100,65,125,300,1,1,1
+Female 3-Lift Equipped Masters 2 (45 – 49 years) 64KG,58,64,45,49,F,105,70,135,315,1,1,1
+Female 3-Lift Equipped Masters 2 (45 – 49 years) 72KG,64,72,45,49,F,110,75,145,335,1,1,1
+Female 3-Lift Equipped Masters 2 (45 – 49 years) 84KG,72,84,45,49,F,200,157,210,562,1,1,1
+Female 3-Lift Equipped Masters 2 (45 – 49 years) 100KG,84,100,45,49,F,140,100,180,420,1,1,1
+Female 3-Lift Equipped Masters 2 (45 – 49 years) 100+KG,100,500,45,49,F,170,110,190,470,1,1,1
+Female 3-Lift Equipped Masters 3 (50 – 54 years) 48KG,1,48,50,54,F,80,50,100,235,1,1,1
+Female 3-Lift Equipped Masters 3 (50 – 54 years) 53KG,48,53,50,54,F,90,55,105,250,1,1,1
+Female 3-Lift Equipped Masters 3 (50 – 54 years) 58KG,53,58,50,54,F,95,60,115,270,1,1,1
+Female 3-Lift Equipped Masters 3 (50 – 54 years) 64KG,58,64,50,54,F,100,65,130,310,1,1,1
+Female 3-Lift Equipped Masters 3 (50 – 54 years) 72KG,64,72,50,54,F,105,70,135,315,1,1,1
+Female 3-Lift Equipped Masters 3 (50 – 54 years) 84KG,72,84,50,54,F,120,75,162,356,1,1,1
+Female 3-Lift Equipped Masters 3 (50 – 54 years) 100KG,84,100,50,54,F,135,90,160,385,1,1,1
+Female 3-Lift Equipped Masters 3 (50 – 54 years) 100+KG,100,500,50,54,F,170,105,175,425,1,1,1
+Female 3-Lift Equipped Masters 4 (55 – 59 years) 48KG,1,48,55,59,F,70,40,90,220,1,1,1
+Female 3-Lift Equipped Masters 4 (55 – 59 years) 53KG,48,53,55,59,F,75,45,95,240,1,1,1
+Female 3-Lift Equipped Masters 4 (55 – 59 years) 58KG,53,58,55,59,F,80,50,100,255,1,1,1
+Female 3-Lift Equipped Masters 4 (55 – 59 years) 64KG,58,64,55,59,F,85,55,110,265,1,1,1
+Female 3-Lift Equipped Masters 4 (55 – 59 years) 72KG,64,72,55,59,F,95,60,120,290,1,1,1
+Female 3-Lift Equipped Masters 4 (55 – 59 years) 84KG,72,84,55,59,F,100,65,130,310,1,1,1
+Female 3-Lift Equipped Masters 4 (55 – 59 years) 100KG,84,100,55,59,F,110,75,140,340,1,1,1
+Female 3-Lift Equipped Masters 4 (55 – 59 years) 100+KG,100,500,55,59,F,120,80,160,360,1,1,1
+Female 3-Lift Equipped Masters 5 (60 – 64 years) 48KG,1,48,60,64,F,65,37,85,180,1,1,1
+Female 3-Lift Equipped Masters 5 (60 – 64 years) 53KG,48,53,60,64,F,70,40,90,200,1,1,1
+Female 3-Lift Equipped Masters 5 (60 – 64 years) 58KG,53,58,60,64,F,75,45,95,220,1,1,1
+Female 3-Lift Equipped Masters 5 (60 – 64 years) 64KG,58,64,60,64,F,80,50,100,240,1,1,1
+Female 3-Lift Equipped Masters 5 (60 – 64 years) 72KG,64,72,60,64,F,85,55,110,270,1,1,1
+Female 3-Lift Equipped Masters 5 (60 – 64 years) 84KG,72,84,60,64,F,95,60,120,290,1,1,1
+Female 3-Lift Equipped Masters 5 (60 – 64 years) 100KG,84,100,60,64,F,100,65,130,310,1,1,1
+Female 3-Lift Equipped Masters 5 (60 – 64 years) 100+KG,100,500,60,64,F,110,75,140,330,1,1,1
+Female 3-Lift Equipped Masters 6 (65 – 69 years) 48KG,1,48,65,69,F,55,35,80,170,1,1,1
+Female 3-Lift Equipped Masters 6 (65 – 69 years) 53KG,48,53,65,69,F,60,37,85,180,1,1,1
+Female 3-Lift Equipped Masters 6 (65 – 69 years) 58KG,53,58,65,69,F,65,40,90,200,1,1,1
+Female 3-Lift Equipped Masters 6 (65 – 69 years) 64KG,58,64,65,69,F,70,45,95,220,1,1,1
+Female 3-Lift Equipped Masters 6 (65 – 69 years) 72KG,64,72,65,69,F,80,50,100,240,1,1,1
+Female 3-Lift Equipped Masters 6 (65 – 69 years) 84KG,72,84,65,69,F,85,55,110,270,1,1,1
+Female 3-Lift Equipped Masters 6 (65 – 69 years) 100KG,84,100,65,69,F,95,60,120,290,1,1,1
+Female 3-Lift Equipped Masters 6 (65 – 69 years) 100+KG,100,500,65,69,F,100,65,130,310,1,1,1
+Female 3-Lift Equipped Masters 7 (70 – 74 years) 48KG,1,48,70,74,F,50,32,70,155,1,1,1
+Female 3-Lift Equipped Masters 7 (70 – 74 years) 53KG,48,53,70,74,F,55,35,80,170,1,1,1
+Female 3-Lift Equipped Masters 7 (70 – 74 years) 58KG,53,58,70,74,F,60,37,85,180,1,1,1
+Female 3-Lift Equipped Masters 7 (70 – 74 years) 64KG,58,64,70,74,F,65,40,90,200,1,1,1
+Female 3-Lift Equipped Masters 7 (70 – 74 years) 72KG,64,72,70,74,F,70,45,95,220,1,1,1
+Female 3-Lift Equipped Masters 7 (70 – 74 years) 84KG,72,84,70,74,F,80,50,100,240,1,1,1
+Female 3-Lift Equipped Masters 7 (70 – 74 years) 100KG,84,100,70,74,F,85,55,110,270,1,1,1
+Female 3-Lift Equipped Masters 7 (70 – 74 years) 100+KG,100,500,70,74,F,95,60,120,290,1,1,1
+Female 3-Lift Equipped Masters 8 (75 – 79 years) 48KG,1,48,75,79,F,45,30,60,130,1,1,1
+Female 3-Lift Equipped Masters 8 (75 – 79 years) 53KG,48,53,75,79,F,50,32,70,155,1,1,1
+Female 3-Lift Equipped Masters 8 (75 – 79 years) 58KG,53,58,75,79,F,55,35,80,170,1,1,1
+Female 3-Lift Equipped Masters 8 (75 – 79 years) 64KG,58,64,75,79,F,60,37,85,180,1,1,1
+Female 3-Lift Equipped Masters 8 (75 – 79 years) 72KG,64,72,75,79,F,65,40,90,200,1,1,1
+Female 3-Lift Equipped Masters 8 (75 – 79 years) 84KG,72,84,75,79,F,70,45,95,220,1,1,1
+Female 3-Lift Equipped Masters 8 (75 – 79 years) 100KG,84,100,75,79,F,80,50,100,240,1,1,1
+Female 3-Lift Equipped Masters 8 (75 – 79 years) 100+KG,100,500,75,79,F,85,55,110,270,1,1,1
+Female 3-Lift Equipped Masters 9 (80+ years) 48KG,1,48,80,200,F,40,25,50,115,1,1,1
+Female 3-Lift Equipped Masters 9 (80+ years) 53KG,48,53,80,200,F,45,30,60,130,1,1,1
+Female 3-Lift Equipped Masters 9 (80+ years) 58KG,53,58,80,200,F,50,32,70,155,1,1,1
+Female 3-Lift Equipped Masters 9 (80+ years) 64KG,58,64,80,200,F,55,35,80,170,1,1,0
+Female 3-Lift Equipped Masters 9 (80+ years) 72KG,64,72,80,200,F,60,37,85,180,1,1,1
+Female 3-Lift Equipped Masters 9 (80+ years) 84KG,72,84,80,200,F,65,40,90,200,1,1,1
+Female 3-Lift Equipped Masters 9 (80+ years) 100KG,84,100,80,200,F,70,45,95.220,1,1,1
+Female 3-Lift Equipped Masters 9 (80+ years) 100+KG,100,500,80,200,F,80,50,100,240,1,1,1

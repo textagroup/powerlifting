@@ -51,6 +51,19 @@ When setting up the instance it is a good idea to set SS_ENVIRONMENT_TYPE to dev
 a dev/build.
 A good starting place for setting up a SilverStripe installation is [located here.](https://docs.silverstripe.org/en/4/getting_started/)
 
+## CSV Files
+
+A load of CSV files have been created which can be imported into the Lifter class model
+admin as entering data via the GUI is time consuming.
+However the overrides will still need to be done manually for now.
+
+# Disclaimer
+
+Some of the data will be wrong for the standards as I used the CDPA records spreadsheet
+so if the standard has been broken it uses the record instead and some of the data
+from these spreadsheets is just wrong like the Male 3-Lift Equipped 85kg total (43kg) for example
+where I have just guessed the correct standard.
+
 # TODO / Ideas
 
 PHPUnit tests would be good

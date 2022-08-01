@@ -1,0 +1,193 @@
+Title,MinWeight,MaxWeight,MinAge,MaxAge,Gender,StandardSquat,StandardBench,StandardDeadlift,StandardTotal,Active,Affiliation,LiftType
+Female Bench Only Classic Youth (14 – 18 years) 44KG,1,48,14,18,F,,35,,,1,1,1
+Female Bench Only Classic Youth (14 – 18 years) 48KG,1,48,14,18,F,,40,,,1,1,1
+Female Bench Only Classic Youth (14 – 18 years) 53KG,48,53,14,18,F,,45,,,1,1,1
+Female Bench Only Classic Youth (14 – 18 years) 58KG,53,58,14,18,F,,50,,,1,1,1
+Female Bench Only Classic Youth (14 – 18 years) 64KG,58,64,14,18,F,,55,,,1,1,1
+Female Bench Only Classic Youth (14 – 18 years) 72KG,64,72,14,18,F,,60,,,1,1,1
+Female Bench Only Classic Youth (14 – 18 years) 84KG,72,84,14,18,F,,65,,,1,1,1
+Female Bench Only Classic Youth (14 – 18 years) 84+KG,84,500,14,18,F,,70,,,1,1,1
+Female Bench Only Classic Junior (19 – 23 years) 48KG,1,48,19,23,F,,50,,,1,1,1
+Female Bench Only Classic Junior (19 – 23 years) 53KG,48,53,19,23,F,,55,,,1,1,1
+Female Bench Only Classic Junior (19 – 23 years) 58KG,53,58,19,23,F,,60,,,1,1,1
+Female Bench Only Classic Junior (19 – 23 years) 64KG,58,64,19,23,F,,65,,,1,1,1
+Female Bench Only Classic Junior (19 – 23 years) 72KG,64,72,19,23,F,,70,,,1,1,1
+Female Bench Only Classic Junior (19 – 23 years) 84KG,72,84,19,23,F,,75,,,1,1,1
+Female Bench Only Classic Junior (19 – 23 years) 100KG,84,100,19,23,F,,80,,,1,1,1
+Female Bench Only Classic Junior (19 – 23 years) 100+KG,100,500,19,23,F,,85,,,1,1,1
+Female Bench Only Classic Open (24 – 39 years) 48KG,1,48,24,39,F,,55,,,1,1,1
+Female Bench Only Classic Open (24 – 39 years) 53KG,48,53,24,39,F,,60,,,1,1,1
+Female Bench Only Classic Open (24 – 39 years) 58KG,53,58,24,39,F,,70,,,1,1,1
+Female Bench Only Classic Open (24 – 39 years) 64KG,58,64,24,39,F,,80,,,1,1,1
+Female Bench Only Classic Open (24 – 39 years) 72KG,64,72,24,39,F,,90,,,1,1,1
+Female Bench Only Classic Open (24 – 39 years) 84KG,72,84,24,39,F,,100,,,1,1,1
+Female Bench Only Classic Open (24 – 39 years) 100KG,84,100,24,39,F,,105,,,1,1,1
+Female Bench Only Classic Open (24 – 39 years) 100+KG,100,500,24,39,F,,110,,,1,1,1
+Female Bench Only Classic Masters 1 (40 – 44 years) 48KG,1,48,40,44,F,,50,,,1,1,1
+Female Bench Only Classic Masters 1 (40 – 44 years) 53KG,48,53,40,44,F,,55,,,1,1,1
+Female Bench Only Classic Masters 1 (40 – 44 years) 58KG,53,58,40,44,F,,60,,,1,1,1
+Female Bench Only Classic Masters 1 (40 – 44 years) 64KG,58,64,40,44,F,,65,,,1,1,1
+Female Bench Only Classic Masters 1 (40 – 44 years) 72KG,64,72,40,44,F,,70,,,1,1,1
+Female Bench Only Classic Masters 1 (40 – 44 years) 84KG,72,84,40,44,F,,75,,,1,1,1
+Female Bench Only Classic Masters 1 (40 – 44 years) 100KG,84,100,40,44,F,,80,,,1,1,1
+Female Bench Only Classic Masters 1 (40 – 44 years) 100+KG,100,500,40,44,F,,85,,,1,1,1
+Female Bench Only Classic Masters 2 (45 – 49 years) 48KG,1,48,45,49,F,,45,,,1,1,1
+Female Bench Only Classic Masters 2 (45 – 49 years) 53KG,48,53,45,49,F,,50,,,1,1,1
+Female Bench Only Classic Masters 2 (45 – 49 years) 58KG,53,58,45,49,F,,55,,,1,1,1
+Female Bench Only Classic Masters 2 (45 – 49 years) 64KG,58,64,45,49,F,,60,,,1,1,1
+Female Bench Only Classic Masters 2 (45 – 49 years) 72KG,64,72,45,49,F,,65,,,1,1,1
+Female Bench Only Classic Masters 2 (45 – 49 years) 84KG,72,84,45,49,F,,70,,,1,1,1
+Female Bench Only Classic Masters 2 (45 – 49 years) 100KG,84,100,45,49,F,,75,,,1,1,1
+Female Bench Only Classic Masters 2 (45 – 49 years) 100+KG,100,500,45,49,F,,80,,,1,1,1
+Female Bench Only Classic Masters 3 (50 – 54 years) 48KG,1,48,50,54,F,,42,,,1,1,1
+Female Bench Only Classic Masters 3 (50 – 54 years) 53KG,48,53,50,54,F,,47,,,1,1,1
+Female Bench Only Classic Masters 3 (50 – 54 years) 58KG,53,58,50,54,F,,52,,,1,1,1
+Female Bench Only Classic Masters 3 (50 – 54 years) 64KG,58,64,50,54,F,,57,,,1,1,1
+Female Bench Only Classic Masters 3 (50 – 54 years) 72KG,64,72,50,54,F,,62,,,1,1,1
+Female Bench Only Classic Masters 3 (50 – 54 years) 84KG,72,84,50,54,F,,67,,,1,1,1
+Female Bench Only Classic Masters 3 (50 – 54 years) 100KG,84,100,50,54,F,,72,,,1,1,1
+Female Bench Only Classic Masters 3 (50 – 54 years) 100+KG,100,500,50,54,F,,77,,,1,1,1
+Female Bench Only Classic Masters 4 (55 – 59 years) 48KG,1,48,55,59,F,,37,,,1,1,1
+Female Bench Only Classic Masters 4 (55 – 59 years) 53KG,48,53,55,59,F,,42,,,1,1,1
+Female Bench Only Classic Masters 4 (55 – 59 years) 58KG,53,58,55,59,F,,47,,,1,1,1
+Female Bench Only Classic Masters 4 (55 – 59 years) 64KG,58,64,55,59,F,,52,,,1,1,1
+Female Bench Only Classic Masters 4 (55 – 59 years) 72KG,64,72,55,59,F,,57,,,1,1,1
+Female Bench Only Classic Masters 4 (55 – 59 years) 84KG,72,84,55,59,F,,62,,,1,1,1
+Female Bench Only Classic Masters 4 (55 – 59 years) 100KG,84,100,55,59,F,,67,,,1,1,1
+Female Bench Only Classic Masters 4 (55 – 59 years) 100+KG,100,500,55,59,F,,72,,,1,1,1
+Female Bench Only Classic Masters 5 (60 – 64 years) 48KG,1,48,60,64,F,,32,,,1,1,1
+Female Bench Only Classic Masters 5 (60 – 64 years) 53KG,48,53,60,64,F,,37,,,1,1,1
+Female Bench Only Classic Masters 5 (60 – 64 years) 58KG,53,58,60,64,F,,42,,,1,1,1
+Female Bench Only Classic Masters 5 (60 – 64 years) 64KG,58,64,60,64,F,,47,,,1,1,1
+Female Bench Only Classic Masters 5 (60 – 64 years) 72KG,64,72,60,64,F,,52,,,1,1,1
+Female Bench Only Classic Masters 5 (60 – 64 years) 84KG,72,84,60,64,F,,57,,,1,1,1
+Female Bench Only Classic Masters 5 (60 – 64 years) 100KG,84,100,60,64,F,,62,,,1,1,1
+Female Bench Only Classic Masters 5 (60 – 64 years) 100+KG,100,500,60,64,F,,67,,,1,1,1
+Female Bench Only Classic Masters 6 (65 – 69 years) 48KG,1,48,65,69,F,,28,,,1,1,1
+Female Bench Only Classic Masters 6 (65 – 69 years) 53KG,48,53,65,69,F,,32,,,1,1,1
+Female Bench Only Classic Masters 6 (65 – 69 years) 58KG,53,58,65,69,F,,37,,,1,1,1
+Female Bench Only Classic Masters 6 (65 – 69 years) 64KG,58,64,65,69,F,,40,,,1,1,1
+Female Bench Only Classic Masters 6 (65 – 69 years) 72KG,64,72,65,69,F,,45,,,1,1,1
+Female Bench Only Classic Masters 6 (65 – 69 years) 84KG,72,84,65,69,F,,50,,,1,1,1
+Female Bench Only Classic Masters 6 (65 – 69 years) 100KG,84,100,65,69,F,,52,,,1,1,1
+Female Bench Only Classic Masters 6 (65 – 69 years) 100+KG,100,500,65,69,F,,55,,,1,1,1
+Female Bench Only Classic Masters 7 (70 – 74 years) 48KG,1,48,70,74,F,,26,,,1,1,1
+Female Bench Only Classic Masters 7 (70 – 74 years) 53KG,48,53,70,74,F,,28,,,1,1,1
+Female Bench Only Classic Masters 7 (70 – 74 years) 58KG,53,58,70,74,F,,32,,,1,1,1
+Female Bench Only Classic Masters 7 (70 – 74 years) 64KG,58,64,70,74,F,,37,,,1,1,1
+Female Bench Only Classic Masters 7 (70 – 74 years) 72KG,64,72,70,74,F,,40,,,1,1,1
+Female Bench Only Classic Masters 7 (70 – 74 years) 84KG,72,84,70,74,F,,45,,,1,1,1
+Female Bench Only Classic Masters 7 (70 – 74 years) 100KG,84,100,70,74,F,,50,,,1,1,1
+Female Bench Only Classic Masters 7 (70 – 74 years) 100+KG,100,500,70,74,F,,55,,,1,1,1
+Female Bench Only Classic Masters 8 (75 – 79 years) 48KG,1,48,75,79,F,,24,,,1,1,1
+Female Bench Only Classic Masters 8 (75 – 79 years) 53KG,48,53,75,79,F,,26,,,1,1,1
+Female Bench Only Classic Masters 8 (75 – 79 years) 58KG,53,58,75,79,F,,28,,,1,1,1
+Female Bench Only Classic Masters 8 (75 – 79 years) 64KG,58,64,75,79,F,,32,,,1,1,1
+Female Bench Only Classic Masters 8 (75 – 79 years) 72KG,64,72,75,79,F,,37,,,1,1,1
+Female Bench Only Classic Masters 8 (75 – 79 years) 84KG,72,84,75,79,F,,40,,,1,1,1
+Female Bench Only Classic Masters 8 (75 – 79 years) 100KG,84,100,75,79,F,,43,,1,1,1
+Female Bench Only Classic Masters 8 (75 – 79 years) 100+KG,100,500,75,79,F,,47,,,1,1,1
+Female Bench Only Classic Masters 9 (80+ years) 48KG,1,48,80,200,F,,20,,,1,1,1
+Female Bench Only Classic Masters 9 (80+ years) 53KG,48,53,80,200,F,,22,,,1,1,1
+Female Bench Only Classic Masters 9 (80+ years) 58KG,53,58,80,200,F,,26,,,1,1,1
+Female Bench Only Classic Masters 9 (80+ years) 64KG,58,64,80,200,F,,30,,,1,1,1
+Female Bench Only Classic Masters 9 (80+ years) 72KG,64,72,80,200,F,,35,,,1,1,1
+Female Bench Only Classic Masters 9 (80+ years) 84KG,72,84,80,200,F,,37,,,1,1,1
+Female Bench Only Classic Masters 9 (80+ years) 100KG,84,100,80,200,F,,40,,1,1,1
+Female Bench Only Classic Masters 9 (80+ years) 100+KG,100,500,80,200,F,,43,,,1,1,1
+Female Bench Only Equipped Youth (14 – 18 years) 48KG,1,48,14,18,F,,40,,,1,1,1
+Female Bench Only Equipped Youth (14 – 18 years) 53KG,48,53,14,18,F,,45,,,1,1,1
+Female Bench Only Equipped Youth (14 – 18 years) 58KG,53,58,14,18,F,,50,,,1,1,1
+Female Bench Only Equipped Youth (14 – 18 years) 64KG,58,64,14,18,F,,55,,,1,1,1
+Female Bench Only Equipped Youth (14 – 18 years) 72KG,64,72,14,18,F,,60,,,1,1,1
+Female Bench Only Equipped Youth (14 – 18 years) 84KG,72,84,14,18,F,,65,,,1,1,1
+Female Bench Only Equipped Youth (14 – 18 years) 100KG,84,100,14,18,F,,70,,,1,1,1
+Female Bench Only Equipped Youth (14 – 18 years) 100+KG,100,500,14,18,F,,80,,,1,1,1
+Female Bench Only Equipped Junior (19 – 23 years) 48KG,1,48,19,23,F,,55,,,1,1,1
+Female Bench Only Equipped Junior (19 – 23 years) 53KG,48,53,19,23,F,,60,,,1,1,1
+Female Bench Only Equipped Junior (19 – 23 years) 58KG,53,58,19,23,F,,65,,,1,1,1
+Female Bench Only Equipped Junior (19 – 23 years) 64KG,58,64,19,23,F,,70,,,1,1,1
+Female Bench Only Equipped Junior (19 – 23 years) 72KG,64,72,19,23,F,,75,,,1,1,1
+Female Bench Only Equipped Junior (19 – 23 years) 84KG,72,84,19,23,F,,80,,,1,1,1
+Female Bench Only Equipped Junior (19 – 23 years) 100KG,84,100,19,23,F,,85,,,1,1,1
+Female Bench Only Equipped Junior (19 – 23 years) 100+KG,100,500,19,23,F,,90,,,1,1,1
+Female Bench Only Equipped Open (24 – 39 years) 48KG,1,48,24,39,F,,60,,,1,1,1
+Female Bench Only Equipped Open (24 – 39 years) 53KG,48,53,24,39,F,,70,,,1,1,1
+Female Bench Only Equipped Open (24 – 39 years) 58KG,53,58,24,39,F,,80,,,1,1,1
+Female Bench Only Equipped Open (24 – 39 years) 64KG,58,64,24,39,F,,90,,,1,1,1
+Female Bench Only Equipped Open (24 – 39 years) 72KG,64,72,24,39,F,,100,,,1,1,1
+Female Bench Only Equipped Open (24 – 39 years) 84KG,72,84,24,39,F,,107,,,1,1,1
+Female Bench Only Equipped Open (24 – 39 years) 100KG,84,100,24,39,F,,150,,,1,1,1
+Female Bench Only Equipped Open (24 – 39 years) 100+KG,100,500,24,39,F,,125,,,1,1,1
+Female Bench Only Equipped Masters 1 (40 – 44 years) 48KG,1,48,40,44,F,,55,,,1,1,1
+Female Bench Only Equipped Masters 1 (40 – 44 years) 53KG,48,53,40,44,F,,60,,,1,1,1
+Female Bench Only Equipped Masters 1 (40 – 44 years) 58KG,53,58,40,44,F,,65,,,1,1,1
+Female Bench Only Equipped Masters 1 (40 – 44 years) 64KG,58,64,40,44,F,,70,,,1,1,1
+Female Bench Only Equipped Masters 1 (40 – 44 years) 72KG,64,72,40,44,F,,75,,,1,1,1
+Female Bench Only Equipped Masters 1 (40 – 44 years) 84KG,72,84,40,44,F,,150,,,1,1,1
+Female Bench Only Equipped Masters 1 (40 – 44 years) 100KG,84,100,40,44,F,,85,,,1,1,1
+Female Bench Only Equipped Masters 1 (40 – 44 years) 100+KG,100,500,40,44,F,,90,,,1,1,1
+Female Bench Only Equipped Masters 2 (45 – 49 years) 48KG,1,48,45,49,F,,50,,,1,1,1
+Female Bench Only Equipped Masters 2 (45 – 49 years) 53KG,48,53,45,49,F,,55,,,1,1,1
+Female Bench Only Equipped Masters 2 (45 – 49 years) 58KG,53,58,45,49,F,,60,,,1,1,1
+Female Bench Only Equipped Masters 2 (45 – 49 years) 64KG,58,64,45,49,F,,65,,,1,1,1
+Female Bench Only Equipped Masters 2 (45 – 49 years) 72KG,64,72,45,49,F,,70,,,1,1,1
+Female Bench Only Equipped Masters 2 (45 – 49 years) 84KG,72,84,45,49,F,,150,,,1,1,1
+Female Bench Only Equipped Masters 2 (45 – 49 years) 100KG,84,100,45,49,F,,80,,,1,1,1
+Female Bench Only Equipped Masters 2 (45 – 49 years) 100+KG,100,500,45,49,F,,85,,,1,1,1
+Female Bench Only Equipped Masters 3 (50 – 54 years) 48KG,1,48,50,54,F,,47,,,1,1,1
+Female Bench Only Equipped Masters 3 (50 – 54 years) 53KG,48,53,50,54,F,,52,,,1,1,1
+Female Bench Only Equipped Masters 3 (50 – 54 years) 58KG,53,58,50,54,F,,57,,,1,1,1
+Female Bench Only Equipped Masters 3 (50 – 54 years) 64KG,58,64,50,54,F,,62,,,1,1,1
+Female Bench Only Equipped Masters 3 (50 – 54 years) 72KG,64,72,50,54,F,,67,,,1,1,1
+Female Bench Only Equipped Masters 3 (50 – 54 years) 84KG,72,84,50,54,F,,72,,,1,1,1
+Female Bench Only Equipped Masters 3 (50 – 54 years) 100KG,84,100,50,54,F,,77,,,1,1,1
+Female Bench Only Equipped Masters 3 (50 – 54 years) 100+KG,100,500,50,54,F,,82,,,1,1,1
+Female Bench Only Equipped Masters 4 (55 – 59 years) 48KG,1,48,55,59,F,,42,,,1,1,1
+Female Bench Only Equipped Masters 4 (55 – 59 years) 53KG,48,53,55,59,F,,47,,,1,1,1
+Female Bench Only Equipped Masters 4 (55 – 59 years) 58KG,53,58,55,59,F,,52,,,1,1,1
+Female Bench Only Equipped Masters 4 (55 – 59 years) 64KG,58,64,55,59,F,,57,,,1,1,1
+Female Bench Only Equipped Masters 4 (55 – 59 years) 72KG,64,72,55,59,F,,62,,,1,1,1
+Female Bench Only Equipped Masters 4 (55 – 59 years) 84KG,72,84,55,59,F,,67,,,1,1,1
+Female Bench Only Equipped Masters 4 (55 – 59 years) 100KG,84,100,55,59,F,,72,,,1,1,1
+Female Bench Only Equipped Masters 4 (55 – 59 years) 100+KG,100,500,55,59,F,,77,,,1,1,1
+Female Bench Only Equipped Masters 5 (60 – 64 years) 48KG,1,48,60,64,F,,37,,,1,1,1
+Female Bench Only Equipped Masters 5 (60 – 64 years) 53KG,48,53,60,64,F,,42,,,1,1,1
+Female Bench Only Equipped Masters 5 (60 – 64 years) 58KG,53,58,60,64,F,,47,,,1,1,1
+Female Bench Only Equipped Masters 5 (60 – 64 years) 64KG,58,64,60,64,F,,52,,,1,1,1
+Female Bench Only Equipped Masters 5 (60 – 64 years) 72KG,64,72,60,64,F,,57,,,1,1,1
+Female Bench Only Equipped Masters 5 (60 – 64 years) 84KG,72,84,60,64,F,,62,,,1,1,1
+Female Bench Only Equipped Masters 5 (60 – 64 years) 100KG,84,100,60,64,F,,67,,,1,1,1
+Female Bench Only Equipped Masters 5 (60 – 64 years) 100+KG,100,500,60,64,F,,72,,,1,1,1
+Female Bench Only Equipped Masters 6 (65 – 69 years) 48KG,1,48,65,69,F,,32,,,1,1,1
+Female Bench Only Equipped Masters 6 (65 – 69 years) 53KG,48,53,65,69,F,,37,,,1,1,1
+Female Bench Only Equipped Masters 6 (65 – 69 years) 58KG,53,58,65,69,F,,40,,,1,1,1
+Female Bench Only Equipped Masters 6 (65 – 69 years) 64KG,58,64,65,69,F,,45,,,1,1,1
+Female Bench Only Equipped Masters 6 (65 – 69 years) 72KG,64,72,65,69,F,,50,,,1,1,1
+Female Bench Only Equipped Masters 6 (65 – 69 years) 84KG,72,84,65,69,F,,52,,,1,1,1
+Female Bench Only Equipped Masters 6 (65 – 69 years) 100KG,84,100,65,69,F,,55,,,1,1,1
+Female Bench Only Equipped Masters 6 (65 – 69 years) 100+KG,100,500,65,69,F,,60,,,1,1,1
+Female Bench Only Equipped Masters 7 (70 – 74 years) 48KG,1,48,70,74,F,,28,,,1,1,1
+Female Bench Only Equipped Masters 7 (70 – 74 years) 53KG,48,53,70,74,F,,32,,,1,1,1
+Female Bench Only Equipped Masters 7 (70 – 74 years) 58KG,53,58,70,74,F,,37,,,1,1,1
+Female Bench Only Equipped Masters 7 (70 – 74 years) 64KG,58,64,70,74,F,,40,,,1,1,1
+Female Bench Only Equipped Masters 7 (70 – 74 years) 72KG,64,72,70,74,F,,45,,,1,1,1
+Female Bench Only Equipped Masters 7 (70 – 74 years) 84KG,72,84,70,74,F,,50,,,1,1,1
+Female Bench Only Equipped Masters 7 (70 – 74 years) 100KG,84,100,70,74,F,,52,,,1,1,1
+Female Bench Only Equipped Masters 7 (70 – 74 years) 100+KG,100,500,70,74,F,,57,,,1,1,1
+Female Bench Only Equipped Masters 8 (75 – 79 years) 48KG,1,48,75,79,F,,26,,,1,1,1
+Female Bench Only Equipped Masters 8 (75 – 79 years) 53KG,48,53,75,79,F,,28,,,1,1,1
+Female Bench Only Equipped Masters 8 (75 – 79 years) 58KG,53,58,75,79,F,,32,,,1,1,1
+Female Bench Only Equipped Masters 8 (75 – 79 years) 64KG,58,64,75,79,F,,37,,,1,1,1
+Female Bench Only Equipped Masters 8 (75 – 79 years) 72KG,64,72,75,79,F,,40,,,1,1,1
+Female Bench Only Equipped Masters 8 (75 – 79 years) 84KG,72,84,75,79,F,,43,,,1,1,1
+Female Bench Only Equipped Masters 8 (75 – 79 years) 100KG,84,100,75,79,F,,47,,1,1,1
+Female Bench Only Equipped Masters 8 (75 – 79 years) 100+KG,100,500,75,79,F,,50,,,1,1,1
+Female Bench Only Equipped Masters 9 (80+ years) 48KG,1,48,80,200,F,,24,,,1,1,1
+Female Bench Only Equipped Masters 9 (80+ years) 53KG,48,53,80,200,F,,26,,,1,1,1
+Female Bench Only Equipped Masters 9 (80+ years) 58KG,53,58,80,200,F,,28,,,1,1,1
+Female Bench Only Equipped Masters 9 (80+ years) 64KG,58,64,80,200,F,,32,,,1,1,1
+Female Bench Only Equipped Masters 9 (80+ years) 72KG,64,72,80,200,F,,37,,,1,1,1
+Female Bench Only Equipped Masters 9 (80+ years) 84KG,72,84,80,200,F,,40,,,1,1,1
+Female Bench Only Equipped Masters 9 (80+ years) 100KG,84,100,80,200,F,,43,,1,1,1
+Female Bench Only Equipped Masters 9 (80+ years) 100+KG,100,500,80,200,F,,45,,,1,1,1
