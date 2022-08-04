@@ -30,6 +30,8 @@ class LifterClassAdmin extends ModelAdmin
             'StandardTotal' => 'StandardTotal',
             'Active' => 'Active',
             'Override' => 'Override',
+            'AffiliationID' => 'Affiliation',
+            'LiftTypeID' => 'LiftType',
         ];
     }
 }
