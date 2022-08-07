@@ -3,15 +3,17 @@
 namespace Powerlifting;
 
 use SilverStripe\ORM\DataObject;
-use SilverStripe\Versioned\Versioned;
+//use SilverStripe\Versioned\Versioned;
 
 class Lifter extends DataObject 
 {
     private static $table_name = 'Lifter';
 
+/*
     private static $extensions = [
         Versioned::class . '.versioned',
     ];
+*/
 
     private static $db = [
         'Title' => 'Varchar',

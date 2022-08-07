@@ -5,15 +5,17 @@ namespace Powerlifting;
 use Page;
 use SilverStripe\ORM\DataObject;
 use SilverStripe\Forms\ListboxField;
-use SilverStripe\Versioned\Versioned;
+//use SilverStripe\Versioned\Versioned;
 
 class LifterClass extends DataObject 
 {
     private static $table_name = 'LifterClass';
 
+/*
     private static $extensions = [
         Versioned::class . '.versioned',
     ];
+*/
 
     private static $db = [
         'Title' => 'Varchar',
