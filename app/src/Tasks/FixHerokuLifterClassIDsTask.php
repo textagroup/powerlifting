@@ -44,8 +44,10 @@ class FixHerokuLifterClassIDsTask extends BuildTask
         foreach ($lifterClasses->where('Override IS NOT NULL') as $lifterClass) {
             $cleanIDs = [];
             $dirtyIDs = json_decode($lifterClass->Override, true);
-            foreach ($dirtyIDs as $id) {
-                $cleanIDs[] = $ids[$id];
+            if (isset($dirtyIDs) && count($dirtyIDs)) {
+                foreach ($dirtyIDs as $id) {
+                    $cleanIDs[] = $ids[$id];
+                }
             }
             if (count($cleanIDs)) {
                 $updated++;
