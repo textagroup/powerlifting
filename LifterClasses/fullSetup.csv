@@ -1,0 +1,769 @@
+﻿Title,MinWeight,MaxWeight,MinAge,MaxAge,Gender,StandardSquat,StandardBench,StandardDeadlift,StandardTotal,Active,Override,Affiliation,LiftType
+"Female Bench Only Classic Youth (14 – 18 years) 44KG",1,48,14,18,F,0,35,0,0,1,,1,1
+"Female Bench Only Classic Youth (14 – 18 years) 48KG",1,48,14,18,F,0,40,0,0,1,"[""9""]",1,1
+"Female Bench Only Classic Youth (14 – 18 years) 53KG",48,53,14,18,F,0,45,0,0,1,"[""10""]",1,1
+"Female Bench Only Classic Youth (14 – 18 years) 58KG",53,58,14,18,F,0,50,0,0,1,"[""11""]",1,1
+"Female Bench Only Classic Youth (14 – 18 years) 64KG",58,64,14,18,F,0,55,0,0,1,"[""12""]",1,1
+"Female Bench Only Classic Youth (14 – 18 years) 72KG",64,72,14,18,F,0,60,0,0,1,"[""13""]",1,1
+"Female Bench Only Classic Youth (14 – 18 years) 84KG",72,84,14,18,F,0,65,0,0,1,"[""14""]",1,1
+"Female Bench Only Classic Youth (14 – 18 years) 84+KG",84,500,14,18,F,0,70,0,0,1,,1,1
+"Female Bench Only Classic Junior (19 – 23 years) 48KG",1,48,19,23,F,0,50,0,0,1,"[""17""]",1,1
+"Female Bench Only Classic Junior (19 – 23 years) 53KG",48,53,19,23,F,0,55,0,0,1,"[""18""]",1,1
+"Female Bench Only Classic Junior (19 – 23 years) 58KG",53,58,19,23,F,0,60,0,0,1,"[""19""]",1,1
+"Female Bench Only Classic Junior (19 – 23 years) 64KG",58,64,19,23,F,0,65,0,0,1,"[""5""]",1,1
+"Female Bench Only Classic Junior (19 – 23 years) 72KG",64,72,19,23,F,0,70,0,0,1,"[""6""]",1,1
+"Female Bench Only Classic Junior (19 – 23 years) 84KG",72,84,19,23,F,0,75,0,0,1,"[""22""]",1,1
+"Female Bench Only Classic Junior (19 – 23 years) 100KG",84,100,19,23,F,0,80,0,0,1,"[""23""]",1,1
+"Female Bench Only Classic Junior (19 – 23 years) 100+KG",100,500,19,23,F,0,85,0,0,1,"[""24""]",1,1
+"Female Bench Only Classic Open (24 – 39 years) 48KG",1,48,24,39,F,0,55,0,0,1,,1,1
+"Female Bench Only Classic Open (24 – 39 years) 53KG",48,53,24,39,F,0,60,0,0,1,,1,1
+"Female Bench Only Classic Open (24 – 39 years) 58KG",53,58,24,39,F,0,70,0,0,1,,1,1
+"Female Bench Only Classic Open (24 – 39 years) 64KG",58,64,24,39,F,0,80,0,0,1,,1,1
+"Female Bench Only Classic Open (24 – 39 years) 72KG",64,72,24,39,F,0,90,0,0,1,,1,1
+"Female Bench Only Classic Open (24 – 39 years) 84KG",72,84,24,39,F,0,100,0,0,1,,1,1
+"Female Bench Only Classic Open (24 – 39 years) 100KG",84,100,24,39,F,0,105,0,0,1,,1,1
+"Female Bench Only Classic Open (24 – 39 years) 100+KG",100,500,24,39,F,0,110,0,0,1,,1,1
+"Female Bench Only Classic Masters 1 (40 – 44 years) 48KG",1,48,40,44,F,0,50,0,0,1,"[""17""]",1,1
+"Female Bench Only Classic Masters 1 (40 – 44 years) 53KG",48,53,40,44,F,0,55,0,0,1,"[""18""]",1,1
+"Female Bench Only Classic Masters 1 (40 – 44 years) 58KG",53,58,40,44,F,0,60,0,0,1,"[""19""]",1,1
+"Female Bench Only Classic Masters 1 (40 – 44 years) 64KG",58,64,40,44,F,0,65,0,0,1,"[""20""]",1,1
+"Female Bench Only Classic Masters 1 (40 – 44 years) 72KG",64,72,40,44,F,0,70,0,0,1,"[""21""]",1,1
+"Female Bench Only Classic Masters 1 (40 – 44 years) 84KG",72,84,40,44,F,0,75,0,0,1,"[""22""]",1,1
+"Female Bench Only Classic Masters 1 (40 – 44 years) 100KG",84,100,40,44,F,0,80,0,0,1,"[""23""]",1,1
+"Female Bench Only Classic Masters 1 (40 – 44 years) 100+KG",100,500,40,44,F,0,85,0,0,1,"[""24""]",1,1
+"Female Bench Only Classic Masters 2 (45 – 49 years) 48KG",1,48,45,49,F,0,45,0,0,1,"[""17"",""25""]",1,1
+"Female Bench Only Classic Masters 2 (45 – 49 years) 53KG",48,53,45,49,F,0,50,0,0,1,"[""18"",""26""]",1,1
+"Female Bench Only Classic Masters 2 (45 – 49 years) 58KG",53,58,45,49,F,0,55,0,0,1,"[""19"",""27""]",1,1
+"Female Bench Only Classic Masters 2 (45 – 49 years) 64KG",58,64,45,49,F,0,60,0,0,1,"[""20"",""28""]",1,1
+"Female Bench Only Classic Masters 2 (45 – 49 years) 72KG",64,72,45,49,F,0,65,0,0,1,"[""21"",""29""]",1,1
+"Female Bench Only Classic Masters 2 (45 – 49 years) 84KG",72,84,45,49,F,0,70,0,0,1,"[""22"",""30""]",1,1
+"Female Bench Only Classic Masters 2 (45 – 49 years) 100KG",84,100,45,49,F,0,75,0,0,1,"[""23"",""31""]",1,1
+"Female Bench Only Classic Masters 2 (45 – 49 years) 100+KG",100,500,45,49,F,0,80,0,0,1,"[""24"",""32""]",1,1
+"Female Bench Only Classic Masters 3 (50 – 54 years) 48KG",1,48,50,54,F,0,42,0,0,1,"[""17"",""25"",""33""]",1,1
+"Female Bench Only Classic Masters 3 (50 – 54 years) 53KG",48,53,50,54,F,0,47,0,0,1,"[""18"",""26"",""34""]",1,1
+"Female Bench Only Classic Masters 3 (50 – 54 years) 58KG",53,58,50,54,F,0,52,0,0,1,"[""19"",""27"",""35""]",1,1
+"Female Bench Only Classic Masters 3 (50 – 54 years) 64KG",58,64,50,54,F,0,57,0,0,1,"[""20"",""28"",""36""]",1,1
+"Female Bench Only Classic Masters 3 (50 – 54 years) 72KG",64,72,50,54,F,0,62,0,0,1,"[""21"",""29"",""37""]",1,1
+"Female Bench Only Classic Masters 3 (50 – 54 years) 84KG",72,84,50,54,F,0,67,0,0,1,"[""22"",""30"",""38""]",1,1
+"Female Bench Only Classic Masters 3 (50 – 54 years) 100KG",84,100,50,54,F,0,72,0,0,1,"[""23"",""31"",""39""]",1,1
+"Female Bench Only Classic Masters 3 (50 – 54 years) 100+KG",100,500,50,54,F,0,77,0,0,1,"[""24"",""32"",""40""]",1,1
+"Female Bench Only Classic Masters 4 (55 – 59 years) 48KG",1,48,55,59,F,0,37,0,0,1,"[""17"",""25"",""33"",""41""]",1,1
+"Female Bench Only Classic Masters 4 (55 – 59 years) 53KG",48,53,55,59,F,0,42,0,0,1,"[""18"",""26"",""34"",""42""]",1,1
+"Female Bench Only Classic Masters 4 (55 – 59 years) 58KG",53,58,55,59,F,0,47,0,0,1,"[""19"",""27"",""35"",""44""]",1,1
+"Female Bench Only Classic Masters 4 (55 – 59 years) 64KG",58,64,55,59,F,0,52,0,0,1,"[""20"",""28"",""36"",""44""]",1,1
+"Female Bench Only Classic Masters 4 (55 – 59 years) 72KG",64,72,55,59,F,0,57,0,0,1,"[""21"",""29"",""37"",""45""]",1,1
+"Female Bench Only Classic Masters 4 (55 – 59 years) 84KG",72,84,55,59,F,0,62,0,0,1,"[""22"",""30"",""38"",""46""]",1,1
+"Female Bench Only Classic Masters 4 (55 – 59 years) 100KG",84,100,55,59,F,0,67,0,0,1,"[""23"",""31"",""39"",""47""]",1,1
+"Female Bench Only Classic Masters 4 (55 – 59 years) 100+KG",100,500,55,59,F,0,72,0,0,1,"[""24"",""32"",""40"",""48""]",1,1
+"Female Bench Only Classic Masters 5 (60 – 64 years) 48KG",1,48,60,64,F,0,32,0,0,1,"[""17"",""25"",""33"",""41"",""49""]",1,1
+"Female Bench Only Classic Masters 5 (60 – 64 years) 53KG",48,53,60,64,F,0,37,0,0,1,"[""18"",""26"",""34"",""42"",""50""]",1,1
+"Female Bench Only Classic Masters 5 (60 – 64 years) 58KG",53,58,60,64,F,0,42,0,0,1,"[""19"",""27"",""35"",""44"",""51""]",1,1
+"Female Bench Only Classic Masters 5 (60 – 64 years) 64KG",58,64,60,64,F,0,47,0,0,1,"[""20"",""28"",""36"",""44"",""52""]",1,1
+"Female Bench Only Classic Masters 5 (60 – 64 years) 72KG",64,72,60,64,F,0,52,0,0,1,"[""21"",""29"",""37"",""45"",""53""]",1,1
+"Female Bench Only Classic Masters 5 (60 – 64 years) 84KG",72,84,60,64,F,0,57,0,0,1,"[""22"",""30"",""38"",""46"",""54""]",1,1
+"Female Bench Only Classic Masters 5 (60 – 64 years) 100KG",84,100,60,64,F,0,62,0,0,1,"[""23"",""31"",""39"",""47"",""55""]",1,1
+"Female Bench Only Classic Masters 5 (60 – 64 years) 100+KG",100,500,60,64,F,0,67,0,0,1,"[""24"",""32"",""40"",""48"",""56""]",1,1
+"Female Bench Only Classic Masters 6 (65 – 69 years) 48KG",1,48,65,69,F,0,28,0,0,1,"[""17"",""25"",""33"",""41"",""49"",""57""]",1,1
+"Female Bench Only Classic Masters 6 (65 – 69 years) 53KG",48,53,65,69,F,0,32,0,0,1,"[""18"",""26"",""34"",""42"",""50"",""58""]",1,1
+"Female Bench Only Classic Masters 6 (65 – 69 years) 58KG",53,58,65,69,F,0,37,0,0,1,"[""19"",""27"",""35"",""44"",""51"",""59""]",1,1
+"Female Bench Only Classic Masters 6 (65 – 69 years) 64KG",58,64,65,69,F,0,40,0,0,1,"[""20"",""28"",""36"",""44"",""52"",""60""]",1,1
+"Female Bench Only Classic Masters 6 (65 – 69 years) 72KG",64,72,65,69,F,0,45,0,0,1,"[""21"",""29"",""37"",""45"",""53"",""61""]",1,1
+"Female Bench Only Classic Masters 6 (65 – 69 years) 84KG",72,84,65,69,F,0,50,0,0,1,"[""22"",""30"",""38"",""46"",""54"",""62""]",1,1
+"Female Bench Only Classic Masters 6 (65 – 69 years) 100KG",84,100,65,69,F,0,52,0,0,1,"[""23"",""31"",""39"",""47"",""55"",""63""]",1,1
+"Female Bench Only Classic Masters 6 (65 – 69 years) 100+KG",100,500,65,69,F,0,55,0,0,1,"[""24"",""32"",""40"",""48"",""56"",""64""]",1,1
+"Female Bench Only Classic Masters 7 (70 – 74 years) 48KG",1,48,70,74,F,0,26,0,0,1,"[""17"",""25"",""33"",""41"",""49"",""57"",""65""]",1,1
+"Female Bench Only Classic Masters 7 (70 – 74 years) 53KG",48,53,70,74,F,0,28,0,0,1,"[""18"",""26"",""34"",""42"",""50"",""58"",""66""]",1,1
+"Female Bench Only Classic Masters 7 (70 – 74 years) 58KG",53,58,70,74,F,0,32,0,0,1,"[""19"",""27"",""35"",""44"",""51"",""59"",""67""]",1,1
+"Female Bench Only Classic Masters 7 (70 – 74 years) 64KG",58,64,70,74,F,0,37,0,0,1,"[""20"",""28"",""36"",""44"",""52"",""60"",""68""]",1,1
+"Female Bench Only Classic Masters 7 (70 – 74 years) 72KG",64,72,70,74,F,0,40,0,0,1,"[""22"",""30"",""38"",""46"",""54"",""62"",""70""]",1,1
+"Female Bench Only Classic Masters 7 (70 – 74 years) 84KG",72,84,70,74,F,0,45,0,0,1,"[""22"",""30"",""38"",""46"",""54"",""62"",""70""]",1,1
+"Female Bench Only Classic Masters 7 (70 – 74 years) 100KG",84,100,70,74,F,0,50,0,0,1,"[""23"",""31"",""39"",""47"",""55"",""63"",""71""]",1,1
+"Female Bench Only Classic Masters 7 (70 – 74 years) 100+KG",100,500,70,74,F,0,55,0,0,1,"[""24"",""32"",""40"",""48"",""56"",""64"",""72""]",1,1
+"Female Bench Only Classic Masters 8 (75 – 79 years) 48KG",1,48,75,79,F,0,24,0,0,1,"[""17"",""25"",""33"",""41"",""49"",""57"",""65"",""73""]",1,1
+"Female Bench Only Classic Masters 8 (75 – 79 years) 53KG",48,53,75,79,F,0,26,0,0,1,"[""18"",""26"",""34"",""42"",""50"",""58"",""66"",""74""]",1,1
+"Female Bench Only Classic Masters 8 (75 – 79 years) 58KG",53,58,75,79,F,0,28,0,0,1,"[""19"",""27"",""35"",""44"",""51"",""59"",""67"",""75""]",1,1
+"Female Bench Only Classic Masters 8 (75 – 79 years) 64KG",58,64,75,79,F,0,32,0,0,1,"[""20"",""28"",""36"",""44"",""52"",""60"",""68"",""76""]",1,1
+"Female Bench Only Classic Masters 8 (75 – 79 years) 72KG",64,72,75,79,F,0,37,0,0,1,"[""21"",""29"",""37"",""45"",""53"",""61"",""69"",""77""]",1,1
+"Female Bench Only Classic Masters 8 (75 – 79 years) 84KG",72,84,75,79,F,0,40,0,0,1,"[""22"",""30"",""38"",""46"",""54"",""62"",""70"",""77""]",1,1
+"Female Bench Only Classic Masters 8 (75 – 79 years) 100KG",84,100,75,79,F,0,43,0,1,1,"[""23"",""31"",""39"",""47"",""55"",""63"",""71"",""79""]",1,1
+"Female Bench Only Classic Masters 8 (75 – 79 years) 100+KG",100,500,75,79,F,0,47,0,0,1,"[""24"",""32"",""40"",""48"",""56"",""64"",""72"",""80""]",1,1
+"Female Bench Only Classic Masters 9 (80+ years) 48KG",1,48,80,200,F,0,20,0,0,1,"[""17"",""25"",""33"",""41"",""49"",""57"",""65"",""73"",""81""]",1,1
+"Female Bench Only Classic Masters 9 (80+ years) 53KG",48,53,80,200,F,0,22,0,0,1,"[""19"",""27"",""35"",""44"",""51"",""59"",""67"",""75"",""83""]",1,1
+"Female Bench Only Classic Masters 9 (80+ years) 58KG",53,58,80,200,F,0,26,0,0,1,"[""19"",""27"",""35"",""43"",""51"",""59"",""67"",""75"",""83""]",1,1
+"Female Bench Only Classic Masters 9 (80+ years) 64KG",58,64,80,200,F,0,30,0,0,1,"[""20"",""28"",""36"",""44"",""52"",""60"",""68"",""76"",""84""]",1,1
+"Female Bench Only Classic Masters 9 (80+ years) 72KG",64,72,80,200,F,0,35,0,0,1,"[""21"",""29"",""37"",""45"",""53"",""61"",""69"",""77"",""85""]",1,1
+"Female Bench Only Classic Masters 9 (80+ years) 84KG",72,84,80,200,F,0,37,0,0,1,"[""22"",""30"",""38"",""46"",""54"",""62"",""70"",""77"",""86""]",1,1
+"Female Bench Only Classic Masters 9 (80+ years) 100KG",84,100,80,200,F,0,40,0,1,1,"[""23"",""31"",""39"",""47"",""55"",""63"",""71"",""79"",""87""]",1,1
+"Female Bench Only Classic Masters 9 (80+ years) 100+KG",100,500,80,200,F,0,43,0,0,1,"[""24"",""32"",""40"",""48"",""56"",""64"",""72"",""80"",""88""]",1,1
+"Female Bench Only Equipped Youth (14 – 18 years) 48KG",1,48,14,18,F,0,40,0,0,1,"[""113""]",1,2
+"Female Bench Only Equipped Youth (14 – 18 years) 53KG",48,53,14,18,F,0,45,0,0,1,"[""114""]",1,2
+"Female Bench Only Equipped Youth (14 – 18 years) 58KG",53,58,14,18,F,0,50,0,0,1,"[""115""]",1,2
+"Female Bench Only Equipped Youth (14 – 18 years) 64KG",58,64,14,18,F,0,55,0,0,1,"[""116""]",1,2
+"Female Bench Only Equipped Youth (14 – 18 years) 72KG",64,72,14,18,F,0,60,0,0,1,"[""117""]",1,2
+"Female Bench Only Equipped Youth (14 – 18 years) 84KG",72,84,14,18,F,0,65,0,0,1,"[""118""]",1,2
+"Female Bench Only Equipped Youth (14 – 18 years) 100KG",84,100,14,18,F,0,70,0,0,1,"[""119""]",1,2
+"Female Bench Only Equipped Youth (14 – 18 years) 100+KG",100,500,14,18,F,0,80,0,0,1,"[""120""]",1,2
+"Female Bench Only Equipped Junior (19 – 23 years) 48KG",1,48,19,23,F,0,55,0,0,1,"[""113""]",1,2
+"Female Bench Only Equipped Junior (19 – 23 years) 53KG",48,53,19,23,F,0,60,0,0,1,"[""114""]",1,2
+"Female Bench Only Equipped Junior (19 – 23 years) 58KG",53,58,19,23,F,0,65,0,0,1,"[""115""]",1,2
+"Female Bench Only Equipped Junior (19 – 23 years) 64KG",58,64,19,23,F,0,70,0,0,1,"[""116""]",1,2
+"Female Bench Only Equipped Junior (19 – 23 years) 72KG",64,72,19,23,F,0,75,0,0,1,"[""117""]",1,2
+"Female Bench Only Equipped Junior (19 – 23 years) 84KG",72,84,19,23,F,0,80,0,0,1,"[""118""]",1,2
+"Female Bench Only Equipped Junior (19 – 23 years) 100KG",84,100,19,23,F,0,85,0,0,1,"[""119""]",1,2
+"Female Bench Only Equipped Junior (19 – 23 years) 100+KG",100,500,19,23,F,0,90,0,0,1,"[""120""]",1,2
+"Female Bench Only Equipped Open (24 – 39 years) 48KG",1,48,24,39,F,0,60,0,0,1,,1,2
+"Female Bench Only Equipped Open (24 – 39 years) 53KG",48,53,24,39,F,0,70,0,0,1,,1,2
+"Female Bench Only Equipped Open (24 – 39 years) 58KG",53,58,24,39,F,0,80,0,0,1,,1,2
+"Female Bench Only Equipped Open (24 – 39 years) 64KG",58,64,24,39,F,0,90,0,0,1,,1,2
+"Female Bench Only Equipped Open (24 – 39 years) 72KG",64,72,24,39,F,0,100,0,0,1,,1,2
+"Female Bench Only Equipped Open (24 – 39 years) 84KG",72,84,24,39,F,0,107,0,0,1,,1,2
+"Female Bench Only Equipped Open (24 – 39 years) 100KG",84,100,24,39,F,0,150,0,0,1,,1,2
+"Female Bench Only Equipped Open (24 – 39 years) 100+KG",100,500,24,39,F,0,125,0,0,1,,1,2
+"Female Bench Only Equipped Masters 1 (40 – 44 years) 48KG",1,48,40,44,F,0,55,0,0,1,"[""113""]",1,2
+"Female Bench Only Equipped Masters 1 (40 – 44 years) 53KG",48,53,40,44,F,0,60,0,0,1,"[""114""]",1,2
+"Female Bench Only Equipped Masters 1 (40 – 44 years) 58KG",53,58,40,44,F,0,65,0,0,1,"[""115""]",1,2
+"Female Bench Only Equipped Masters 1 (40 – 44 years) 64KG",58,64,40,44,F,0,70,0,0,1,"[""116""]",1,2
+"Female Bench Only Equipped Masters 1 (40 – 44 years) 72KG",64,72,40,44,F,0,75,0,0,1,"[""117""]",1,2
+"Female Bench Only Equipped Masters 1 (40 – 44 years) 84KG",72,84,40,44,F,0,150,0,0,1,"[""118""]",1,2
+"Female Bench Only Equipped Masters 1 (40 – 44 years) 100KG",84,100,40,44,F,0,85,0,0,1,"[""119""]",1,2
+"Female Bench Only Equipped Masters 1 (40 – 44 years) 100+KG",100,500,40,44,F,0,90,0,0,1,"[""120""]",1,2
+"Female Bench Only Equipped Masters 2 (45 – 49 years) 48KG",1,48,45,49,F,0,50,0,0,1,"[""113"",""121""]",1,2
+"Female Bench Only Equipped Masters 2 (45 – 49 years) 53KG",48,53,45,49,F,0,55,0,0,1,"[""114"",""122""]",1,2
+"Female Bench Only Equipped Masters 2 (45 – 49 years) 58KG",53,58,45,49,F,0,60,0,0,1,"[""115"",""123""]",1,2
+"Female Bench Only Equipped Masters 2 (45 – 49 years) 64KG",58,64,45,49,F,0,65,0,0,1,"[""116"",""124""]",1,2
+"Female Bench Only Equipped Masters 2 (45 – 49 years) 72KG",64,72,45,49,F,0,70,0,0,1,"[""117"",""125""]",1,2
+"Female Bench Only Equipped Masters 2 (45 – 49 years) 84KG",72,84,45,49,F,0,150,0,0,1,"[""118"",""126""]",1,2
+"Female Bench Only Equipped Masters 2 (45 – 49 years) 100KG",84,100,45,49,F,0,80,0,0,1,"[""119"",""127""]",1,2
+"Female Bench Only Equipped Masters 2 (45 – 49 years) 100+KG",100,500,45,49,F,0,85,0,0,1,"[""120"",""128""]",1,2
+"Female Bench Only Equipped Masters 3 (50 – 54 years) 48KG",1,48,50,54,F,0,47,0,0,1,"[""113"",""121"",""129""]",1,2
+"Female Bench Only Equipped Masters 3 (50 – 54 years) 53KG",48,53,50,54,F,0,52,0,0,1,"[""114"",""122"",""130""]",1,2
+"Female Bench Only Equipped Masters 3 (50 – 54 years) 58KG",53,58,50,54,F,0,57,0,0,1,"[""115"",""123"",""131""]",1,2
+"Female Bench Only Equipped Masters 3 (50 – 54 years) 64KG",58,64,50,54,F,0,62,0,0,1,"[""116"",""124"",""132""]",1,2
+"Female Bench Only Equipped Masters 3 (50 – 54 years) 72KG",64,72,50,54,F,0,67,0,0,1,"[""117"",""125"",""133""]",1,2
+"Female Bench Only Equipped Masters 3 (50 – 54 years) 84KG",72,84,50,54,F,0,72,0,0,1,"[""118"",""126"",""134""]",1,2
+"Female Bench Only Equipped Masters 3 (50 – 54 years) 100KG",84,100,50,54,F,0,77,0,0,1,"[""119"",""127"",""135""]",1,2
+"Female Bench Only Equipped Masters 3 (50 – 54 years) 100+KG",100,500,50,54,F,0,82,0,0,1,"[""120"",""128"",""136""]",1,2
+"Female Bench Only Equipped Masters 4 (55 – 59 years) 48KG",1,48,55,59,F,0,42,0,0,1,"[""113"",""121"",""129"",""137""]",1,2
+"Female Bench Only Equipped Masters 4 (55 – 59 years) 53KG",48,53,55,59,F,0,47,0,0,1,"[""114"",""122"",""130"",""138""]",1,2
+"Female Bench Only Equipped Masters 4 (55 – 59 years) 58KG",53,58,55,59,F,0,52,0,0,1,"[""115"",""123"",""131"",""139""]",1,2
+"Female Bench Only Equipped Masters 4 (55 – 59 years) 64KG",58,64,55,59,F,0,57,0,0,1,"[""116"",""124"",""132"",""140""]",1,2
+"Female Bench Only Equipped Masters 4 (55 – 59 years) 72KG",64,72,55,59,F,0,62,0,0,1,"[""117"",""125"",""133"",""141""]",1,2
+"Female Bench Only Equipped Masters 4 (55 – 59 years) 84KG",72,84,55,59,F,0,67,0,0,1,"[""118"",""126"",""134"",""142""]",1,2
+"Female Bench Only Equipped Masters 4 (55 – 59 years) 100KG",84,100,55,59,F,0,72,0,0,1,"[""119"",""127"",""135"",""143""]",1,2
+"Female Bench Only Equipped Masters 4 (55 – 59 years) 100+KG",100,500,55,59,F,0,77,0,0,1,"[""120"",""128"",""136"",""144""]",1,2
+"Female Bench Only Equipped Masters 5 (60 – 64 years) 48KG",1,48,60,64,F,0,37,0,0,1,"[""113"",""121"",""129"",""137"",""145""]",1,2
+"Female Bench Only Equipped Masters 5 (60 – 64 years) 53KG",48,53,60,64,F,0,42,0,0,1,"[""114"",""122"",""130"",""138"",""146""]",1,2
+"Female Bench Only Equipped Masters 5 (60 – 64 years) 58KG",53,58,60,64,F,0,47,0,0,1,"[""115"",""123"",""131"",""139"",""147""]",1,2
+"Female Bench Only Equipped Masters 5 (60 – 64 years) 64KG",58,64,60,64,F,0,52,0,0,1,"[""116"",""124"",""132"",""140"",""148""]",1,2
+"Female Bench Only Equipped Masters 5 (60 – 64 years) 72KG",64,72,60,64,F,0,57,0,0,1,"[""117"",""125"",""133"",""141"",""149""]",1,2
+"Female Bench Only Equipped Masters 5 (60 – 64 years) 84KG",72,84,60,64,F,0,62,0,0,1,"[""118"",""126"",""134"",""142"",""150""]",1,2
+"Female Bench Only Equipped Masters 5 (60 – 64 years) 100KG",84,100,60,64,F,0,67,0,0,1,"[""119"",""127"",""135"",""143"",""151""]",1,2
+"Female Bench Only Equipped Masters 5 (60 – 64 years) 100+KG",100,500,60,64,F,0,72,0,0,1,"[""120"",""128"",""136"",""144"",""152""]",1,2
+"Female Bench Only Equipped Masters 6 (65 – 69 years) 48KG",1,48,65,69,F,0,32,0,0,1,"[""113"",""121"",""129"",""137"",""145"",""153""]",1,2
+"Female Bench Only Equipped Masters 6 (65 – 69 years) 53KG",48,53,65,69,F,0,37,0,0,1,"[""114"",""122"",""130"",""138"",""146"",""154""]",1,2
+"Female Bench Only Equipped Masters 6 (65 – 69 years) 58KG",53,58,65,69,F,0,40,0,0,1,"[""115"",""123"",""131"",""139"",""147"",""155""]",1,2
+"Female Bench Only Equipped Masters 6 (65 – 69 years) 64KG",58,64,65,69,F,0,45,0,0,1,"[""116"",""124"",""132"",""140"",""148"",""156""]",1,2
+"Female Bench Only Equipped Masters 6 (65 – 69 years) 72KG",64,72,65,69,F,0,50,0,0,1,"[""117"",""125"",""133"",""141"",""149"",""157""]",1,2
+"Female Bench Only Equipped Masters 6 (65 – 69 years) 84KG",72,84,65,69,F,0,52,0,0,1,"[""118"",""126"",""134"",""142"",""150"",""158""]",1,2
+"Female Bench Only Equipped Masters 6 (65 – 69 years) 100KG",84,100,65,69,F,0,55,0,0,1,"[""119"",""127"",""135"",""143"",""151"",""159""]",1,2
+"Female Bench Only Equipped Masters 6 (65 – 69 years) 100+KG",100,500,65,69,F,0,60,0,0,1,"[""120"",""128"",""136"",""144"",""152"",""160""]",1,2
+"Female Bench Only Equipped Masters 7 (70 – 74 years) 48KG",1,48,70,74,F,0,28,0,0,1,"[""113"",""121"",""129"",""137"",""145"",""153"",""161""]",1,2
+"Female Bench Only Equipped Masters 7 (70 – 74 years) 53KG",48,53,70,74,F,0,32,0,0,1,"[""114"",""122"",""130"",""138"",""146"",""154"",""162""]",1,2
+"Female Bench Only Equipped Masters 7 (70 – 74 years) 58KG",53,58,70,74,F,0,37,0,0,1,"[""115"",""123"",""131"",""139"",""147"",""155"",""163""]",1,2
+"Female Bench Only Equipped Masters 7 (70 – 74 years) 64KG",58,64,70,74,F,0,40,0,0,1,"[""116"",""124"",""132"",""140"",""148"",""156"",""164""]",1,2
+"Female Bench Only Equipped Masters 7 (70 – 74 years) 72KG",64,72,70,74,F,0,45,0,0,1,"[""117"",""125"",""133"",""141"",""149"",""157"",""165""]",1,2
+"Female Bench Only Equipped Masters 7 (70 – 74 years) 84KG",72,84,70,74,F,0,50,0,0,1,"[""118"",""126"",""134"",""142"",""150"",""158"",""166""]",1,2
+"Female Bench Only Equipped Masters 7 (70 – 74 years) 100KG",84,100,70,74,F,0,52,0,0,1,"[""119"",""127"",""135"",""143"",""151"",""159"",""167""]",1,2
+"Female Bench Only Equipped Masters 7 (70 – 74 years) 100+KG",100,500,70,74,F,0,57,0,0,1,"[""120"",""128"",""136"",""144"",""152"",""160"",""168""]",1,2
+"Female Bench Only Equipped Masters 8 (75 – 79 years) 48KG",1,48,75,79,F,0,26,0,0,1,"[""113"",""121"",""129"",""137"",""145"",""153"",""161"",""169""]",1,2
+"Female Bench Only Equipped Masters 8 (75 – 79 years) 53KG",48,53,75,79,F,0,28,0,0,1,"[""114"",""122"",""130"",""138"",""146"",""154"",""162"",""170""]",1,2
+"Female Bench Only Equipped Masters 8 (75 – 79 years) 58KG",53,58,75,79,F,0,32,0,0,1,"[""115"",""123"",""131"",""139"",""147"",""155"",""163"",""171""]",1,2
+"Female Bench Only Equipped Masters 8 (75 – 79 years) 64KG",58,64,75,79,F,0,37,0,0,1,"[""116"",""124"",""132"",""140"",""148"",""156"",""164"",""172""]",1,2
+"Female Bench Only Equipped Masters 8 (75 – 79 years) 72KG",64,72,75,79,F,0,40,0,0,1,"[""117"",""125"",""133"",""141"",""149"",""157"",""165"",""173""]",1,2
+"Female Bench Only Equipped Masters 8 (75 – 79 years) 84KG",72,84,75,79,F,0,43,0,0,1,"[""118"",""126"",""134"",""142"",""150"",""158"",""166"",""174""]",1,2
+"Female Bench Only Equipped Masters 8 (75 – 79 years) 100KG",84,100,75,79,F,0,47,0,1,1,"[""119"",""127"",""135"",""143"",""151"",""159"",""167"",""175""]",1,2
+"Female Bench Only Equipped Masters 8 (75 – 79 years) 100+KG",100,500,75,79,F,0,50,0,0,1,"[""120"",""128"",""136"",""144"",""152"",""160"",""168"",""176""]",1,2
+"Female Bench Only Equipped Masters 9 (80+ years) 48KG",1,48,80,200,F,0,24,0,0,1,"[""113"",""121"",""129"",""137"",""145"",""153"",""161"",""169"",""177""]",1,2
+"Female Bench Only Equipped Masters 9 (80+ years) 53KG",48,53,80,200,F,0,26,0,0,1,"[""114"",""122"",""130"",""138"",""146"",""154"",""162"",""170"",""178""]",1,2
+"Female Bench Only Equipped Masters 9 (80+ years) 58KG",53,58,80,200,F,0,28,0,0,1,"[""115"",""123"",""131"",""139"",""147"",""155"",""163"",""171"",""179""]",1,2
+"Female Bench Only Equipped Masters 9 (80+ years) 64KG",58,64,80,200,F,0,32,0,0,1,"[""116"",""124"",""132"",""140"",""148"",""156"",""164"",""172"",""180""]",1,2
+"Female Bench Only Equipped Masters 9 (80+ years) 72KG",64,72,80,200,F,0,37,0,0,1,"[""117"",""125"",""133"",""141"",""149"",""157"",""165"",""173"",""181""]",1,2
+"Female Bench Only Equipped Masters 9 (80+ years) 84KG",72,84,80,200,F,0,40,0,0,1,"[""118"",""126"",""134"",""142"",""150"",""158"",""166"",""174"",""182""]",1,2
+"Female Bench Only Equipped Masters 9 (80+ years) 100KG",84,100,80,200,F,0,43,0,1,1,"[""119"",""127"",""135"",""143"",""151"",""159"",""167"",""175"",""183""]",1,2
+"Female Bench Only Equipped Masters 9 (80+ years) 100+KG",100,500,80,200,F,0,45,0,0,1,"[""120"",""128"",""136"",""144"",""152"",""160"",""168"",""176"",""184""]",1,2
+"Female 3-Lift Classic Youth (14 – 18 years) 44KG",1,48,14,18,F,55,35,65,160,1,,1,1
+"Female 3-Lift Classic Youth (14 – 18 years) 48KG",1,48,14,18,F,65,40,70,180,1,"[""209""]",1,1
+"Female 3-Lift Classic Youth (14 – 18 years) 53KG",48,53,14,18,F,72,45,80,195,1,"[""210""]",1,1
+"Female 3-Lift Classic Youth (14 – 18 years) 58KG",53,58,14,18,F,82,50,90,210,1,"[""211""]",1,1
+"Female 3-Lift Classic Youth (14 – 18 years) 64KG",58,64,14,18,F,87,55,95,235,1,"[""212""]",1,1
+"Female 3-Lift Classic Youth (14 – 18 years) 72KG",64,72,14,18,F,95,65,105,260,1,"[""213""]",1,1
+"Female 3-Lift Classic Youth (14 – 18 years) 84KG",72,84,14,18,F,110,70,122,300,1,"[""214""]",1,1
+"Female 3-Lift Classic Youth (14 – 18 years) 84+KG",84,500,14,18,F,125,80,140,345,1,,1,1
+"Female 3-Lift Classic Junior (19 – 23 years) 48KG",1,48,19,23,F,77,47,80,215,1,"[""209""]",1,1
+"Female 3-Lift Classic Junior (19 – 23 years) 53KG",48,53,19,23,F,82,50,87,225,1,"[""210""]",1,1
+"Female 3-Lift Classic Junior (19 – 23 years) 58KG",53,58,19,23,F,92,52,97,245,1,"[""211""]",1,1
+"Female 3-Lift Classic Junior (19 – 23 years) 64KG",58,64,19,23,F,102,60,107,265,1,"[""212""]",1,1
+"Female 3-Lift Classic Junior (19 – 23 years) 72KG",64,72,19,23,F,112,70,120,300,1,"[""213""]",1,1
+"Female 3-Lift Classic Junior (19 – 23 years) 84KG",72,84,19,23,F,120,80,140,325,1,"[""214""]",1,1
+"Female 3-Lift Classic Junior (19 – 23 years) 100KG",84,100,19,23,F,130,90,150,350,1,"[""215""]",1,1
+"Female 3-Lift Classic Junior (19 – 23 years) 100+KG",100,500,19,23,F,140,100,155,395,1,"[""216""]",1,1
+"Female 3-Lift Classic Open (24 – 39 years) 48KG",1,48,24,39,F,85,55,100,245,1,,1,1
+"Female 3-Lift Classic Open (24 – 39 years) 53KG",48,53,24,39,F,95,60,120,320,1,,1,1
+"Female 3-Lift Classic Open (24 – 39 years) 58KG",53,58,24,39,F,115,70,135,340,1,,1,1
+"Female 3-Lift Classic Open (24 – 39 years) 64KG",58,64,24,39,F,125,80,165,360,1,,1,1
+"Female 3-Lift Classic Open (24 – 39 years) 72KG",64,72,24,39,F,141,85,179,376,1,,1,1
+"Female 3-Lift Classic Open (24 – 39 years) 84KG",72,84,24,39,F,147,94,184,427,1,,1,1
+"Female 3-Lift Classic Open (24 – 39 years) 100KG",84,100,24,39,F,185,94,189,455,1,,1,1
+"Female 3-Lift Classic Open (24 – 39 years) 100+KG",100,500,24,39,F,227,119,251,598,1,,1,1
+"Female 3-Lift Classic Masters 1 (40 – 44 years) 48KG",1,48,40,44,F,75,52,95,220,1,"[""209""]",1,1
+"Female 3-Lift Classic Masters 1 (40 – 44 years) 53KG",48,53,40,44,F,87,57,105,260,1,"[""210""]",1,1
+"Female 3-Lift Classic Masters 1 (40 – 44 years) 58KG",53,58,40,44,F,95,65,115,285,1,"[""211""""]",1,1
+"Female 3-Lift Classic Masters 1 (40 – 44 years) 64KG",58,64,40,44,F,107,75,142,310,1,"[""212""]",1,1
+"Female 3-Lift Classic Masters 1 (40 – 44 years) 72KG",64,72,40,44,F,142,80,162,377,1,"[""213""]",1,1
+"Female 3-Lift Classic Masters 1 (40 – 44 years) 84KG",72,84,40,44,F,148,95,185,428,1,"[""214""]",1,1
+"Female 3-Lift Classic Masters 1 (40 – 44 years) 100KG",84,100,40,44,F,186,90,190,456,1,"[""215""]",1,1
+"Female 3-Lift Classic Masters 1 (40 – 44 years) 100+KG",100,500,40,44,F,171,95,180,435,1,"[""216""]",1,1
+"Female 3-Lift Classic Masters 2 (45 – 49 years) 48KG",1,48,45,49,F,70,45,80,210,1,"[""209"",""217""]",1,1
+"Female 3-Lift Classic Masters 2 (45 – 49 years) 53KG",48,53,45,49,F,82,50,95,225,1,"[""210"",""218""]",1,1
+"Female 3-Lift Classic Masters 2 (45 – 49 years) 58KG",53,58,45,49,F,85,55,105,240,1,"[""211"",""219""]",1,1
+"Female 3-Lift Classic Masters 2 (45 – 49 years) 64KG",58,64,45,49,F,107,60,135,301,1,"[""212"",""220""]",1,1
+"Female 3-Lift Classic Masters 2 (45 – 49 years) 72KG",64,72,45,49,F,105,65,120,290,1,"[""213"",""221""]",1,1
+"Female 3-Lift Classic Masters 2 (45 – 49 years) 84KG",72,84,45,49,F,148,95,185,428,1,"[""214"",""222""]",1,1
+"Female 3-Lift Classic Masters 2 (45 – 49 years) 100KG",84,100,45,49,F,186,85,190,456,1,"[""215"",""223""]",1,1
+"Female 3-Lift Classic Masters 2 (45 – 49 years) 100+KG",100,500,45,49,F,171,100,170,418,1,"[""216"",""224""]",1,1
+"Female 3-Lift Classic Masters 3 (50 – 54 years) 48KG",1,48,50,54,F,67,42,77,205,1,"[""209"",""217"",""225""]",1,1
+"Female 3-Lift Classic Masters 3 (50 – 54 years) 53KG",48,53,50,54,F,80,47,87,220,1,"[""210"",""218"",""226""]",1,1
+"Female 3-Lift Classic Masters 3 (50 – 54 years) 58KG",53,58,50,54,F,83,52,97,235,1,"[""211"",""219"",""227""]",1,1
+"Female 3-Lift Classic Masters 3 (50 – 54 years) 64KG",58,64,50,54,F,107,59,135,301,1,"[""212"",""220"",""228""]",1,1
+"Female 3-Lift Classic Masters 3 (50 – 54 years) 72KG",64,72,50,54,F,95,63,115,285,1,"[""213"",""221"",""229""]",1,1
+"Female 3-Lift Classic Masters 3 (50 – 54 years) 84KG",72,84,50,54,F,127,74,170,367,1,"[""214"",""222"",""230""]",1,1
+"Female 3-Lift Classic Masters 3 (50 – 54 years) 100KG",84,100,50,54,F,110,80,140,340,1,"[""215"",""223"",""231""]",1,1
+"Female 3-Lift Classic Masters 3 (50 – 54 years) 100+KG",100,500,50,54,F,171,93,170,418,1,"[""216"",""224"",""232""]",1,1
+"Female 3-Lift Classic Masters 4 (55 – 59 years) 48KG",1,48,55,59,F,62,38,75,175,1,"[""209"",""217"",""225"",""233""]",1,1
+"Female 3-Lift Classic Masters 4 (55 – 59 years) 53KG",48,53,55,59,F,67,42,82,192,1,"[""210"",""218"",""226"",""234""]",1,1
+"Female 3-Lift Classic Masters 4 (55 – 59 years) 58KG",53,58,55,59,F,72,47,92,210,1,"[""211"",""219"",""227"",""235""]",1,1
+"Female 3-Lift Classic Masters 4 (55 – 59 years) 64KG",58,64,55,59,F,107,59,135,301,1,"[""212"",""220"",""228"",""236""]",1,1
+"Female 3-Lift Classic Masters 4 (55 – 59 years) 72KG",64,72,55,59,F,92,57,112,260,1,"[""213"",""221"",""229"",""237""]",1,1
+"Female 3-Lift Classic Masters 4 (55 – 59 years) 84KG",72,84,55,59,F,117,63,122,294,1,"[""214"",""222"",""230"",""238""]",1,1
+"Female 3-Lift Classic Masters 4 (55 – 59 years) 100KG",84,100,55,59,F,100,70,132,305,1,"[""215"",""223"",""231"",""239""]",1,1
+"Female 3-Lift Classic Masters 4 (55 – 59 years) 100+KG",100,500,55,59,F,145,81,150,376,1,"[""216"",""224"",""232"",""240""]",1,1
+"Female 3-Lift Classic Masters 5 (60 – 64 years) 48KG",1,48,60,64,F,50,35,65,150,1,"[""209"",""217"",""225"",""233"",""241""]",1,1
+"Female 3-Lift Classic Masters 5 (60 – 64 years) 53KG",48,53,60,64,F,55,37,72,165,1,"[""210"",""218"",""226"",""234"",""242""]",1,1
+"Female 3-Lift Classic Masters 5 (60 – 64 years) 58KG",53,58,60,64,F,60,42,77,185,1,"[""211"",""219"",""227"",""235"",""243""]",1,1
+"Female 3-Lift Classic Masters 5 (60 – 64 years) 64KG",58,64,60,64,F,65,47,85,192,1,"[""212"",""220"",""228"",""236"",""244""]",1,1
+"Female 3-Lift Classic Masters 5 (60 – 64 years) 72KG",64,72,60,64,F,77,50,97,225,1,"[""213"",""221"",""229"",""237"",""245""]",1,1
+"Female 3-Lift Classic Masters 5 (60 – 64 years) 84KG",72,84,60,64,F,95,55,115,260,1,"[""214"",""222"",""230"",""238"",""246""]",1,1
+"Female 3-Lift Classic Masters 5 (60 – 64 years) 100KG",84,100,60,64,F,90,60,115,263,1,"[""215"",""223"",""231"",""239"",""247""]",1,1
+"Female 3-Lift Classic Masters 5 (60 – 64 years) 100+KG",100,500,60,64,F,100,65,122,290,1,"[""216"",""224"",""232"",""240"",""248""]",1,1
+"Female 3-Lift Classic Masters 6 (65 – 69 years) 48KG",1,48,65,69,F,45,32,60,135,1,"[""209"",""217"",""225"",""233"",""241"",""249""]",1,1
+"Female 3-Lift Classic Masters 6 (65 – 69 years) 53KG",48,53,65,69,F,50,35,70,150,1,"[""210"",""218"",""226"",""234"",""242"",""250""]",1,1
+"Female 3-Lift Classic Masters 6 (65 – 69 years) 58KG",53,58,65,69,F,57,37,75,170,1,"[""211"",""219"",""227"",""235"",""243"",""251""]",1,1
+"Female 3-Lift Classic Masters 6 (65 – 69 years) 64KG",58,64,65,69,F,62,40,80,177,1,"[""212"",""220"",""228"",""236"",""244"",""252""]",1,1
+"Female 3-Lift Classic Masters 6 (65 – 69 years) 72KG",64,72,65,69,F,75,50,93,190,1,"[""213"",""221"",""229"",""237"",""245"",""253""]",1,1
+"Female 3-Lift Classic Masters 6 (65 – 69 years) 84KG",72,84,65,69,F,95,55,115,260,1,"[""214"",""222"",""230"",""238"",""246"",""254""]",1,1
+"Female 3-Lift Classic Masters 6 (65 – 69 years) 100KG",84,100,65,69,F,87,57,105,235,1,"[""215"",""223"",""231"",""239"",""247"",""255""]",1,1
+"Female 3-Lift Classic Masters 6 (65 – 69 years) 100+KG",100,500,65,69,F,93,62,110,255,1,"[""216"",""224"",""232"",""240"",""248"",""256""]",1,1
+"Female 3-Lift Classic Masters 7 (70 – 74 years) 48KG",1,48,70,74,F,42,27,55,127,1,"[""209"",""217"",""225"",""233"",""241"",""249"",""257""]",1,1
+"Female 3-Lift Classic Masters 7 (70 – 74 years) 53KG",48,53,70,74,F,47,32,65,140,1,"[""210"",""218"",""226"",""234"",""242"",""250"",""258""]",1,1
+"Female 3-Lift Classic Masters 7 (70 – 74 years) 58KG",53,58,70,74,F,55,35,70,150,1,"[""211"",""219"",""227"",""235"",""243"",""251"",""259""]",1,1
+"Female 3-Lift Classic Masters 7 (70 – 74 years) 64KG",58,64,70,74,F,60,37,75,165,1,"[""212"",""220"",""228"",""236"",""244"",""252"",""260""]",1,1
+"Female 3-Lift Classic Masters 7 (70 – 74 years) 72KG",64,72,70,74,F,70,40,85,180,1,"[""213"",""221"",""229"",""237"",""245"",""253"",""261""]",1,1
+"Female 3-Lift Classic Masters 7 (70 – 74 years) 84KG",72,84,70,74,F,75,47,92,190,1,"[""214"",""222"",""230"",""238"",""246"",""254"",""262""]",1,1
+"Female 3-Lift Classic Masters 7 (70 – 74 years) 100KG",84,100,70,74,F,80,52,97,215,1,"[""215"",""223"",""231"",""239"",""247"",""255"",""263""]",1,1
+"Female 3-Lift Classic Masters 7 (70 – 74 years) 100+KG",100,500,70,74,F,85,57,102,235,1,"[""216"",""224"",""232"",""240"",""248"",""256"",""264""]",1,1
+"Female 3-Lift Classic Masters 8 (75 – 79 years) 48KG",1,48,75,79,F,40,25,50,110,1,"[""209"",""217"",""225"",""233"",""241"",""249"",""257"",""265""]",1,1
+"Female 3-Lift Classic Masters 8 (75 – 79 years) 53KG",48,53,75,79,F,45,30,60,120,1,"[""210"",""218"",""226"",""234"",""242"",""250"",""258"",""266""]",1,1
+"Female 3-Lift Classic Masters 8 (75 – 79 years) 58KG",53,58,75,79,F,52,33,65,135,1,"[""211"",""219"",""227"",""235"",""243"",""251"",""259"",""267""]",1,1
+"Female 3-Lift Classic Masters 8 (75 – 79 years) 64KG",58,64,75,79,F,57,35,70,147,1,"[""212"",""220"",""228"",""236"",""244"",""252"",""260"",""268""]",1,1
+"Female 3-Lift Classic Masters 8 (75 – 79 years) 72KG",64,72,75,79,F,65,37,80,170,1,"[""213"",""221"",""229"",""237"",""245"",""253"",""261"",""269""]",1,1
+"Female 3-Lift Classic Masters 8 (75 – 79 years) 84KG",72,84,75,79,F,70,42,90,185,1,"[""214"",""222"",""230"",""238"",""246"",""254"",""262"",""270""]",1,1
+"Female 3-Lift Classic Masters 8 (75 – 79 years) 100KG",84,100,75,79,F,77,45,95,195,1,"[""215"",""223"",""231"",""239"",""247"",""255"",""263"",""271""]",1,1
+"Female 3-Lift Classic Masters 8 (75 – 79 years) 100+KG",100,500,75,79,F,82,50,100,205,1,"[""216"",""224"",""232"",""240"",""248"",""256"",""264"",""272""]",1,1
+"Female 3-Lift Classic Masters 9 (80+ years) 48KG",1,48,80,200,F,35,20,40,90,1,"[""209"",""217"",""225"",""233"",""241"",""249"",""257"",""265"",""273""]",1,1
+"Female 3-Lift Classic Masters 9 (80+ years) 53KG",48,53,80,200,F,40,25,50,110,1,"[""210"",""218"",""226"",""234"",""242"",""250"",""258"",""266"",""274""]",1,1
+"Female 3-Lift Classic Masters 9 (80+ years) 58KG",53,58,80,200,F,45,30,60,120,1,"[""211"",""219"",""227"",""235"",""243"",""251"",""259"",""267"",""275""]",1,1
+"Female 3-Lift Classic Masters 9 (80+ years) 64KG",58,64,80,200,F,52,33,65,135,1,"[""212"",""220"",""228"",""236"",""244"",""252"",""260"",""268"",""276""]",1,1
+"Female 3-Lift Classic Masters 9 (80+ years) 72KG",64,72,80,200,F,57,35,70,147,1,"[""213"",""221"",""229"",""237"",""245"",""253"",""261"",""269"",""277""]",1,1
+"Female 3-Lift Classic Masters 9 (80+ years) 84KG",72,84,80,200,F,65,37,80,170,1,"[""214"",""222"",""230"",""238"",""246"",""254"",""262"",""270"",""278""]",1,1
+"Female 3-Lift Classic Masters 9 (80+ years) 100KG",84,100,80,200,F,70,42,90.19,1,1,"[""215"",""223"",""231"",""239"",""247"",""255"",""263"",""271"",""279""]",1,1
+"Female 3-Lift Classic Masters 9 (80+ years) 100+KG",100,500,80,200,F,75,45,95,195,1,"[""216"",""224"",""232"",""240"",""248"",""256"",""264"",""272"",""280""]",1,1
+"Female 3-Lift Equipped Youth (14 – 18 years) 44KG",1,48,14,18,F,70,40,80,190,1,,1,2
+"Female 3-Lift Equipped Youth (14 – 18 years) 48KG",1,48,14,18,F,77,45,90,210,1,"[""305""]",1,2
+"Female 3-Lift Equipped Youth (14 – 18 years) 53KG",48,53,14,18,F,85,50,95,230,1,"[""306""]",1,2
+"Female 3-Lift Equipped Youth (14 – 18 years) 58KG",53,58,14,18,F,90,55,100,245,1,"[""307""]",1,2
+"Female 3-Lift Equipped Youth (14 – 18 years) 64KG",58,64,14,18,F,100,62,110,275,1,"[""308""]",1,2
+"Female 3-Lift Equipped Youth (14 – 18 years) 72KG",64,72,14,18,F,110,70,120,300,1,"[""309""]",1,2
+"Female 3-Lift Equipped Youth (14 – 18 years) 84KG",72,84,14,18,F,120,75,130,325,1,"[""310""]",1,2
+"Female 3-Lift Equipped Youth (14 – 18 years) 84+KG",84,500,14,18,F,130,85,140,355,1,,1,2
+"Female 3-Lift Equipped Junior (19 – 23 years) 48KG",1,48,19,23,F,90,55,100,245,1,"[""305""]",1,2
+"Female 3-Lift Equipped Junior (19 – 23 years) 53KG",48,53,19,23,F,100,60,110,270,1,"[""306""]",1,2
+"Female 3-Lift Equipped Junior (19 – 23 years) 58KG",53,58,19,23,F,105,65,115,290,1,"[""307""]",1,2
+"Female 3-Lift Equipped Junior (19 – 23 years) 64KG",58,64,19,23,F,120,70,130,320,1,"[""308""]",1,2
+"Female 3-Lift Equipped Junior (19 – 23 years) 72KG",64,72,19,23,F,130,75,137,340,1,"[""309""]",1,2
+"Female 3-Lift Equipped Junior (19 – 23 years) 84KG",72,84,19,23,F,140,80,180,400,1,"[""310""]",1,2
+"Female 3-Lift Equipped Junior (19 – 23 years) 100KG",84,100,19,23,F,140,100,155,395,1,"[""311""]",1,2
+"Female 3-Lift Equipped Junior (19 – 23 years) 100+KG",100,500,19,23,F,145,110,160,415,1,"[""312""]",1,2
+"Female 3-Lift Equipped Open (24 – 39 years) 48KG",1,48,24,39,F,100,70,117,285,1,,1,2
+"Female 3-Lift Equipped Open (24 – 39 years) 53KG",48,53,24,39,F,112,75,130,320,1,,1,2
+"Female 3-Lift Equipped Open (24 – 39 years) 58KG",53,58,24,39,F,125,80,145,365,1,,1,2
+"Female 3-Lift Equipped Open (24 – 39 years) 64KG",58,64,24,39,F,135,85,160,395,1,,1,2
+"Female 3-Lift Equipped Open (24 – 39 years) 72KG",64,72,24,39,F,150,90,170,425,1,,1,2
+"Female 3-Lift Equipped Open (24 – 39 years) 84KG",72,84,24,39,F,200,157,210,562,1,,1,2
+"Female 3-Lift Equipped Open (24 – 39 years) 100KG",84,100,24,39,F,175,110,190,485,1,,1,2
+"Female 3-Lift Equipped Open (24 – 39 years) 100+KG",100,500,24,39,F,228,120,251,598,1,,1,2
+"Female 3-Lift Equipped Masters 1 (40 – 44 years) 48KG",1,48,40,44,F,95,60,110,265,1,"[""305""]",1,2
+"Female 3-Lift Equipped Masters 1 (40 – 44 years) 53KG",48,53,40,44,F,100,65,125,300,1,"[""306""]",1,2
+"Female 3-Lift Equipped Masters 1 (40 – 44 years) 58KG",53,58,40,44,F,110,70,135,315,1,"[""307""]",1,2
+"Female 3-Lift Equipped Masters 1 (40 – 44 years) 64KG",58,64,40,44,F,110,75,145,335,1,"[""308""]",1,2
+"Female 3-Lift Equipped Masters 1 (40 – 44 years) 72KG",64,72,40,44,F,142,80,165,377,1,"[""309""]",1,2
+"Female 3-Lift Equipped Masters 1 (40 – 44 years) 84KG",72,84,40,44,F,200,157,210,562,1,"[""310""]",1,2
+"Female 3-Lift Equipped Masters 1 (40 – 44 years) 100KG",84,100,40,44,F,145,105,195,485,1,"[""311""]",1,2
+"Female 3-Lift Equipped Masters 1 (40 – 44 years) 100+KG",100,500,40,44,F,175,120,200,510,1,"[""312""]",1,2
+"Female 3-Lift Equipped Masters 2 (45 – 49 years) 48KG",1,48,45,49,F,90,55,105,250,1,"[""305"",""313""]",1,2
+"Female 3-Lift Equipped Masters 2 (45 – 49 years) 53KG",48,53,45,49,F,95,62,110,265,1,"[""306"",""314""]",1,2
+"Female 3-Lift Equipped Masters 2 (45 – 49 years) 58KG",53,58,45,49,F,100,65,125,300,1,"[""307"",""315""]",1,2
+"Female 3-Lift Equipped Masters 2 (45 – 49 years) 64KG",58,64,45,49,F,105,70,135,315,1,"[""308"",""316""]",1,2
+"Female 3-Lift Equipped Masters 2 (45 – 49 years) 72KG",64,72,45,49,F,110,75,145,335,1,"[""309"",""317""]",1,2
+"Female 3-Lift Equipped Masters 2 (45 – 49 years) 84KG",72,84,45,49,F,200,157,210,562,1,"[""310"",""318""]",1,2
+"Female 3-Lift Equipped Masters 2 (45 – 49 years) 100KG",84,100,45,49,F,140,100,180,420,1,"[""311"",""319""]",1,2
+"Female 3-Lift Equipped Masters 2 (45 – 49 years) 100+KG",100,500,45,49,F,170,110,190,470,1,"[""312"",""320""]",1,2
+"Female 3-Lift Equipped Masters 3 (50 – 54 years) 48KG",1,48,50,54,F,80,50,100,235,1,"[""305"",""313"",""321""]",1,2
+"Female 3-Lift Equipped Masters 3 (50 – 54 years) 53KG",48,53,50,54,F,90,55,105,250,1,"[""306"",""314"",""322""]",1,2
+"Female 3-Lift Equipped Masters 3 (50 – 54 years) 58KG",53,58,50,54,F,95,60,115,270,1,"[""307"",""315"",""323""]",1,2
+"Female 3-Lift Equipped Masters 3 (50 – 54 years) 64KG",58,64,50,54,F,100,65,130,310,1,"[""308"",""316"",""324""]",1,2
+"Female 3-Lift Equipped Masters 3 (50 – 54 years) 72KG",64,72,50,54,F,105,70,135,315,1,"[""309"",""317"",""325""]",1,2
+"Female 3-Lift Equipped Masters 3 (50 – 54 years) 84KG",72,84,50,54,F,120,75,162,356,1,"[""310"",""318"",""326""]",1,2
+"Female 3-Lift Equipped Masters 3 (50 – 54 years) 100KG",84,100,50,54,F,135,90,160,385,1,"[""311"",""319"",""327""]",1,2
+"Female 3-Lift Equipped Masters 3 (50 – 54 years) 100+KG",100,500,50,54,F,170,105,175,425,1,"[""312"",""320"",""328""]",1,2
+"Female 3-Lift Equipped Masters 4 (55 – 59 years) 48KG",1,48,55,59,F,70,40,90,220,1,"[""305"",""313"",""321"",""329""]",1,2
+"Female 3-Lift Equipped Masters 4 (55 – 59 years) 53KG",48,53,55,59,F,75,45,95,240,1,"[""306"",""314"",""322"",""330""]",1,2
+"Female 3-Lift Equipped Masters 4 (55 – 59 years) 58KG",53,58,55,59,F,80,50,100,255,1,"[""307"",""315"",""323"",""331""]",1,2
+"Female 3-Lift Equipped Masters 4 (55 – 59 years) 64KG",58,64,55,59,F,85,55,110,265,1,"[""308"",""316"",""324"",""332""]",1,2
+"Female 3-Lift Equipped Masters 4 (55 – 59 years) 72KG",64,72,55,59,F,95,60,120,290,1,"[""309"",""317"",""325"",""333""]",1,2
+"Female 3-Lift Equipped Masters 4 (55 – 59 years) 84KG",72,84,55,59,F,100,65,130,310,1,"[""310"",""318"",""326"",""334""]",1,2
+"Female 3-Lift Equipped Masters 4 (55 – 59 years) 100KG",84,100,55,59,F,110,75,140,340,1,"[""311"",""319"",""327"",""335""]",1,2
+"Female 3-Lift Equipped Masters 4 (55 – 59 years) 100+KG",100,500,55,59,F,120,80,160,360,1,"[""312"",""320"",""328"",""336""]",1,2
+"Female 3-Lift Equipped Masters 5 (60 – 64 years) 48KG",1,48,60,64,F,65,37,85,180,1,"[""305"",""313"",""321"",""329"",""337""]",1,2
+"Female 3-Lift Equipped Masters 5 (60 – 64 years) 53KG",48,53,60,64,F,70,40,90,200,1,"[""306"",""314"",""322"",""330"",""338""]",1,2
+"Female 3-Lift Equipped Masters 5 (60 – 64 years) 58KG",53,58,60,64,F,75,45,95,220,1,"[""307"",""315"",""323"",""331"",""339""]",1,2
+"Female 3-Lift Equipped Masters 5 (60 – 64 years) 64KG",58,64,60,64,F,80,50,100,240,1,"[""308"",""316"",""324"",""332"",""340""]",1,2
+"Female 3-Lift Equipped Masters 5 (60 – 64 years) 72KG",64,72,60,64,F,85,55,110,270,1,"[""309"",""317"",""325"",""333"",""341""]",1,2
+"Female 3-Lift Equipped Masters 5 (60 – 64 years) 84KG",72,84,60,64,F,95,60,120,290,1,"[""310"",""318"",""326"",""334"",""342""]",1,2
+"Female 3-Lift Equipped Masters 5 (60 – 64 years) 100KG",84,100,60,64,F,100,65,130,310,1,"[""311"",""319"",""327"",""335"",""343""]",1,2
+"Female 3-Lift Equipped Masters 5 (60 – 64 years) 100+KG",100,500,60,64,F,110,75,140,330,1,"[""312"",""320"",""328"",""336"",""344""]",1,2
+"Female 3-Lift Equipped Masters 6 (65 – 69 years) 48KG",1,48,65,69,F,55,35,80,170,1,"[""305"",""313"",""321"",""329"",""337"",""345""]",1,2
+"Female 3-Lift Equipped Masters 6 (65 – 69 years) 53KG",48,53,65,69,F,60,37,85,180,1,"[""306"",""314"",""322"",""330"",""338"",""346""]",1,2
+"Female 3-Lift Equipped Masters 6 (65 – 69 years) 58KG",53,58,65,69,F,65,40,90,200,1,"[""307"",""315"",""323"",""331"",""339"",""347""]",1,2
+"Female 3-Lift Equipped Masters 6 (65 – 69 years) 64KG",58,64,65,69,F,70,45,95,220,1,"[""308"",""316"",""324"",""332"",""340"",""348""]",1,2
+"Female 3-Lift Equipped Masters 6 (65 – 69 years) 72KG",64,72,65,69,F,80,50,100,240,1,"[""309"",""317"",""325"",""333"",""341"",""349""]",1,2
+"Female 3-Lift Equipped Masters 6 (65 – 69 years) 84KG",72,84,65,69,F,85,55,110,270,1,"[""310"",""318"",""326"",""334"",""342"",""350""]",1,2
+"Female 3-Lift Equipped Masters 6 (65 – 69 years) 100KG",84,100,65,69,F,95,60,120,290,1,"[""311"",""319"",""327"",""335"",""343"",""351""]",1,2
+"Female 3-Lift Equipped Masters 6 (65 – 69 years) 100+KG",100,500,65,69,F,100,65,130,310,1,"[""312"",""320"",""328"",""336"",""344"",""352""]",1,2
+"Female 3-Lift Equipped Masters 7 (70 – 74 years) 48KG",1,48,70,74,F,50,32,70,155,1,"[""305"",""313"",""321"",""329"",""337"",""345"",""353""]",1,2
+"Female 3-Lift Equipped Masters 7 (70 – 74 years) 53KG",48,53,70,74,F,55,35,80,170,1,"[""306"",""314"",""322"",""330"",""338"",""346"",""354""]",1,2
+"Female 3-Lift Equipped Masters 7 (70 – 74 years) 58KG",53,58,70,74,F,60,37,85,180,1,"[""307"",""315"",""323"",""331"",""339"",""347"",""355""]",1,2
+"Female 3-Lift Equipped Masters 7 (70 – 74 years) 64KG",58,64,70,74,F,65,40,90,200,1,"[""308"",""316"",""324"",""332"",""340"",""348"",""356""]",1,2
+"Female 3-Lift Equipped Masters 7 (70 – 74 years) 72KG",64,72,70,74,F,70,45,95,220,1,"[""309"",""317"",""325"",""333"",""341"",""349"",""357""]",1,2
+"Female 3-Lift Equipped Masters 7 (70 – 74 years) 84KG",72,84,70,74,F,80,50,100,240,1,"[""310"",""318"",""326"",""334"",""342"",""350"",""358""]",1,2
+"Female 3-Lift Equipped Masters 7 (70 – 74 years) 100KG",84,100,70,74,F,85,55,110,270,1,"[""311"",""319"",""327"",""335"",""343"",""351"",""359""]",1,2
+"Female 3-Lift Equipped Masters 7 (70 – 74 years) 100+KG",100,500,70,74,F,95,60,120,290,1,"[""312"",""320"",""328"",""336"",""344"",""352"",""360""]",1,2
+"Female 3-Lift Equipped Masters 8 (75 – 79 years) 48KG",1,48,75,79,F,45,30,60,130,1,"[""305"",""313"",""321"",""329"",""337"",""345"",""353"",""361""]",1,2
+"Female 3-Lift Equipped Masters 8 (75 – 79 years) 53KG",48,53,75,79,F,50,32,70,155,1,"[""306"",""314"",""322"",""330"",""338"",""346"",""354"",""362""]",1,2
+"Female 3-Lift Equipped Masters 8 (75 – 79 years) 58KG",53,58,75,79,F,55,35,80,170,1,"[""307"",""315"",""323"",""331"",""339"",""347"",""355"",""363""]",1,2
+"Female 3-Lift Equipped Masters 8 (75 – 79 years) 64KG",58,64,75,79,F,60,37,85,180,1,"[""308"",""316"",""324"",""332"",""340"",""348"",""356"",""364""]",1,2
+"Female 3-Lift Equipped Masters 8 (75 – 79 years) 72KG",64,72,75,79,F,65,40,90,200,1,"[""309"",""317"",""325"",""333"",""341"",""349"",""357"",""365""]",1,2
+"Female 3-Lift Equipped Masters 8 (75 – 79 years) 84KG",72,84,75,79,F,70,45,95,220,1,"[""310"",""318"",""326"",""334"",""342"",""350"",""358"",""366""]",1,2
+"Female 3-Lift Equipped Masters 8 (75 – 79 years) 100KG",84,100,75,79,F,80,50,100,240,1,"[""311"",""319"",""327"",""335"",""343"",""351"",""359"",""367""]",1,2
+"Female 3-Lift Equipped Masters 8 (75 – 79 years) 100+KG",100,500,75,79,F,85,55,110,270,1,"[""312"",""320"",""328"",""336"",""344"",""352"",""360"",""368""]",1,2
+"Female 3-Lift Equipped Masters 9 (80+ years) 48KG",1,48,80,200,F,40,25,50,115,1,"[""305"",""313"",""321"",""329"",""337"",""345"",""353"",""361"",""369""]",1,2
+"Female 3-Lift Equipped Masters 9 (80+ years) 53KG",48,53,80,200,F,45,30,60,130,1,"[""306"",""314"",""322"",""330"",""338"",""346"",""354"",""362"",""370""]",1,2
+"Female 3-Lift Equipped Masters 9 (80+ years) 58KG",53,58,80,200,F,50,32,70,155,1,"[""307"",""315"",""323"",""331"",""339"",""347"",""355"",""363"",""371""]",1,2
+"Female 3-Lift Equipped Masters 9 (80+ years) 64KG",58,64,80,200,F,55,35,80,170,1,"[""308"",""316"",""324"",""332"",""340"",""348"",""356"",""364"",""372""]",1,2
+"Female 3-Lift Equipped Masters 9 (80+ years) 72KG",64,72,80,200,F,60,37,85,180,1,"[""309"",""317"",""325"",""333"",""341"",""349"",""357"",""365"",""373""]",1,2
+"Female 3-Lift Equipped Masters 9 (80+ years) 84KG",72,84,80,200,F,65,40,90,200,1,"[""310"",""318"",""326"",""334"",""342"",""350"",""358"",""366"",""374""]",1,2
+"Female 3-Lift Equipped Masters 9 (80+ years) 100KG",84,100,80,200,F,70,45,95.22,1,1,"[""311"",""319"",""327"",""335"",""343"",""351"",""359"",""367"",""375""]",1,2
+"Female 3-Lift Equipped Masters 9 (80+ years) 100+KG",100,500,80,200,F,80,50,100,240,1,"[""312"",""320"",""328"",""336"",""344"",""352"",""360"",""368"",""376""]",1,2
+"Male Bench Only Classic Youth (14 – 18 years) 56KG",1,56,14,18,M,0,65,0,0,1,,1,1
+"Male Bench Only Classic Youth (14 – 18 years) 62KG",56,62,14,18,M,0,80,0,0,1,"[""401""]",1,1
+"Male Bench Only Classic Youth (14 – 18 years) 69KG",62,69,14,18,M,0,95,0,0,1,"[""402""]",1,1
+"Male Bench Only Classic Youth (14 – 18 years) 77KG",69,77,14,18,M,0,105,0,0,1,"[""403""]",1,1
+"Male Bench Only Classic Youth (14 – 18 years) 85KG",77,85,14,18,M,0,110,0,0,1,"[""404""]",1,1
+"Male Bench Only Classic Youth (14 – 18 years) 94KG",85,94,14,18,M,0,120,0,0,1,"[""405""]",1,1
+"Male Bench Only Classic Youth (14 – 18 years) 105KG",94,105,14,18,M,0,125,0,0,1,"[""406""]",1,1
+"Male Bench Only Classic Youth (14 – 18 years) 105+KG",105,500,14,18,M,0,135,0,0,1,,1,1
+"Male Bench Only Classic Junior (19 – 23 years) 62KG",1,62,19,23,M,0,90,0,0,1,"[""401""]",1,1
+"Male Bench Only Classic Junior (19 – 23 years) 69KG",62,69,19,23,M,0,100,0,0,1,"[""402""]",1,1
+"Male Bench Only Classic Junior (19 – 23 years) 77KG",69,77,19,23,M,0,110,0,0,1,"[""403""]",1,1
+"Male Bench Only Classic Junior (19 – 23 years) 85KG",77,85,19,23,M,0,120,0,0,1,"[""404""]",1,1
+"Male Bench Only Classic Junior (19 – 23 years) 94KG",85,94,19,23,M,0,130,0,0,1,"[""405""]",1,1
+"Male Bench Only Classic Junior (19 – 23 years) 105KG",94,105,19,23,M,0,140,0,0,1,"[""406""]",1,1
+"Male Bench Only Classic Junior (19 – 23 years) 120KG",105,120,19,23,M,0,150,0,0,1,"[""407""]",1,1
+"Male Bench Only Classic Junior (19 – 23 years) 120+KG",120,500,19,23,M,0,160,0,0,1,"[""408""]",1,1
+"Male Bench Only Classic Open (24 – 39 years) 62KG",1,62,24,39,M,0,110,0,0,1,,1,1
+"Male Bench Only Classic Open (24 – 39 years) 69KG",62,69,24,39,M,0,130,0,0,1,,1,1
+"Male Bench Only Classic Open (24 – 39 years) 77KG",69,77,24,39,M,0,145,0,0,1,,1,1
+"Male Bench Only Classic Open (24 – 39 years) 85KG",77,85,24,39,M,0,155,0,0,1,,1,1
+"Male Bench Only Classic Open (24 – 39 years) 94KG",85,94,24,39,M,0,180,0,0,1,,1,1
+"Male Bench Only Classic Open (24 – 39 years) 105KG",94,105,24,39,M,0,175,0,0,1,,1,1
+"Male Bench Only Classic Open (24 – 39 years) 120KG",105,120,24,39,M,0,185,0,0,1,,1,1
+"Male Bench Only Classic Open (24 – 39 years) 120+KG",120,500,24,39,M,0,195,0,0,1,,1,1
+"Male Bench Only Classic Masters 1 (40 – 44 years) 62KG",1,62,40,44,M,0,90,0,0,1,"[""401""]",1,1
+"Male Bench Only Classic Masters 1 (40 – 44 years) 69KG",62,69,40,44,M,0,100,0,0,1,"[""402""]",1,1
+"Male Bench Only Classic Masters 1 (40 – 44 years) 77KG",69,77,40,44,M,0,110,0,0,1,"[""403""]",1,1
+"Male Bench Only Classic Masters 1 (40 – 44 years) 85KG",77,85,40,44,M,0,120,0,0,1,"[""404""]",1,1
+"Male Bench Only Classic Masters 1 (40 – 44 years) 94KG",85,94,40,44,M,0,153,0,0,1,"[""405""]",1,1
+"Male Bench Only Classic Masters 1 (40 – 44 years) 105KG",94,105,40,44,M,0,165,0,0,1,"[""406""]",1,1
+"Male Bench Only Classic Masters 1 (40 – 44 years) 120KG",105,120,40,44,M,0,156,0,0,1,"[""407""]",1,1
+"Male Bench Only Classic Masters 1 (40 – 44 years) 120+KG",120,500,40,44,M,0,255,0,0,1,"[""408""]",1,1
+"Male Bench Only Classic Masters 2 (45 – 49 years) 62KG",1,62,45,49,M,0,85,0,0,1,"[""401"",""409""]",1,1
+"Male Bench Only Classic Masters 2 (45 – 49 years) 69KG",62,69,45,49,M,0,95,0,0,1,"[""402"",""410""]",1,1
+"Male Bench Only Classic Masters 2 (45 – 49 years) 77KG",69,77,45,49,M,0,105,0,0,1,"[""403"",""411""]",1,1
+"Male Bench Only Classic Masters 2 (45 – 49 years) 85KG",77,85,45,49,M,0,115,0,0,1,"[""404"",""412""]",1,1
+"Male Bench Only Classic Masters 2 (45 – 49 years) 94KG",85,94,45,49,M,0,125,0,0,1,"[""405"",""413""]",1,1
+"Male Bench Only Classic Masters 2 (45 – 49 years) 105KG",94,105,45,49,M,0,165,0,0,1,"[""406"",""414""]",1,1
+"Male Bench Only Classic Masters 2 (45 – 49 years) 120KG",105,120,45,49,M,0,156,0,0,1,"[""407"",""415""]",1,1
+"Male Bench Only Classic Masters 2 (45 – 49 years) 120+KG",120,500,45,49,M,0,255,0,0,1,"[""408"",""416""]",1,1
+"Male Bench Only Classic Masters 3 (50 – 54 years) 62KG",1,62,50,54,M,0,80,0,0,1,"[""401"",""409"",""417""]",1,1
+"Male Bench Only Classic Masters 3 (50 – 54 years) 69KG",62,69,50,54,M,0,85,0,0,1,"[""402"",""410"",""418""]",1,1
+"Male Bench Only Classic Masters 3 (50 – 54 years) 77KG",69,77,50,54,M,0,95,0,0,1,"[""403"",""411"",""419""]",1,1
+"Male Bench Only Classic Masters 3 (50 – 54 years) 85KG",77,85,50,54,M,0,105,0,0,1,"[""404"",""412"",""420""]",1,1
+"Male Bench Only Classic Masters 3 (50 – 54 years) 94KG",85,94,50,54,M,0,115,0,0,1,"[""405"",""413"",""421""]",1,1
+"Male Bench Only Classic Masters 3 (50 – 54 years) 105KG",94,105,50,54,M,0,125,0,0,1,"[""406"",""414"",""422""]",1,1
+"Male Bench Only Classic Masters 3 (50 – 54 years) 120KG",105,120,50,54,M,0,156,0,0,1,"[""407"",""415"",""423""]",1,1
+"Male Bench Only Classic Masters 3 (50 – 54 years) 120+KG",120,500,50,54,M,0,145,0,0,1,"[""408"",""416"",""424""]",1,1
+"Male Bench Only Classic Masters 4 (55 – 59 years) 62KG",1,62,55,59,M,0,75,0,0,1,"[""401"",""409"",""417"",""425""]",1,1
+"Male Bench Only Classic Masters 4 (55 – 59 years) 69KG",62,69,55,59,M,0,80,0,0,1,"[""402"",""410"",""418"",""426""]",1,1
+"Male Bench Only Classic Masters 4 (55 – 59 years) 77KG",69,77,55,59,M,0,85,0,0,1,"[""403"",""411"",""419"",""427""]",1,1
+"Male Bench Only Classic Masters 4 (55 – 59 years) 85KG",77,85,55,59,M,0,95,0,0,1,"[""404"",""412"",""420"",""428""]",1,1
+"Male Bench Only Classic Masters 4 (55 – 59 years) 94KG",85,94,55,59,M,0,105,0,0,1,"[""405"",""413"",""421"",""429""]",1,1
+"Male Bench Only Classic Masters 4 (55 – 59 years) 105KG",94,105,55,59,M,0,115,0,0,1,"[""406"",""414"",""422"",""430""]",1,1
+"Male Bench Only Classic Masters 4 (55 – 59 years) 120KG",105,120,55,59,M,0,125,0,0,1,"[""407"",""415"",""423"",""431""]",1,1
+"Male Bench Only Classic Masters 4 (55 – 59 years) 120+KG",120,500,55,59,M,0,135,0,0,1,"[""408"",""416"",""424"",""432""]",1,1
+"Male Bench Only Classic Masters 5 (60 – 64 years) 62KG",1,62,60,64,M,0,70,0,0,1,"[""401"",""409"",""417"",""425"",""433""]",1,1
+"Male Bench Only Classic Masters 5 (60 – 64 years) 69KG",62,69,60,64,M,0,75,0,0,1,"[""402"",""410"",""418"",""426"",""434""]",1,1
+"Male Bench Only Classic Masters 5 (60 – 64 years) 77KG",69,77,60,64,M,0,80,0,0,1,"[""403"",""411"",""419"",""427"",""435""]",1,1
+"Male Bench Only Classic Masters 5 (60 – 64 years) 85KG",77,85,60,64,M,0,85,0,0,1,"[""404"",""412"",""420"",""428"",""436""]",1,1
+"Male Bench Only Classic Masters 5 (60 – 64 years) 94KG",85,94,60,64,M,0,95,0,0,1,"[""405"",""413"",""421"",""429"",""437""]",1,1
+"Male Bench Only Classic Masters 5 (60 – 64 years) 105KG",94,105,60,64,M,0,105,0,0,1,"[""406"",""414"",""422"",""430"",""438""]",1,1
+"Male Bench Only Classic Masters 5 (60 – 64 years) 120KG",105,120,60,64,M,0,110,0,0,1,"[""407"",""415"",""423"",""431"",""439""]",1,1
+"Male Bench Only Classic Masters 5 (60 – 64 years) 120+KG",120,500,60,64,M,0,115,0,0,1,"[""408"",""416"",""424"",""432"",""440""]",1,1
+"Male Bench Only Classic Masters 6 (65 – 69 years) 62KG",1,62,65,69,M,0,60,0,0,1,"[""401"",""409"",""417"",""425"",""433"",""441""]",1,1
+"Male Bench Only Classic Masters 6 (65 – 69 years) 69KG",62,69,65,69,M,0,70,0,0,1,"[""402"",""410"",""418"",""426"",""434"",""442""]",1,1
+"Male Bench Only Classic Masters 6 (65 – 69 years) 77KG",69,77,65,69,M,0,75,0,0,1,"[""403"",""411"",""419"",""427"",""435"",""443""]",1,1
+"Male Bench Only Classic Masters 6 (65 – 69 years) 85KG",77,85,65,69,M,0,80,0,0,1,"[""404"",""412"",""420"",""428"",""436"",""444""]",1,1
+"Male Bench Only Classic Masters 6 (65 – 69 years) 94KG",85,94,65,69,M,0,85,0,0,1,"[""405"",""413"",""421"",""429"",""437"",""445""]",1,1
+"Male Bench Only Classic Masters 6 (65 – 69 years) 105KG",94,105,65,69,M,0,95,0,0,1,"[""406"",""414"",""422"",""430"",""438"",""446""]",1,1
+"Male Bench Only Classic Masters 6 (65 – 69 years) 120KG",105,120,65,69,M,0,105,0,0,1,"[""407"",""415"",""423"",""431"",""439"",""447""]",1,1
+"Male Bench Only Classic Masters 6 (65 – 69 years) 120+KG",120,500,65,69,M,0,110,0,0,1,"[""408"",""416"",""424"",""432"",""440"",""448""]",1,1
+"Male Bench Only Classic Masters 7 (70 – 74 years) 62KG",1,62,70,74,M,0,55,0,0,1,"[""401"",""409"",""417"",""425"",""433"",""441"",""449""]",1,1
+"Male Bench Only Classic Masters 7 (70 – 74 years) 69KG",62,69,70,74,M,0,60,0,0,1,"[""402"",""410"",""418"",""426"",""434"",""442"",""450""]",1,1
+"Male Bench Only Classic Masters 7 (70 – 74 years) 77KG",69,77,70,74,M,0,70,0,0,1,"[""403"",""411"",""419"",""427"",""435"",""443"",""451""]",1,1
+"Male Bench Only Classic Masters 7 (70 – 74 years) 85KG",77,85,70,74,M,0,75,0,0,1,"[""404"",""412"",""420"",""428"",""436"",""444"",""452""]",1,1
+"Male Bench Only Classic Masters 7 (70 – 74 years) 94KG",85,94,70,74,M,0,80,0,0,1,"[""405"",""413"",""421"",""429"",""437"",""445"",""453""]",1,1
+"Male Bench Only Classic Masters 7 (70 – 74 years) 105KG",94,105,70,74,M,0,85,0,0,1,"[""406"",""414"",""422"",""430"",""438"",""446"",""454""]",1,1
+"Male Bench Only Classic Masters 7 (70 – 74 years) 120KG",105,120,70,74,M,0,95,0,0,1,"[""407"",""415"",""423"",""431"",""439"",""447"",""455""]",1,1
+"Male Bench Only Classic Masters 7 (70 – 74 years) 120+KG",120,500,70,74,M,0,100,0,0,1,"[""408"",""416"",""424"",""432"",""440"",""448"",""456""]",1,1
+"Male Bench Only Classic Masters 8 (75 – 79 years) 62KG",1,62,75,79,M,0,50,0,0,1,"[""401"",""409"",""417"",""425"",""433"",""441"",""449"",""457""]",1,1
+"Male Bench Only Classic Masters 8 (75 – 79 years) 69KG",62,69,75,79,M,0,55,0,0,1,"[""402"",""410"",""418"",""426"",""434"",""442"",""450"",""458""]",1,1
+"Male Bench Only Classic Masters 8 (75 – 79 years) 77KG",69,77,75,79,M,0,60,0,0,1,"[""403"",""411"",""419"",""427"",""435"",""443"",""451"",""459""]",1,1
+"Male Bench Only Classic Masters 8 (75 – 79 years) 85KG",77,85,75,79,M,0,70,0,0,1,"[""404"",""412"",""420"",""428"",""436"",""444"",""452"",""460""]",1,1
+"Male Bench Only Classic Masters 8 (75 – 79 years) 94KG",85,94,75,79,M,0,75,0,0,1,"[""405"",""413"",""421"",""429"",""437"",""445"",""453"",""461""]",1,1
+"Male Bench Only Classic Masters 8 (75 – 79 years) 105KG",94,105,75,79,M,0,80,0,0,1,"[""406"",""414"",""422"",""430"",""438"",""446"",""454"",""462""]",1,1
+"Male Bench Only Classic Masters 8 (75 – 79 years) 120KG",105,120,75,79,M,0,85,0,0,1,"[""407"",""415"",""423"",""431"",""439"",""447"",""455"",""463""]",1,1
+"Male Bench Only Classic Masters 8 (75 – 79 years) 120+KG",120,500,75,79,M,0,95,0,0,1,"[""408"",""416"",""424"",""432"",""440"",""448"",""456"",""464""]",1,1
+"Male Bench Only Classic Masters 9 (80+ years) 62KG",1,62,80,200,M,0,45,0,0,1,"[""401"",""409"",""417"",""425"",""433"",""441"",""449"",""457"",""465""]",1,1
+"Male Bench Only Classic Masters 9 (80+ years) 69KG",62,69,80,200,M,0,50,0,0,1,"[""402"",""410"",""418"",""426"",""434"",""442"",""450"",""458"",""466""]",1,1
+"Male Bench Only Classic Masters 9 (80+ years) 77KG",69,77,80,200,M,0,55,0,0,1,"[""403"",""411"",""419"",""427"",""435"",""443"",""451"",""459"",""467""]",1,1
+"Male Bench Only Classic Masters 9 (80+ years) 85KG",77,85,80,200,M,0,60,0,0,1,"[""404"",""412"",""420"",""428"",""436"",""444"",""452"",""460"",""468""]",1,1
+"Male Bench Only Classic Masters 9 (80+ years) 94KG",85,94,80,200,M,0,70,0,0,1,"[""405"",""413"",""421"",""429"",""437"",""445"",""453"",""461"",""469""]",1,1
+"Male Bench Only Classic Masters 9 (80+ years) 105KG",94,105,80,200,M,0,75,0,0,1,"[""406"",""414"",""422"",""430"",""438"",""446"",""454"",""462"",""470""]",1,1
+"Male Bench Only Classic Masters 9 (80+ years) 120KG",105,120,80,200,M,0,80,0,0,1,"[""407"",""415"",""423"",""431"",""439"",""447"",""455"",""463"",""471""]",1,1
+"Male Bench Only Classic Masters 9 (80+ years) 120+KG",120,500,80,200,M,0,85,0,0,1,"[""408"",""416"",""424"",""432"",""440"",""448"",""456"",""464"",""472""]",1,1
+"Male Bench Only Equipped Youth (14 – 18 years) 56KG",1,56,14,18,M,0,65,0,0,1,,1,2
+"Male Bench Only Equipped Youth (14 – 18 years) 62KG",56,62,14,18,M,0,85,0,0,1,"[""497""]",1,2
+"Male Bench Only Equipped Youth (14 – 18 years) 69KG",62,69,14,18,M,0,105,0,0,1,"[""498""]",1,2
+"Male Bench Only Equipped Youth (14 – 18 years) 77KG",69,77,14,18,M,0,115,0,0,1,"[""499""]",1,2
+"Male Bench Only Equipped Youth (14 – 18 years) 85KG",77,85,14,18,M,0,130,0,0,1,"[""500""]",1,2
+"Male Bench Only Equipped Youth (14 – 18 years) 94KG",85,94,14,18,M,0,135,0,0,1,"[""501""]",1,2
+"Male Bench Only Equipped Youth (14 – 18 years) 105KG",94,105,14,18,M,0,145,0,0,1,"[""502""]",1,2
+"Male Bench Only Equipped Youth (14 – 18 years) 105+KG",105,500,14,18,M,0,150,0,0,1,,1,2
+"Male Bench Only Equipped Junior (19 – 23 years) 62KG",1,62,19,23,M,0,100,0,0,1,"[""497""]",1,2
+"Male Bench Only Equipped Junior (19 – 23 years) 69KG",62,69,19,23,M,0,110,0,0,1,"[""498""]",1,2
+"Male Bench Only Equipped Junior (19 – 23 years) 77KG",69,77,19,23,M,0,120,0,0,1,"[""499""]",1,2
+"Male Bench Only Equipped Junior (19 – 23 years) 85KG",77,85,19,23,M,0,130,0,0,1,"[""500""]",1,2
+"Male Bench Only Equipped Junior (19 – 23 years) 94KG",85,94,19,23,M,0,140,0,0,1,"[""501""]",1,2
+"Male Bench Only Equipped Junior (19 – 23 years) 105KG",94,105,19,23,M,0,150,0,0,1,"[""502""]",1,2
+"Male Bench Only Equipped Junior (19 – 23 years) 120KG",105,120,19,23,M,0,160,0,0,1,"[""503""]",1,2
+"Male Bench Only Equipped Junior (19 – 23 years) 120+KG",120,500,19,23,M,0,170,0,0,1,"[""504""]",1,2
+"Male Bench Only Equipped Open (24 – 39 years) 62KG",1,62,24,39,M,0,110,0,0,1,,1,2
+"Male Bench Only Equipped Open (24 – 39 years) 69KG",62,69,24,39,M,0,130,0,0,1,,1,2
+"Male Bench Only Equipped Open (24 – 39 years) 77KG",69,77,24,39,M,0,150,0,0,1,,1,2
+"Male Bench Only Equipped Open (24 – 39 years) 85KG",77,85,24,39,M,0,170,0,0,1,,1,2
+"Male Bench Only Equipped Open (24 – 39 years) 94KG",85,94,24,39,M,0,190,0,0,1,,1,2
+"Male Bench Only Equipped Open (24 – 39 years) 105KG",94,105,24,39,M,0,230,0,0,1,,1,2
+"Male Bench Only Equipped Open (24 – 39 years) 120KG",105,120,24,39,M,0,230,0,0,1,,1,2
+"Male Bench Only Equipped Open (24 – 39 years) 120+KG",120,500,24,39,M,0,295,0,0,1,,1,2
+"Male Bench Only Equipped Masters 1 (40 – 44 years) 62KG",1,62,40,44,M,0,100,0,0,1,"[""497""]",1,2
+"Male Bench Only Equipped Masters 1 (40 – 44 years) 69KG",62,69,40,44,M,0,110,0,0,1,"[""498""]",1,2
+"Male Bench Only Equipped Masters 1 (40 – 44 years) 77KG",69,77,40,44,M,0,120,0,0,1,"[""499""]",1,2
+"Male Bench Only Equipped Masters 1 (40 – 44 years) 85KG",77,85,40,44,M,0,130,0,0,1,"[""500""]",1,2
+"Male Bench Only Equipped Masters 1 (40 – 44 years) 94KG",85,94,40,44,M,0,140,0,0,1,"[""501""]",1,2
+"Male Bench Only Equipped Masters 1 (40 – 44 years) 105KG",94,105,40,44,M,0,150,0,0,1,"[""502""]",1,2
+"Male Bench Only Equipped Masters 1 (40 – 44 years) 120KG",105,120,40,44,M,0,160,0,0,1,"[""503""]",1,2
+"Male Bench Only Equipped Masters 1 (40 – 44 years) 120+KG",120,500,40,44,M,0,295,0,0,1,"[""504""]",1,2
+"Male Bench Only Equipped Masters 2 (45 – 49 years) 62KG",1,62,45,49,M,0,90,0,0,1,"[""497"",""505""]",1,2
+"Male Bench Only Equipped Masters 2 (45 – 49 years) 69KG",62,69,45,49,M,0,100,0,0,1,"[""498"",""506""]",1,2
+"Male Bench Only Equipped Masters 2 (45 – 49 years) 77KG",69,77,45,49,M,0,110,0,0,1,"[""499"",""507""]",1,2
+"Male Bench Only Equipped Masters 2 (45 – 49 years) 85KG",77,85,45,49,M,0,120,0,0,1,"[""500"",""508""]",1,2
+"Male Bench Only Equipped Masters 2 (45 – 49 years) 94KG",85,94,45,49,M,0,130,0,0,1,"[""501"",""509""]",1,2
+"Male Bench Only Equipped Masters 2 (45 – 49 years) 105KG",94,105,45,49,M,0,140,0,0,1,"[""502"",""510""]",1,2
+"Male Bench Only Equipped Masters 2 (45 – 49 years) 120KG",105,120,45,49,M,0,150,0,0,1,"[""503"",""511""]",1,2
+"Male Bench Only Equipped Masters 2 (45 – 49 years) 120+KG",120,500,45,49,M,0,295,0,0,1,"[""504"",""512""]",1,2
+"Male Bench Only Equipped Masters 3 (50 – 54 years) 62KG",1,62,50,54,M,0,85,0,0,1,"[""497"",""505"",""513""]",1,2
+"Male Bench Only Equipped Masters 3 (50 – 54 years) 69KG",62,69,50,54,M,0,90,0,0,1,"[""498"",""506"",""514""]",1,2
+"Male Bench Only Equipped Masters 3 (50 – 54 years) 77KG",69,77,50,54,M,0,100,0,0,1,"[""499"",""507"",""515""]",1,2
+"Male Bench Only Equipped Masters 3 (50 – 54 years) 85KG",77,85,50,54,M,0,110,0,0,1,"[""500"",""508"",""516""]",1,2
+"Male Bench Only Equipped Masters 3 (50 – 54 years) 94KG",85,94,50,54,M,0,125,0,0,1,"[""501"",""509"",""517""]",1,2
+"Male Bench Only Equipped Masters 3 (50 – 54 years) 105KG",94,105,50,54,M,0,130,0,0,1,"[""502"",""510"",""518""]",1,2
+"Male Bench Only Equipped Masters 3 (50 – 54 years) 120KG",105,120,50,54,M,0,150,0,0,1,"[""503"",""511"",""519""]",1,2
+"Male Bench Only Equipped Masters 3 (50 – 54 years) 120+KG",120,500,50,54,M,0,150,0,0,1,"[""504"",""512"",""520""]",1,2
+"Male Bench Only Equipped Masters 4 (55 – 59 years) 62KG",1,62,55,59,M,0,80,0,0,1,"[""497"",""505"",""513"",""521""]",1,2
+"Male Bench Only Equipped Masters 4 (55 – 59 years) 69KG",62,69,55,59,M,0,85,0,0,1,"[""498"",""506"",""514"",""522""]",1,2
+"Male Bench Only Equipped Masters 4 (55 – 59 years) 77KG",69,77,55,59,M,0,90,0,0,1,"[""499"",""507"",""515"",""523""]",1,2
+"Male Bench Only Equipped Masters 4 (55 – 59 years) 85KG",77,85,55,59,M,0,100,0,0,1,"[""500"",""508"",""516"",""524""]",1,2
+"Male Bench Only Equipped Masters 4 (55 – 59 years) 94KG",85,94,55,59,M,0,110,0,0,1,"[""501"",""509"",""517"",""525""]",1,2
+"Male Bench Only Equipped Masters 4 (55 – 59 years) 105KG",94,105,55,59,M,0,125,0,0,1,"[""502"",""510"",""518"",""526""]",1,2
+"Male Bench Only Equipped Masters 4 (55 – 59 years) 120KG",105,120,55,59,M,0,150,0,0,1,"[""503"",""511"",""519"",""527""]",1,2
+"Male Bench Only Equipped Masters 4 (55 – 59 years) 120+KG",120,500,55,59,M,0,140,0,0,1,"[""504"",""512"",""520"",""528""]",1,2
+"Male Bench Only Equipped Masters 5 (60 – 64 years) 62KG",1,62,60,64,M,0,75,0,0,1,"[""497"",""505"",""513"",""521"",""529""]",1,2
+"Male Bench Only Equipped Masters 5 (60 – 64 years) 69KG",62,69,60,64,M,0,80,0,0,1,"[""498"",""506"",""514"",""522"",""530""]",1,2
+"Male Bench Only Equipped Masters 5 (60 – 64 years) 77KG",69,77,60,64,M,0,90,0,0,1,"[""499"",""507"",""515"",""523"",""531""]",1,2
+"Male Bench Only Equipped Masters 5 (60 – 64 years) 85KG",77,85,60,64,M,0,90,0,0,1,"[""500"",""508"",""516"",""524"",""532""]",1,2
+"Male Bench Only Equipped Masters 5 (60 – 64 years) 94KG",85,94,60,64,M,0,125,0,0,1,"[""501"",""509"",""517"",""525"",""533""]",1,2
+"Male Bench Only Equipped Masters 5 (60 – 64 years) 105KG",94,105,60,64,M,0,110,0,0,1,"[""502"",""510"",""518"",""526"",""534""]",1,2
+"Male Bench Only Equipped Masters 5 (60 – 64 years) 120KG",105,120,60,64,M,0,115,0,0,1,"[""503"",""511"",""519"",""527"",""535""]",1,2
+"Male Bench Only Equipped Masters 5 (60 – 64 years) 120+KG",120,500,60,64,M,0,120,0,0,1,"[""504"",""512"",""520"",""528"",""536""]",1,2
+"Male Bench Only Equipped Masters 6 (65 – 69 years) 62KG",1,62,65,69,M,0,70,0,0,1,"[""497"",""505"",""513"",""521"",""529"",""537""]",1,2
+"Male Bench Only Equipped Masters 6 (65 – 69 years) 69KG",62,69,65,69,M,0,75,0,0,1,"[""498"",""506"",""514"",""522"",""530"",""538""]",1,2
+"Male Bench Only Equipped Masters 6 (65 – 69 years) 77KG",69,77,65,69,M,0,80,0,0,1,"[""499"",""507"",""515"",""523"",""531"",""539""]",1,2
+"Male Bench Only Equipped Masters 6 (65 – 69 years) 85KG",77,85,65,69,M,0,85,0,0,1,"[""500"",""508"",""516"",""524"",""532"",""540""]",1,2
+"Male Bench Only Equipped Masters 6 (65 – 69 years) 94KG",85,94,65,69,M,0,125,0,0,1,"[""501"",""509"",""517"",""525"",""533"",""541""]",1,2
+"Male Bench Only Equipped Masters 6 (65 – 69 years) 105KG",94,105,65,69,M,0,100,0,0,1,"[""502"",""510"",""518"",""526"",""534"",""542""]",1,2
+"Male Bench Only Equipped Masters 6 (65 – 69 years) 120KG",105,120,65,69,M,0,110,0,0,1,"[""503"",""511"",""519"",""527"",""535"",""543""]",1,2
+"Male Bench Only Equipped Masters 6 (65 – 69 years) 120+KG",120,500,65,69,M,0,115,0,0,1,"[""504"",""512"",""520"",""528"",""536"",""544""]",1,2
+"Male Bench Only Equipped Masters 7 (70 – 74 years) 62KG",1,62,70,74,M,0,65,0,0,1,"[""497"",""505"",""513"",""521"",""529"",""537"",""545""]",1,2
+"Male Bench Only Equipped Masters 7 (70 – 74 years) 69KG",62,69,70,74,M,0,70,0,0,1,"[""498"",""506"",""514"",""522"",""530"",""538"",""546""]",1,2
+"Male Bench Only Equipped Masters 7 (70 – 74 years) 77KG",69,77,70,74,M,0,75,0,0,1,"[""499"",""507"",""515"",""523"",""531"",""539"",""547""]",1,2
+"Male Bench Only Equipped Masters 7 (70 – 74 years) 85KG",77,85,70,74,M,0,80,0,0,1,"[""500"",""508"",""516"",""524"",""532"",""540"",""548""]",1,2
+"Male Bench Only Equipped Masters 7 (70 – 74 years) 94KG",85,94,70,74,M,0,85,0,0,1,"[""501"",""509"",""517"",""525"",""533"",""541"",""549""]",1,2
+"Male Bench Only Equipped Masters 7 (70 – 74 years) 105KG",94,105,70,74,M,0,90,0,0,1,"[""502"",""510"",""518"",""526"",""534"",""542"",""550""]",1,2
+"Male Bench Only Equipped Masters 7 (70 – 74 years) 120KG",105,120,70,74,M,0,100,0,0,1,"[""503"",""511"",""519"",""527"",""535"",""543"",""551""]",1,2
+"Male Bench Only Equipped Masters 7 (70 – 74 years) 120+KG",120,500,70,74,M,0,110,0,0,1,"[""504"",""512"",""520"",""528"",""536"",""544"",""552""]",1,2
+"Male Bench Only Equipped Masters 8 (75 – 79 years) 62KG",1,62,75,79,M,0,60,0,0,1,"[""497"",""505"",""513"",""521"",""529"",""537"",""545"",""553""]",1,2
+"Male Bench Only Equipped Masters 8 (75 – 79 years) 69KG",62,69,75,79,M,0,65,0,0,1,"[""498"",""506"",""514"",""522"",""530"",""538"",""546"",""554""]",1,2
+"Male Bench Only Equipped Masters 8 (75 – 79 years) 77KG",69,77,75,79,M,0,70,0,0,1,"[""499"",""507"",""515"",""523"",""531"",""539"",""547"",""555""]",1,2
+"Male Bench Only Equipped Masters 8 (75 – 79 years) 85KG",77,85,75,79,M,0,75,0,0,1,"[""500"",""508"",""516"",""524"",""532"",""540"",""548"",""556""]",1,2
+"Male Bench Only Equipped Masters 8 (75 – 79 years) 94KG",85,94,75,79,M,0,80,0,0,1,"[""501"",""509"",""517"",""525"",""533"",""541"",""549"",""557""]",1,2
+"Male Bench Only Equipped Masters 8 (75 – 79 years) 105KG",94,105,75,79,M,0,85,0,0,1,"[""502"",""510"",""518"",""526"",""534"",""542"",""550"",""558""]",1,2
+"Male Bench Only Equipped Masters 8 (75 – 79 years) 120KG",105,120,75,79,M,0,90,0,0,1,"[""503"",""511"",""519"",""527"",""535"",""543"",""551"",""559""]",1,2
+"Male Bench Only Equipped Masters 8 (75 – 79 years) 120+KG",120,500,75,79,M,0,100,0,0,1,"[""504"",""512"",""520"",""528"",""536"",""544"",""552"",""560""]",1,2
+"Male Bench Only Equipped Masters 9 (80+ years) 62KG",1,62,80,200,M,0,50,0,0,1,"[""497"",""505"",""513"",""521"",""529"",""537"",""545"",""553"",""561""]",1,2
+"Male Bench Only Equipped Masters 9 (80+ years) 69KG",62,69,80,200,M,0,60,0,0,1,"[""498"",""506"",""514"",""522"",""530"",""538"",""546"",""554"",""562""]",1,2
+"Male Bench Only Equipped Masters 9 (80+ years) 77KG",69,77,80,200,M,0,65,0,0,1,"[""499"",""507"",""515"",""523"",""531"",""539"",""547"",""555"",""563""]",1,2
+"Male Bench Only Equipped Masters 9 (80+ years) 85KG",77,85,80,200,M,0,70,0,0,1,"[""500"",""508"",""516"",""524"",""532"",""540"",""548"",""556"",""564""]",1,2
+"Male Bench Only Equipped Masters 9 (80+ years) 94KG",85,94,80,200,M,0,75,0,0,1,"[""501"",""509"",""517"",""525"",""533"",""541"",""549"",""557"",""565""]",1,2
+"Male Bench Only Equipped Masters 9 (80+ years) 105KG",94,105,80,200,M,0,80,0,0,1,"[""502"",""510"",""518"",""526"",""534"",""542"",""550"",""558"",""566""]",1,2
+"Male Bench Only Equipped Masters 9 (80+ years) 120KG",105,120,80,200,M,0,85,0,0,1,"[""503"",""511"",""519"",""527"",""535"",""543"",""551"",""559"",""567""]",1,2
+"Male Bench Only Equipped Masters 9 (80+ years) 120+KG",120,500,80,200,M,0,90,0,0,1,"[""504"",""512"",""520"",""528"",""536"",""544"",""552"",""560"",""568""]",1,2
+"Male 3 Lift Classic Youth (14 – 18 years) 56KG",1,56,14,18,M,130,80,140,340,1,,1,1
+"Male 3 Lift Classic Youth (14 – 18 years) 62KG",56,62,14,18,M,140,90,160,380,1,"[""593""]",1,1
+"Male 3 Lift Classic Youth (14 – 18 years) 69KG",62,69,14,18,M,155,100,170,425,1,"[""594""]",1,1
+"Male 3 Lift Classic Youth (14 – 18 years) 77KG",69,77,14,18,M,165,110,215,477,1,"[""595""]",1,1
+"Male 3 Lift Classic Youth (14 – 18 years) 85KG",77,85,14,18,M,175,127,240,542,1,"[""596""]",1,1
+"Male 3 Lift Classic Youth (14 – 18 years) 94KG",85,94,14,18,M,185,130,195,500,1,"[""597""]",1,1
+"Male 3 Lift Classic Youth (14 – 18 years) 105KG",94,105,14,18,M,195,135,205,515,1,"[""598""]",1,1
+"Male 3 Lift Classic Youth (14 – 18 years) 105+KG",105,500,14,18,M,205,140,215,530,1,,1,1
+"Male 3 Lift Classic Junior (19 – 23 years) 62KG",1,62,19,23,M,142,90,155,370,1,"[""593""]",1,1
+"Male 3 Lift Classic Junior (19 – 23 years) 69KG",62,69,19,23,M,150,100,167,410,1,"[""594""]",1,1
+"Male 3 Lift Classic Junior (19 – 23 years) 77KG",69,77,19,23,M,183,111,241,535,1,"[""595""]",1,1
+"Male 3 Lift Classic Junior (19 – 23 years) 85KG",77,85,19,23,M,172,120,187,470,1,"[""596""]",1,1
+"Male 3 Lift Classic Junior (19 – 23 years) 94KG",85,94,19,23,M,180,130,197,500,1,"[""597""]",1,1
+"Male 3 Lift Classic Junior (19 – 23 years) 105KG",94,105,19,23,M,192,140,207,530,1,"[""598""]",1,1
+"Male 3 Lift Classic Junior (19 – 23 years) 120KG",105,120,19,23,M,205,150,220,550,1,"[""599""]",1,1
+"Male 3 Lift Classic Junior (19 – 23 years) 120+KG",120,500,19,23,M,220,155,235,575,1,"[""600""]",1,1
+"Male 3 Lift Classic Open (24 – 39 years) 62KG",1,62,24,39,M,170,110,190,460,1,,1,1
+"Male 3 Lift Classic Open (24 – 39 years) 69KG",62,69,24,39,M,180,125,200,500,1,,1,1
+"Male 3 Lift Classic Open (24 – 39 years) 77KG",69,77,24,39,M,207,137,260,565,1,,1,1
+"Male 3 Lift Classic Open (24 – 39 years) 85KG",77,85,24,39,M,215,155,240,600,1,,1,1
+"Male 3 Lift Classic Open (24 – 39 years) 94KG",85,94,24,39,M,230,165,250,640,1,,1,1
+"Male 3 Lift Classic Open (24 – 39 years) 105KG",94,105,24,39,M,260,180,268,700,1,,1,1
+"Male 3 Lift Classic Open (24 – 39 years) 120KG",105,120,24,39,M,300,215,327,797,1,,1,1
+"Male 3 Lift Classic Open (24 – 39 years) 120+KG",120,500,24,39,M,280,205,300,745,1,,1,1
+"Male 3 Lift Classic Masters 1 (40 – 44 years) 62KG",1,62,40,44,M,145,92,160,375,1,"[""593""]",1,1
+"Male 3 Lift Classic Masters 1 (40 – 44 years) 69KG",62,69,40,44,M,150,105,170,415,1,"[""594""]",1,1
+"Male 3 Lift Classic Masters 1 (40 – 44 years) 77KG",69,77,40,44,M,165,115,185,450,1,"[""595""]",1,1
+"Male 3 Lift Classic Masters 1 (40 – 44 years) 85KG",77,85,40,44,M,202,155,220,565,1,"[""596""]",1,1
+"Male 3 Lift Classic Masters 1 (40 – 44 years) 94KG",85,94,40,44,M,205,130,220,580,1,"[""597""]",1,1
+"Male 3 Lift Classic Masters 1 (40 – 44 years) 105KG",94,105,40,44,M,208,135,230,580,1,"[""598""]",1,1
+"Male 3 Lift Classic Masters 1 (40 – 44 years) 120KG",105,120,40,44,M,220,145,250,600,1,"[""599""]",1,1
+"Male 3 Lift Classic Masters 1 (40 – 44 years) 120+KG",120,500,40,44,M,230,150,260,610,1,"[""600""]",1,1
+"Male 3 Lift Classic Masters 2 (45 – 49 years) 62KG",1,62,45,49,M,135,85,150,355,1,"[""593"",""601""]",1,1
+"Male 3 Lift Classic Masters 2 (45 – 49 years) 69KG",62,69,45,49,M,140,100,162,390,1,"[""594"",""602""]",1,1
+"Male 3 Lift Classic Masters 2 (45 – 49 years) 77KG",69,77,45,49,M,155,107,170,425,1,"[""595"",""603""]",1,1
+"Male 3 Lift Classic Masters 2 (45 – 49 years) 85KG",77,85,45,49,M,165,115,175,455,1,"[""596"",""604""]",1,1
+"Male 3 Lift Classic Masters 2 (45 – 49 years) 94KG",85,94,45,49,M,170,125,185,465,1,"[""597"",""605""]",1,1
+"Male 3 Lift Classic Masters 2 (45 – 49 years) 105KG",94,105,45,49,M,208,130,200,480,1,"[""598"",""606""]",1,1
+"Male 3 Lift Classic Masters 2 (45 – 49 years) 120KG",105,120,45,49,M,215,140,210,500,1,"[""599"",""607""]",1,1
+"Male 3 Lift Classic Masters 2 (45 – 49 years) 120+KG",120,500,45,49,M,200,145,220,565,1,"[""600"",""608""]",1,1
+"Male 3 Lift Classic Masters 3 (50 – 54 years) 62KG",1,62,50,54,M,125,80,125,330,1,"[""593"",""601"",""609""]",1,1
+"Male 3 Lift Classic Masters 3 (50 – 54 years) 69KG",62,69,50,54,M,130,90,130,345,1,"[""594"",""602"",""610""]",1,1
+"Male 3 Lift Classic Masters 3 (50 – 54 years) 77KG",69,77,50,54,M,140,100,185,360,1,"[""595"",""603"",""611""]",1,1
+"Male 3 Lift Classic Masters 3 (50 – 54 years) 85KG",77,85,50,54,M,150,105,150,395,1,"[""596"",""604"",""612""]",1,1
+"Male 3 Lift Classic Masters 3 (50 – 54 years) 94KG",85,94,50,54,M,160,110,160,420,1,"[""597"",""605"",""613""]",1,1
+"Male 3 Lift Classic Masters 3 (50 – 54 years) 105KG",94,105,50,54,M,165,111,180,440,1,"[""598"",""606"",""614""]",1,1
+"Male 3 Lift Classic Masters 3 (50 – 54 years) 120KG",105,120,50,54,M,170,120,185,450,1,"[""599"",""607"",""615""]",1,1
+"Male 3 Lift Classic Masters 3 (50 – 54 years) 120+KG",120,500,50,54,M,175,135,190,500,1,"[""600"",""608"",""616""]",1,1
+"Male 3 Lift Classic Masters 4 (55 – 59 years) 62KG",1,62,55,59,M,105,75,120,310,1,"[""593"",""601"",""609"",""617""]",1,1
+"Male 3 Lift Classic Masters 4 (55 – 59 years) 69KG",62,69,55,59,M,115,85,130,330,1,"[""594"",""602"",""610"",""618""]",1,1
+"Male 3 Lift Classic Masters 4 (55 – 59 years) 77KG",69,77,55,59,M,140,90,185,412,1,"[""595"",""603"",""611"",""619""]",1,1
+"Male 3 Lift Classic Masters 4 (55 – 59 years) 85KG",77,85,55,59,M,130,95,155,380,1,"[""596"",""604"",""612"",""620""]",1,1
+"Male 3 Lift Classic Masters 4 (55 – 59 years) 94KG",85,94,55,59,M,170,115,185,470,1,"[""597"",""605"",""613"",""621""]",1,1
+"Male 3 Lift Classic Masters 4 (55 – 59 years) 105KG",94,105,55,59,M,205,115,268,580,1,"[""598"",""606"",""614"",""622""]",1,1
+"Male 3 Lift Classic Masters 4 (55 – 59 years) 120KG",105,120,55,59,M,165,115,208,458,1,"[""599"",""607"",""615"",""623""]",1,1
+"Male 3 Lift Classic Masters 4 (55 – 59 years) 120+KG",120,500,55,59,M,170,120,195,485,1,"[""600"",""608"",""616"",""624""]",1,1
+"Male 3 Lift Classic Masters 5 (60 – 64 years) 62KG",1,62,60,64,M,105,65,115,282,1,"[""593"",""601"",""609"",""617"",""625""]",1,1
+"Male 3 Lift Classic Masters 5 (60 – 64 years) 69KG",62,69,60,64,M,110,75,120,310,1,"[""594"",""602"",""610"",""618"",""626""]",1,1
+"Male 3 Lift Classic Masters 5 (60 – 64 years) 77KG",69,77,60,64,M,140,87,185,412,1,"[""595"",""603"",""611"",""619"",""627""]",1,1
+"Male 3 Lift Classic Masters 5 (60 – 64 years) 85KG",77,85,60,64,M,125,85,140,360,1,"[""596"",""604"",""612"",""620"",""628""]",1,1
+"Male 3 Lift Classic Masters 5 (60 – 64 years) 94KG",85,94,60,64,M,170,115,185,470,1,"[""597"",""605"",""613"",""621"",""629""]",1,1
+"Male 3 Lift Classic Masters 5 (60 – 64 years) 105KG",94,105,60,64,M,145,95,160,400,1,"[""598"",""606"",""614"",""622"",""630""]",1,1
+"Male 3 Lift Classic Masters 5 (60 – 64 years) 120KG",105,120,60,64,M,165,100,208,458,1,"[""599"",""607"",""615"",""623"",""631""]",1,1
+"Male 3 Lift Classic Masters 5 (60 – 64 years) 120+KG",120,500,60,64,M,167,105,180,455,1,"[""600"",""608"",""616"",""624"",""632""]",1,1
+"Male 3 Lift Classic Masters 6 (65 – 69 years) 62KG",1,62,65,69,M,95,60,110,255,1,"[""593"",""601"",""609"",""617"",""625"",""633""]",1,1
+"Male 3 Lift Classic Masters 6 (65 – 69 years) 69KG",62,69,65,69,M,100,70,115,290,1,"[""594"",""602"",""610"",""618"",""626"",""634""]",1,1
+"Male 3 Lift Classic Masters 6 (65 – 69 years) 77KG",69,77,65,69,M,110,75,125,310,1,"[""595"",""603"",""611"",""619"",""627"",""635""]",1,1
+"Male 3 Lift Classic Masters 6 (65 – 69 years) 85KG",77,85,65,69,M,120,80,130,330,1,"[""596"",""604"",""612"",""620"",""628"",""636""]",1,1
+"Male 3 Lift Classic Masters 6 (65 – 69 years) 94KG",85,94,65,69,M,170,115,185,470,1,"[""597"",""605"",""613"",""621"",""629"",""637""]",1,1
+"Male 3 Lift Classic Masters 6 (65 – 69 years) 105KG",94,105,65,69,M,135,90,145,370,1,"[""598"",""606"",""614"",""622"",""630"",""638""]",1,1
+"Male 3 Lift Classic Masters 6 (65 – 69 years) 120KG",105,120,65,69,M,140,95,155,390,1,"[""599"",""607"",""615"",""623"",""631"",""639""]",1,1
+"Male 3 Lift Classic Masters 6 (65 – 69 years) 120+KG",120,500,65,69,M,155,100,165,420,1,"[""600"",""608"",""616"",""624"",""632"",""640""]",1,1
+"Male 3 Lift Classic Masters 7 (70 – 74 years) 62KG",1,62,70,74,M,90,55,100,245,1,"[""593"",""601"",""609"",""617"",""625"",""633"",""641""]",1,1
+"Male 3 Lift Classic Masters 7 (70 – 74 years) 69KG",62,69,70,74,M,95,60,105,260,1,"[""594"",""602"",""610"",""618"",""626"",""634"",""642""]",1,1
+"Male 3 Lift Classic Masters 7 (70 – 74 years) 77KG",69,77,70,74,M,105,65,115,285,1,"[""595"",""603"",""611"",""619"",""627"",""635"",""643""]",1,1
+"Male 3 Lift Classic Masters 7 (70 – 74 years) 85KG",77,85,70,74,M,105,70,120,300,1,"[""596"",""604"",""612"",""620"",""628"",""636"",""644""]",1,1
+"Male 3 Lift Classic Masters 7 (70 – 74 years) 94KG",85,94,70,74,M,115,80,125,320,1,"[""597"",""605"",""613"",""621"",""629"",""637"",""645""]",1,1
+"Male 3 Lift Classic Masters 7 (70 – 74 years) 105KG",94,105,70,74,M,125,85,135,225,1,"[""598"",""606"",""614"",""622"",""630"",""638"",""646""]",1,1
+"Male 3 Lift Classic Masters 7 (70 – 74 years) 120KG",105,120,70,74,M,135,90,145,365,1,"[""599"",""607"",""615"",""623"",""631"",""639"",""647""]",1,1
+"Male 3 Lift Classic Masters 7 (70 – 74 years) 120+KG",120,500,70,74,M,140,95,150,385,1,"[""600"",""608"",""616"",""624"",""632"",""640"",""648""]",1,1
+"Male 3 Lift Classic Masters 8 (75 – 79 years) 62KG",1,62,75,79,M,85,50,95,220,1,"[""593"",""601"",""609"",""617"",""625"",""633"",""641"",""649""]",1,1
+"Male 3 Lift Classic Masters 8 (75 – 79 years) 69KG",62,69,75,79,M,90,55,100,245,1,"[""594"",""602"",""610"",""618"",""626"",""634"",""642"",""650""]",1,1
+"Male 3 Lift Classic Masters 8 (75 – 79 years) 77KG",69,77,75,79,M,100,60,105,265,1,"[""595"",""603"",""611"",""619"",""627"",""635"",""643"",""651""]",1,1
+"Male 3 Lift Classic Masters 8 (75 – 79 years) 85KG",77,85,75,79,M,105,70,115,290,1,"[""596"",""604"",""612"",""620"",""628"",""636"",""644"",""652""]",1,1
+"Male 3 Lift Classic Masters 8 (75 – 79 years) 94KG",85,94,75,79,M,110,75,120,305,1,"[""597"",""605"",""613"",""621"",""629"",""637"",""645"",""653""]",1,1
+"Male 3 Lift Classic Masters 8 (75 – 79 years) 105KG",94,105,75,79,M,115,80,125,320,1,"[""598"",""606"",""614"",""622"",""630"",""638"",""646"",""654""]",1,1
+"Male 3 Lift Classic Masters 8 (75 – 79 years) 120KG",105,120,75,79,M,125,85,130,345,1,"[""599"",""607"",""615"",""623"",""631"",""639"",""647"",""655""]",1,1
+"Male 3 Lift Classic Masters 8 (75 – 79 years) 120+KG",120,500,75,79,M,130,90,140,360,1,"[""600"",""608"",""616"",""624"",""632"",""640"",""648"",""656""]",1,1
+"Male 3 Lift Classic Masters 9 (80+ years) 62KG",1,62,80,200,M,75,45,85,205,1,"[""593"",""601"",""609"",""617"",""625"",""633"",""641"",""649"",""657""]",1,1
+"Male 3 Lift Classic Masters 9 (80+ years) 69KG",62,69,80,200,M,80,50,90,230,1,"[""594"",""602"",""610"",""618"",""626"",""634"",""642"",""650"",""658""]",1,1
+"Male 3 Lift Classic Masters 9 (80+ years) 77KG",69,77,80,200,M,85,55,100,240,1,"[""595"",""603"",""611"",""619"",""627"",""635"",""643"",""651"",""659""]",1,1
+"Male 3 Lift Classic Masters 9 (80+ years) 85KG",77,85,80,200,M,90,60,105,255,1,"[""596"",""604"",""612"",""620"",""628"",""636"",""644"",""652"",""660""]",1,1
+"Male 3 Lift Classic Masters 9 (80+ years) 94KG",85,94,80,200,M,95,65,110,270,1,"[""597"",""605"",""613"",""621"",""629"",""637"",""645"",""653"",""661""]",1,1
+"Male 3 Lift Classic Masters 9 (80+ years) 105KG",94,105,80,200,M,105,70,120,295,1,"[""598"",""606"",""614"",""622"",""630"",""638"",""646"",""654"",""662""]",1,1
+"Male 3 Lift Classic Masters 9 (80+ years) 120KG",105,120,80,200,M,110,75,125,315,1,"[""599"",""607"",""615"",""623"",""631"",""639"",""647"",""655"",""663""]",1,1
+"Male 3 Lift Classic Masters 9 (80+ years) 120+KG",120,500,80,200,M,115,80,135,325,1,"[""600"",""608"",""616"",""624"",""632"",""640"",""648"",""656"",""664""]",1,1
+"Male 3 Lift Equipped Youth (14 – 18 years) 56KG",1,56,14,18,M,132,87,142,365,1,,1,2
+"Male 3 Lift Equipped Youth (14 – 18 years) 62KG",56,62,14,18,M,142,95,155,385,1,"[""689""]",1,2
+"Male 3 Lift Equipped Youth (14 – 18 years) 69KG",62,69,14,18,M,157,112,175,442,1,"[""690""]",1,2
+"Male 3 Lift Equipped Youth (14 – 18 years) 77KG",69,77,14,18,M,180,117,202,482,1,"[""691""]",1,2
+"Male 3 Lift Equipped Youth (14 – 18 years) 85KG",77,85,14,18,M,195,130,207,525,1,"[""692""]",1,2
+"Male 3 Lift Equipped Youth (14 – 18 years) 94KG",85,94,14,18,M,202,137,225,560,1,"[""693""]",1,2
+"Male 3 Lift Equipped Youth (14 – 18 years) 105KG",94,105,14,18,M,210,147,235,587,1,"[""694""]",1,2
+"Male 3 Lift Equipped Youth (14 – 18 years) 105+KG",105,500,14,18,M,230,157,242,625,1,,1,2
+"Male 3 Lift Equipped Junior (19 – 23 years) 62KG",1,62,19,23,M,155,105,180,432,1,"[""689""]",1,2
+"Male 3 Lift Equipped Junior (19 – 23 years) 69KG",62,69,19,23,M,175,115,190,475,1,"[""690""]",1,2
+"Male 3 Lift Equipped Junior (19 – 23 years) 77KG",69,77,19,23,M,185,125,241,535,1,"[""691""]",1,2
+"Male 3 Lift Equipped Junior (19 – 23 years) 85KG",77,85,19,23,M,205,137,220,570,1,"[""692""]",1,2
+"Male 3 Lift Equipped Junior (19 – 23 years) 94KG",85,94,19,23,M,227,147,240,600,1,"[""693""]",1,2
+"Male 3 Lift Equipped Junior (19 – 23 years) 105KG",94,105,19,23,M,240,155,250,645,1,"[""694""]",1,2
+"Male 3 Lift Equipped Junior (19 – 23 years) 120KG",105,120,19,23,M,250,170,265,700,1,"[""695""]",1,2
+"Male 3 Lift Equipped Junior (19 – 23 years) 120+KG",120,500,19,23,M,260,185,280,745,1,"[""696""]",1,2
+"Male 3 Lift Equipped Open (24 – 39 years) 62KG",1,62,24,39,M,190,120,205,515,1,,1,2
+"Male 3 Lift Equipped Open (24 – 39 years) 69KG",62,69,24,39,M,212,140,230,575,1,,1,2
+"Male 3 Lift Equipped Open (24 – 39 years) 77KG",69,77,24,39,M,230,163,247,625,1,,1,2
+"Male 3 Lift Equipped Open (24 – 39 years) 85KG",77,85,24,39,M,247,177,265,675,1,,1,2
+"Male 3 Lift Equipped Open (24 – 39 years) 94KG",85,94,24,39,M,252,190,290,730,1,,1,2
+"Male 3 Lift Equipped Open (24 – 39 years) 105KG",94,105,24,39,M,272,230,300,765,1,,1,2
+"Male 3 Lift Equipped Open (24 – 39 years) 120KG",105,120,24,39,M,300,215,310,840,1,,1,2
+"Male 3 Lift Equipped Open (24 – 39 years) 120+KG",120,500,24,39,M,320,220,320,835,1,,1,2
+"Male 3 Lift Equipped Masters 1 (40 – 44 years) 62KG",1,62,40,44,M,155,115,165,425,1,"[""689""]",1,2
+"Male 3 Lift Equipped Masters 1 (40 – 44 years) 69KG",62,69,40,44,M,170,125,185,475,1,"[""690""]",1,2
+"Male 3 Lift Equipped Masters 1 (40 – 44 years) 77KG",69,77,40,44,M,180,135,205,530,1,"[""691""]",1,2
+"Male 3 Lift Equipped Masters 1 (40 – 44 years) 85KG",77,85,40,44,M,205,160,227,585,1,"[""692""]",1,2
+"Male 3 Lift Equipped Masters 1 (40 – 44 years) 94KG",85,94,40,44,M,217,170,240,625,1,"[""693""]",1,2
+"Male 3 Lift Equipped Masters 1 (40 – 44 years) 105KG",94,105,40,44,M,252,177,270,695,1,"[""694""]",1,2
+"Male 3 Lift Equipped Masters 1 (40 – 44 years) 120KG",105,120,40,44,M,280,190,280,750,1,"[""695""]",1,2
+"Male 3 Lift Equipped Masters 1 (40 – 44 years) 120+KG",120,500,40,44,M,320,285,292,825,1,"[""696""]",1,2
+"Male 3 Lift Equipped Masters 2 (45 – 49 years) 62KG",1,62,45,49,M,140,97,150,395,1,"[""689"",""697""]",1,2
+"Male 3 Lift Equipped Masters 2 (45 – 49 years) 69KG",62,69,45,49,M,150,102,160,425,1,"[""690"",""698""]",1,2
+"Male 3 Lift Equipped Masters 2 (45 – 49 years) 77KG",69,77,45,49,M,160,112,170,450,1,"[""691"",""699""]",1,2
+"Male 3 Lift Equipped Masters 2 (45 – 49 years) 85KG",77,85,45,49,M,170,120,180,470,1,"[""692"",""700""]",1,2
+"Male 3 Lift Equipped Masters 2 (45 – 49 years) 94KG",85,94,45,49,M,180,130,200,500,1,"[""693"",""701""]",1,2
+"Male 3 Lift Equipped Masters 2 (45 – 49 years) 105KG",94,105,45,49,M,208,140,268,588,1,"[""693""]",1,2
+"Male 3 Lift Equipped Masters 2 (45 – 49 years) 120KG",105,120,45,49,M,200,145,210,560,1,"[""695"",""703""]",1,2
+"Male 3 Lift Equipped Masters 2 (45 – 49 years) 120+KG",120,500,45,49,M,320,285,245,825,1,"[""696"",""704""]",1,2
+"Male 3 Lift Equipped Masters 3 (50 – 54 years) 62KG",1,62,50,54,M,120,85,130,340,1,"[""689"",""697"",""705""]",1,2
+"Male 3 Lift Equipped Masters 3 (50 – 54 years) 69KG",62,69,50,54,M,130,92,140,375,1,"[""690"",""698"",""706""]",1,2
+"Male 3 Lift Equipped Masters 3 (50 – 54 years) 77KG",69,77,50,54,M,145,105,160,420,1,"[""691"",""699"",""707""]",1,2
+"Male 3 Lift Equipped Masters 3 (50 – 54 years) 85KG",77,85,50,54,M,155,110,170,465,1,"[""692"",""700"",""708""]",1,2
+"Male 3 Lift Equipped Masters 3 (50 – 54 years) 94KG",85,94,50,54,M,180,125,200,500,1,"[""693"",""701"",""709""]",1,2
+"Male 3 Lift Equipped Masters 3 (50 – 54 years) 105KG",94,105,50,54,M,205,130,268,580,1,"[""694"",""702"",""710""]",1,2
+"Male 3 Lift Equipped Masters 3 (50 – 54 years) 120KG",105,120,50,54,M,185,140,208,525,1,"[""695"",""703"",""711""]",1,2
+"Male 3 Lift Equipped Masters 3 (50 – 54 years) 120+KG",120,500,50,54,M,286,161,245,692,1,"[""696"",""704"",""712""]",1,2
+"Male 3 Lift Equipped Masters 4 (55 – 59 years) 62KG",1,62,55,59,M,115,80,130,325,1,"[""689"",""697"",""705"",""713""]",1,2
+"Male 3 Lift Equipped Masters 4 (55 – 59 years) 69KG",62,69,55,59,M,120,90,135,350,1,"[""690"",""698"",""706"",""714""]",1,2
+"Male 3 Lift Equipped Masters 4 (55 – 59 years) 77KG",69,77,55,59,M,135,100,145,385,1,"[""691"",""699"",""707"",""715""]",1,2
+"Male 3 Lift Equipped Masters 4 (55 – 59 years) 85KG",77,85,55,59,M,145,105,155,425,1,"[""692"",""700"",""708"",""716""]",1,2
+"Male 3 Lift Equipped Masters 4 (55 – 59 years) 94KG",85,94,55,59,M,180,125,200,500,1,"[""693"",""701"",""709"",""717""]",1,2
+"Male 3 Lift Equipped Masters 4 (55 – 59 years) 105KG",94,105,55,59,M,205,120,268,580,1,"[""694"",""702"",""710"",""718""]",1,2
+"Male 3 Lift Equipped Masters 4 (55 – 59 years) 120KG",105,120,55,59,M,175,125,208,485,1,"[""695"",""703"",""711"",""719""]",1,2
+"Male 3 Lift Equipped Masters 4 (55 – 59 years) 120+KG",120,500,55,59,M,286,161,245,692,1,"[""696"",""704"",""712"",""720""]",1,2
+"Male 3 Lift Equipped Masters 5 (60 – 64 years) 62KG",1,62,60,64,M,110,70,125,300,1,"[""689"",""697"",""705"",""713"",""721""]",1,2
+"Male 3 Lift Equipped Masters 5 (60 – 64 years) 69KG",62,69,60,64,M,120,80,130,330,1,"[""690"",""698"",""706"",""714"",""722""]",1,2
+"Male 3 Lift Equipped Masters 5 (60 – 64 years) 77KG",69,77,60,64,M,130,85,140,355,1,"[""691"",""699"",""707"",""715"",""723""]",1,2
+"Male 3 Lift Equipped Masters 5 (60 – 64 years) 85KG",77,85,60,64,M,140,90,150,380,1,"[""692"",""700"",""708"",""716"",""724""]",1,2
+"Male 3 Lift Equipped Masters 5 (60 – 64 years) 94KG",85,94,60,64,M,180,125,200,500,1,"[""693"",""701"",""709"",""717"",""725""]",1,2
+"Male 3 Lift Equipped Masters 5 (60 – 64 years) 105KG",94,105,60,64,M,160,100,170,425,1,"[""694"",""702"",""710"",""718"",""726""]",1,2
+"Male 3 Lift Equipped Masters 5 (60 – 64 years) 120KG",105,120,60,64,M,165,110,208,458,1,"[""695"",""703"",""711"",""719"",""727""]",1,2
+"Male 3 Lift Equipped Masters 5 (60 – 64 years) 120+KG",120,500,60,64,M,175,120,190,495,1,"[""696"",""704"",""712"",""720"",""728""]",1,2
+"Male 3 Lift Equipped Masters 6 (65 – 69 years) 62KG",1,62,65,69,M,105,65,120,290,1,"[""689"",""697"",""705"",""713"",""721"",""729""]",1,2
+"Male 3 Lift Equipped Masters 6 (65 – 69 years) 69KG",62,69,65,69,M,112,75,130,325,1,"[""690"",""698"",""706"",""714"",""722"",""730""]",1,2
+"Male 3 Lift Equipped Masters 6 (65 – 69 years) 77KG",69,77,65,69,M,122,80,140,350,1,"[""691"",""699"",""707"",""715"",""723"",""731""]",1,2
+"Male 3 Lift Equipped Masters 6 (65 – 69 years) 85KG",77,85,65,69,M,130,85,150,370,1,"[""692"",""700"",""708"",""716"",""724"",""732""]",1,2
+"Male 3 Lift Equipped Masters 6 (65 – 69 years) 94KG",85,94,65,69,M,180,125,200,500,1,"[""693"",""701"",""709"",""717"",""725"",""733""]",1,2
+"Male 3 Lift Equipped Masters 6 (65 – 69 years) 105KG",94,105,65,69,M,150,95,170,410,1,"[""694"",""702"",""710"",""718"",""726"",""734""]",1,2
+"Male 3 Lift Equipped Masters 6 (65 – 69 years) 120KG",105,120,65,69,M,160,100,175,430,1,"[""695"",""703"",""711"",""719"",""727"",""735""]",1,2
+"Male 3 Lift Equipped Masters 6 (65 – 69 years) 120+KG",120,500,65,69,M,170,105,180,450,1,"[""696"",""704"",""712"",""720"",""728"",""736""]",1,2
+"Male 3 Lift Equipped Masters 7 (70 – 74 years) 62KG",1,62,70,74,M,100,60,110,280,1,"[""689"",""697"",""705"",""713"",""721"",""729"",""737""]",1,2
+"Male 3 Lift Equipped Masters 7 (70 – 74 years) 69KG",62,69,70,74,M,110,65,125,305,1,"[""690"",""698"",""706"",""714"",""722"",""730"",""738""]",1,2
+"Male 3 Lift Equipped Masters 7 (70 – 74 years) 77KG",69,77,70,74,M,115,70,135,325,1,"[""691"",""699"",""707"",""715"",""723"",""731"",""739""]",1,2
+"Male 3 Lift Equipped Masters 7 (70 – 74 years) 85KG",77,85,70,74,M,125,75,145,345,1,"[""692"",""700"",""708"",""716"",""724"",""732"",""740""]",1,2
+"Male 3 Lift Equipped Masters 7 (70 – 74 years) 94KG",85,94,70,74,M,135,85,155,375,1,"[""693"",""701"",""709"",""717"",""725"",""733"",""741""]",1,2
+"Male 3 Lift Equipped Masters 7 (70 – 74 years) 105KG",94,105,70,74,M,142,90,165,395,1,"[""694"",""702"",""710"",""718"",""726"",""734"",""742""]",1,2
+"Male 3 Lift Equipped Masters 7 (70 – 74 years) 120KG",105,120,70,74,M,150,95,170,425,1,"[""695"",""703"",""711"",""719"",""727"",""735"",""743""]",1,2
+"Male 3 Lift Equipped Masters 7 (70 – 74 years) 120+KG",120,500,70,74,M,157,100,175,440,1,"[""696"",""704"",""712"",""720"",""728"",""736"",""744""]",1,2
+"Male 3 Lift Equipped Masters 8 (75 – 79 years) 62KG",1,62,75,79,M,90,55,100,240,1,"[""689"",""697"",""705"",""713"",""721"",""729"",""737"",""745""]",1,2
+"Male 3 Lift Equipped Masters 8 (75 – 79 years) 69KG",62,69,75,79,M,100,60,110,270,1,"[""690"",""698"",""706"",""714"",""722"",""730"",""738"",""746""]",1,2
+"Male 3 Lift Equipped Masters 8 (75 – 79 years) 77KG",69,77,75,79,M,110,65,125,300,1,"[""691"",""699"",""707"",""715"",""723"",""731"",""739"",""747""]",1,2
+"Male 3 Lift Equipped Masters 8 (75 – 79 years) 85KG",77,85,75,79,M,115,72,135,325,1,"[""692"",""700"",""708"",""716"",""724"",""732"",""740"",""748""]",1,2
+"Male 3 Lift Equipped Masters 8 (75 – 79 years) 94KG",85,94,75,79,M,125,82,145,350,1,"[""693"",""701"",""709"",""717"",""725"",""733"",""741"",""749""]",1,2
+"Male 3 Lift Equipped Masters 8 (75 – 79 years) 105KG",94,105,75,79,M,132,85,155,375,1,"[""694"",""702"",""710"",""718"",""726"",""734"",""742"",""750""]",1,2
+"Male 3 Lift Equipped Masters 8 (75 – 79 years) 120KG",105,120,75,79,M,142,90,160,400,1,"[""695"",""703"",""711"",""719"",""727"",""735"",""743"",""751""]",1,2
+"Male 3 Lift Equipped Masters 8 (75 – 79 years) 120+KG",120,500,75,79,M,152,95,165,420,1,"[""696"",""704"",""712"",""720"",""728"",""736"",""744"",""752""]",1,2
+"Male 3 Lift Equipped Masters 9 (80+ years) 62KG",1,62,80,200,M,80,50,95,225,1,"[""689"",""697"",""705"",""713"",""721"",""729"",""737"",""745"",""753""]",1,2
+"Male 3 Lift Equipped Masters 9 (80+ years) 69KG",62,69,80,200,M,85,55,100,240,1,"[""690"",""698"",""706"",""714"",""722"",""730"",""738"",""746"",""754""]",1,2
+"Male 3 Lift Equipped Masters 9 (80+ years) 77KG",69,77,80,200,M,90,60,105,255,1,"[""691"",""699"",""707"",""715"",""723"",""731"",""739"",""747"",""755""]",1,2
+"Male 3 Lift Equipped Masters 9 (80+ years) 85KG",77,85,80,200,M,95,65,110,270,1,"[""692"",""700"",""708"",""716"",""724"",""732"",""740"",""748"",""756""]",1,2
+"Male 3 Lift Equipped Masters 9 (80+ years) 94KG",85,94,80,200,M,102,70,125,295,1,"[""693"",""701"",""709"",""717"",""725"",""733"",""741"",""749"",""757""]",1,2
+"Male 3 Lift Equipped Masters 9 (80+ years) 105KG",94,105,80,200,M,115,75,135,320,1,"[""694"",""702"",""710"",""718"",""726"",""734"",""742"",""750"",""758""]",1,2
+"Male 3 Lift Equipped Masters 9 (80+ years) 120KG",105,120,80,200,M,120,80,145,345,1,"[""695"",""703"",""711"",""719"",""727"",""735"",""743"",""751"",""759""]",1,2
+"Male 3 Lift Equipped Masters 9 (80+ years) 120+KG",120,500,80,200,M,130,85,155,375,1,"[""696"",""704"",""712"",""720"",""728"",""736"",""744"",""752"",""760""]",1,2

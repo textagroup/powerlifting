@@ -55,7 +55,11 @@ A good starting place for setting up a SilverStripe installation is [located her
 
 A load of CSV files have been created which can be imported into the Lifter class model
 admin as entering data via the GUI is time consuming.
-However the overrides will still need to be done manually for now.
+
+There are a couple of full setup files which contain all the lifter classes and their overrides.
+
+One file herokuFullSetup.csv is for Heroku setups using ClearDB which do not have sequential
+primary keys.
 
 # Disclaimer
 
