@@ -2,6 +2,7 @@
 
 namespace Powerlifting;
 
+use SilverStripe\Forms\DropdownField;
 use SilverStripe\ORM\DataObject;
 //use SilverStripe\Versioned\Versioned;
 
@@ -42,6 +43,25 @@ class Result extends DataObject
         'Competition.Title' => 'Competition',
         'Active'
     ];
+
+    public function getCMSFields()
+    {
+        $fields = parent::getCMSFields();
+
+        // Too many objects for LifterClass so Dropdown becomed a numeric field
+        // by default, so setup the field manually
+        $lifterClasses = LifterClass::get()
+            ->filter('Active', 1)
+            ->map('ID', 'Title')
+            ->toArray();
+
+        $lifterClassField = DropdownField::create('LifterClassID', 'Lifter class');
+        $lifterClassField->setSource($lifterClasses);
+
+        $fields->replaceField('LifterClassID', $lifterClassField);
+
+        return $fields;
+    }
 
     public function onAfterWrite()
     {
