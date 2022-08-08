@@ -53,6 +53,9 @@ class Record extends DataObject
     {
         $dateOfLift = strtotime($result->DateOfLift);
         foreach (self::$checkRecords as $checkRecord) {
+            if ($result->$checkRecord == 0) {
+                continue;
+            }
             // need to refetch the current results for each iteration
             // as adding a record in a previous iteration will mean they
             // could already be mout of date
