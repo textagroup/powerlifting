@@ -70,7 +70,7 @@ class Result extends DataObject
             return;
         }
         Record::recordBroken($this, $this->LifterClass());
-        $children = json_decode($this->LifterClass()->Override);
+        $children = $this->LifterClass()->getLifterClassChildren();
         if ($children) {
             foreach ($children as $id) {
                 $class = LifterClass::get_by_id($id);

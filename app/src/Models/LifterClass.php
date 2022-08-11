@@ -268,6 +268,33 @@ class LifterClass extends DataObject
         $fields->replaceField('Override', $tagField);
         return $fields;
     }
+
+    /**
+     * Returns classes that this class can set records for
+     *
+     * @return Array
+     */
+    public function getLifterClassChildren()
+    {
+        $overrides = json_decode($this->Override, true);
+        $lifterClasses = LifterClass::get()
+            ->filter(
+                [
+                    'MinWeight' => $this->MinWeight,
+                    'MaxWeight' => $this->MaxWeight,
+                    'MinAge:LessThanOrEqual' => $this->MinAge,
+                    'Gender' => $this->Gender,
+                    'AffiliationID' => $this->AffiliationID,
+                    'Active' => 1,
+                    'Override' => null,
+                ]
+            )->map('ID', 'ID')
+            ->toArray();
+        $children = (isset($overrides))
+            ? array_merge($lifterClasses, $overrides)
+            : $lifterClasses;
+        return $children;
+    }
 }
 
 

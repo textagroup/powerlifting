@@ -62,6 +62,10 @@ class Record extends DataObject
             $currentRecords = $lifterClass->getCurrentClassResults();
             // if result is equal or greater then the current or standard
             $record = null;
+            // could be bench only so skip squat and deadlift
+            if ($currentRecords[$checkRecord]['Weight'] == 0) {
+                continue;
+            }
             if ($result->$checkRecord >= $currentRecords[$checkRecord]['Weight']) {
                 // if there is an existing record run further checks
                 if ($currentRecords[$checkRecord]['ID'] != 0) {
