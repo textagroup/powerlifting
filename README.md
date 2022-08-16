@@ -61,6 +61,14 @@ There are a couple of full setup files which contain all the lifter classes and 
 One file herokuFullSetup.csv is for Heroku setups using ClearDB which do not have sequential
 primary keys.
 
+A dev task has been created FixHerokuLifterClassIDsTask which will fix the Override IDs for
+ClearDB databases when they are not in sync.
+
+## Record dev task
+
+A dev task has been created to clear all the current records and then recreate
+them from the current results.
+
 # Disclaimer
 
 Some of the data will be wrong for the standards as I used the CDPA records spreadsheet
