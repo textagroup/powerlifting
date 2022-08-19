@@ -1,4 +1,4 @@
 SilverStripe\View\SSViewer:
   themes:
-    - cdpa
+    - themes/cdpa
     - '$default'
