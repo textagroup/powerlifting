@@ -14,6 +14,9 @@
     },
     "extra": {
         "resources-dir": "_resources",
+        "expose": [
+            "themes/cdpa/css"
+        ],
         "project-files-installed": [
             "app/.htaccess",
             "app/_config.php",
