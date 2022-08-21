@@ -3,7 +3,10 @@
 namespace Powerlifting;
 
 use Page;
+use Psr\SimpleCache\CacheInterface;
+use SilverStripe\Core\Injector\Injector;
 use SilverStripe\ORM\DataObject;
+use SilverStripe\ORM\DB;
 use SilverStripe\Forms\ListboxField;
 //use SilverStripe\Versioned\Versioned;
 
@@ -90,36 +93,44 @@ class LifterClass extends DataObject
      */
     public function getCurrentRecords()
     {
-        $results = [];
-        $standards = [
-            'Squat' => $this->StandardSquat,
-            'Bench' => $this->StandardBench,
-            'Deadlift' => $this->StandardDeadlift,
-            'Total' => $this->StandardTotal,
-        ];
-        foreach (Record::$checkRecords as $record) {
-            $obj = Record::get()
-                ->filter([
-                    'Active' => 1,
-                    'RecordType' => $record,
-                    'LifterClassID' => $this->ID,
-                ])->first();
-                if ($obj && $obj->exists()) {
-                    $result = $obj->Result();
-                    $results[$record] = [
-                        'Name' => $result->Lifter()->Title,
-                        'Meet' => $result->Competition()->Title,
-                        'Weight' => $result->$record
-                    ];
-                } else {
-                    $results[$record] = [
-                        'Name' => 'Standard',
-                        'Meet' => '',
-                        'Weight' => $standards[$record]
-                    ];
-                }
+        $lastRecord = DB::query('SELECT MAX(LastEdited) FROM Record')
+            ->value();
+        $cache = Injector::inst()->get(CacheInterface::class . '.lifterClassCache');
+        $key = md5($this->ID . $lastRecord);
+        if (!$cache->has('myCacheKey')) {
+            $standards = [
+                'Squat' => $this->StandardSquat,
+                'Bench' => $this->StandardBench,
+                'Deadlift' => $this->StandardDeadlift,
+                'Total' => $this->StandardTotal,
+            ];
+            foreach (Record::$checkRecords as $record) {
+                $obj = Record::get()
+                    ->filter([
+                        'Active' => 1,
+                        'RecordType' => $record,
+                        'LifterClassID' => $this->ID,
+                    ])->first();
+                    if ($obj && $obj->exists()) {
+                        $result = $obj->Result();
+                        $results[$record] = [
+                            'Name' => $result->Lifter()->Title,
+                            'Meet' => $result->Competition()->Title,
+                            'Weight' => $result->$record
+                        ];
+                    } else {
+                        $results[$record] = [
+                            'Name' => 'Standard',
+                            'Meet' => '',
+                            'Weight' => $standards[$record]
+                        ];
+                    }
+            }
+            $cache->set($key, $results);
+            return $results;
+        } else {
+            return $cache->get($key);
         }
-        return $results;
     }
 
     /**

@@ -1,4 +1,9 @@
 SilverStripe\View\SSViewer:
   themes:
-    - themes/cdpa
+    - 'cdpa'
     - '$default'
+SilverStripe\Core\Injector\Injector:
+  Psr\SimpleCache\CacheInterface.lifterClassCache:
+    factory: SilverStripe\Core\Cache\CacheFactory
+    constructor:
+      namespace: "lifterClassCache"
