@@ -64,7 +64,7 @@
 
             <% loop $RecordTables %>
                 <tr>
-                    <td>$MaxWeight</td>
+                    <td>$LifterWeightClass</td>
                     <td>$SquatRecordHolder</td>
                     <td>$SquatRecordMeet</td>
                     <td>$SquatRecordWeight</td>

@@ -306,6 +306,19 @@ class LifterClass extends DataObject
             : $lifterClasses;
         return $children;
     }
+
+    /**
+     * Returns Lifter weight class
+     *
+     * @return String
+     */
+    public function getLifterWeightClass()
+    {
+        if ($this->MaxWeight > 200) {
+            return $this->MinWeight . '+';
+        }
+        return $this->MaxWeight;
+    }
 }
 
 
