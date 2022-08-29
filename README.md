@@ -82,7 +82,7 @@ PHPUnit tests would be good
 
 A task to check results from openpowerlifting and notify of corrections or updates
 
-A task to clear the records or reset them
+Need to add responsive tables for mobiles
 
 Get the history UI working for versioned records
 
