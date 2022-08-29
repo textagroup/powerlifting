@@ -40,10 +40,29 @@ namespace {
             return $fields;
         }
 
-        public function RecordTables()
+        public function getRecordTables()
         {
             return $this->getManyManyComponents('RecordTables')
                 ->sort('SortOrder');
+        }
+
+        /**
+         * Check if the record is for bench only
+         *
+         * @return int
+         */
+        public function getIsBenchOnly()
+        {
+            $recordTables = $this->getRecordTables();
+            foreach ($recordTables as $recordTable) {
+                if ($recordTable->StandardSquat > 0) {
+                    return 0;
+                }
+                if ($recordTable->StandardDeadlift > 0) {
+                    return 0;
+                }
+            }
+            return 1;
         }
     }
 }
