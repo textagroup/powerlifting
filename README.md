@@ -82,8 +82,6 @@ PHPUnit tests would be good
 
 A task to check results from openpowerlifting and notify of corrections or updates
 
-Need to add responsive tables for mobiles
-
 Get the history UI working for versioned records
 
 Setup National and international classes so that national and international records can be stored
