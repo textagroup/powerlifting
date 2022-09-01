@@ -272,7 +272,8 @@ class LifterClass extends DataObject
         $tagField = ListboxField::create(
             'Override',
             'Override',
-            LifterClass::get()->filter('Active', 1)->exclude('ID', $this->ID)
+            LifterClass::get()->filter('Active', 1)
+                ->exclude('ID', $this->ID)
                 ->map('ID', 'Title'),
             explode(',', $this->Override)
         );
@@ -288,6 +289,7 @@ class LifterClass extends DataObject
     public function getLifterClassChildren()
     {
         $overrides = json_decode($this->Override, true);
+        $liftType = $this->LiftType();
         $lifterClasses = LifterClass::get()
             ->filter(
                 [
@@ -299,8 +301,18 @@ class LifterClass extends DataObject
                     'Active' => 1,
                     'Override' => null,
                 ]
-            )->map('ID', 'ID')
-            ->toArray();
+            );
+
+        if ($liftType->ExcludeLiftTypes) {
+            $lifterClasses =
+                $lifterClasses->exclude('LiftTypeID',
+                    json_decode($liftType->ExcludeLiftTypes, true)
+                );
+        }
+
+        $lifterClasses = $lifterClasses
+          ->map('ID', 'ID')
+          ->toArray();
         $children = (isset($overrides))
             ? array_merge($lifterClasses, $overrides)
             : $lifterClasses;
