@@ -15,12 +15,23 @@ class ClearAndResetRecordsTask extends BuildTask
         'the results and set them up again';
     
     public function run($request) {
+        $truncateOnly = $request->getVar('truncate');
+        $liftType = $request->getVar('liftType');
+
+        $filter['Active'] = 1;
         // truncate current records
-        DB::query('TRUNCATE Record');
+        if ($liftType) {
+            $filter['LiftTypeID'] = (int)$liftType;
+        } else {
+            DB::query('TRUNCATE Record');
+        }
+        if ($truncateOnly) {
+            return;
+        }
 
         // get all the results ordered by oldest date first
         $results = Result::get()
-            ->filter('Active', 1)
+            ->filter($filter)
             ->sort('DateOfLift', 'ASC');
 
         // loop resutls and check if records need to be set
