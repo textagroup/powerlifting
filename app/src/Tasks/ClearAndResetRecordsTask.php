@@ -34,7 +34,10 @@ class ClearAndResetRecordsTask extends BuildTask
         if ($liftType) {
             $filter['LiftTypeID'] = (int)$liftType;
         } else {
-            DB::query('TRUNCATE Record');
+            // do not truncate if we processing in sections
+            if (!$fromID && !$limit) {
+                DB::query('TRUNCATE Record');
+            }
         }
         if ($truncateOnly) {
             return;
