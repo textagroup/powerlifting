@@ -27,6 +27,7 @@ class Record extends DataObject
 
     private static $summary_fields = [
         'Result.Lifter.Title' => 'Title',
+        'Result.Competition.Title' => 'Competition',
         'LifterClass.Title' => 'Class',
         'RecordType' => 'Record',
         'Weight' => 'Weight',
