@@ -1,0 +1,67 @@
+Powerlifting\Affiliation:
+  testAffiliation: 
+    Title: 'Test Affiliation'
+    Description: 'PHPUnit test affiliation'
+    Active: 1
+Powerlifting\Region:
+  testRegion: 
+    Title: 'Test Region'
+    Description: 'PHPUnit test region'
+    Active: 1
+Powerlifting\Competition:
+  testCompetition: 
+    Title: 'Test Competition'
+    Description: 'PHPUnit test competition'
+    Active: 1
+    AffiliationID: =>Powerlifting\Affiliation.testAffiliation
+    RegiononID: =>Powerlifting\Region.testRegion
+Powerlifting\LiftType:
+  testLiftType:
+    Title: 'Test LiftType'
+    Description: 'PHPUnit test LifterType'
+    Active: 1
+Powerlifting\LifterClass:
+  testLifterClassOpen:
+    Title: '94KG Open Male Raw'
+    MinWeight: 85
+    MaxWeight: 94
+    MinAge: 24
+    MaxAge: 39
+    Gender: 'M'
+    StandardSquat: 180
+    StandardBench: 140
+    StandardDeadlift: 230
+    StandardTotal: 550
+    Active: 1
+    LiftTypeID: =>Powerlifting\LiftType.testLiftType
+    AffiliationID: =>Powerlifting\Affiliation.testAffiliation
+  testLifterClassMaster:
+    Title: '94KG Master 1 Male Raw'
+    MinWeight: 85
+    MaxWeight: 94
+    MinAge: 40
+    MaxAge: 45
+    Gender: 'M'
+    StandardSquat: 160
+    StandardBench: 120
+    StandardDeadlift: 210
+    StandardTotal: 490
+    Active: 1
+    LiftTypeID: =>Powerlifting\LiftType.testLiftType
+    AffiliationID: =>Powerlifting\Affiliation.testAffiliation
+Powerlifting\Lifter:
+  lifterOpen1:
+    Title: 'Open lifter 1'
+    Gender: 'M'
+    DateOfBirth: '01-01-1992'
+    Active: 1
+  lifterOpen2:
+    Title: 'Open lifter 2'
+    Gender: 'M'
+    DateOfBirth: '01-01-1991'
+    Active: 1
+  lifterMaster1:
+    Title: 'Master lifter 1'
+    Gender: 'M'
+    DateOfBirth: '01-01-1982'
+    Active: 1

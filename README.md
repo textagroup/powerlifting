@@ -78,8 +78,6 @@ where I have just guessed the correct standard.
 
 # TODO / Ideas
 
-PHPUnit tests would be good
-
 A task to check results from openpowerlifting and notify of corrections or updates
 
 Get the history UI working for versioned records
