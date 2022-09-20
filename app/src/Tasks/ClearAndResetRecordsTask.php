@@ -63,7 +63,7 @@ class ClearAndResetRecordsTask extends BuildTask
         $setRecords = [];
         foreach ($results as $result) {
             $children = $result->LifterClass()->getLifterClassChildren();
-            self::recordBroken($result, $class, $currentRecords[$id], $setRecords);
+            self::recordBroken($result, $result->LifterClass(), $currentRecords[$id], $setRecords);
             if ($children) {
                 foreach ($children as $id) {
                     $class = LifterClass::get_by_id($id);
