@@ -58,14 +58,84 @@ class ClearAndResetRecordsTask extends BuildTask
                 ->sort('DateOfLift', 'ASC');
         }
 
-        // loop resutls and check if records need to be set
+        // loop results and check if records need to be set
+        $currentRecords = [];
+        $setRecords = [];
         foreach ($results as $result) {
-            Record::recordBroken($result, $result->LifterClass());
             $children = $result->LifterClass()->getLifterClassChildren();
+            self::recordBroken($result, $class, $currentRecords[$id], $setRecords);
             if ($children) {
                 foreach ($children as $id) {
                     $class = LifterClass::get_by_id($id);
-                    Record::recordBroken($result, $class);
+                    if (!isset($currentRecords[$id])) {
+                        $currentRecords[$id] = $class->getCurrentClassResults();
+                    }
+                    self::recordBroken($result, $class, $currentRecords[$id], $setRecords);
+                }
+            }
+        }
+        foreach (Record::$checkRecords as $checkRecord) {
+            foreach ($setRecords[$checkRecord] as $id => $setRecord) {
+                $record = new Record();
+                $record->RecordType = $checkRecord;
+                $record->Active = 1;
+                $record->ResultID = $setRecord['Result'];
+                $record->LifterClassID = $id;
+                $record->write();
+            }
+        }
+    }
+
+    /**
+     * Takes a result and checks it against a lifter class to see if it
+     * constitues a record lift or total
+     *
+     * @param Result $result
+     * @param LifterClass $lifterClass
+     * @param array $currentRecords
+     * @param array $setRecords
+     *
+     * @return void
+     */
+    public static function recordBroken($result, $lifterClass, &$currentRecords, &$setRecords)
+    {
+        $dateOfLift = strtotime($result->DateOfLift);
+        foreach (Record::$checkRecords as $checkRecord) {
+            if ($result->$checkRecord == 0) {
+                continue;
+            }
+            // if result is equal or greater then the current or standard
+            $record = null;
+            // could be bench only so skip squat and deadlift
+            if ($currentRecords[$checkRecord]['Weight'] == 0) {
+                continue;
+            }
+            if ($result->$checkRecord >= $currentRecords[$checkRecord]['Weight']) {
+                // if there is an existing record run further checks
+                if ($currentRecords[$checkRecord]['ID'] != 0) {
+                    // if weight equals the record check which one came first
+                    if ($result->$checkRecord == $currentRecords[$checkRecord]['Weight']) {
+                        if ($dateOfLift > $currentRecords[$checkRecord]['Time']) {
+                            continue;
+                        }
+                    }
+                }
+                $currentRecords[$checkRecord]['Weight'];
+                $currentRecords[$checkRecord]['Time'];
+                $add = false;
+                if (isset($setRecords[$checkRecord][$lifterClass->ID])) {
+                    $weight = $setRecords[$checkRecord][$lifterClass->ID]['Weight'];
+                    if ($result->$checkRecord >= $weight) {
+                        $add = true;
+                    }
+                } else {
+                    $add = true;
+                }
+                if ($add) {
+                    $setRecords[$checkRecord][$lifterClass->ID] = [
+                        'Weight' => $result->$checkRecord,
+                        'Result' => $result->ID,
+                    ];
                 }
             }
         }
